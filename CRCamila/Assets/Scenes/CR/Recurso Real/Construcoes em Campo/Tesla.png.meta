@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: eaddddbcc278c9846b20de5f715bcf04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3609679208278219701
+    second: Tesla_0
+  - first:
+      213: -8023167633603010030
+    second: Tesla_1
+  - first:
+      213: -3181988111524191222
+    second: Tesla_2
+  - first:
+      213: 1022132112101594886
+    second: Tesla_3
+  - first:
+      213: -1916931978516935111
+    second: Tesla_4
+  - first:
+      213: -5027142828535910147
+    second: Tesla_5
+  - first:
+      213: -7463031775321798237
+    second: Tesla_6
+  - first:
+      213: -2547828434796322752
+    second: Tesla_7
+  - first:
+      213: 289075086116127277
+    second: Tesla_8
+  - first:
+      213: 6955690933905378738
+    second: Tesla_9
+  - first:
+      213: 2269995912910435306
+    second: Tesla_10
+  - first:
+      213: -8657093473412229741
+    second: Tesla_11
+  - first:
+      213: 169109544809784279
+    second: Tesla_12
+  - first:
+      213: -3708526255961298012
+    second: Tesla_13
+  - first:
+      213: 2696830358038069123
+    second: Tesla_14
+  - first:
+      213: 1732446148802567872
+    second: Tesla_15
+  - first:
+      213: -1809903934260458560
+    second: Tesla_16
+  - first:
+      213: -6766205653904832718
+    second: Tesla_17
+  - first:
+      213: -3883923093818595750
+    second: Tesla_18
+  - first:
+      213: -28473489197753217
+    second: Tesla_19
+  - first:
+      213: -3652943246864876363
+    second: Tesla_20
+  - first:
+      213: 5985028135480250799
+    second: Tesla_21
+  - first:
+      213: 4506351736458769264
+    second: Tesla_22
+  - first:
+      213: -3632554162454485910
+    second: Tesla_23
+  - first:
+      213: -677443566634993642
+    second: Tesla_24
+  - first:
+      213: -2965779323333374503
+    second: Tesla_25
+  - first:
+      213: -4814478346032768932
+    second: Tesla_26
+  - first:
+      213: -1135680037948028375
+    second: Tesla_27
+  - first:
+      213: -2946783442493485977
+    second: Tesla_28
+  - first:
+      213: 4235222955819235431
+    second: Tesla_29
+  - first:
+      213: -1900570906193456090
+    second: Tesla_30
+  - first:
+      213: 957357585089329251
+    second: Tesla_31
+  - first:
+      213: -1597563798332779400
+    second: Tesla_32
+  - first:
+      213: 8217354034837521887
+    second: Tesla_33
+  - first:
+      213: 7168507319936304543
+    second: Tesla_34
+  - first:
+      213: -873630526263738882
+    second: Tesla_35
+  - first:
+      213: 1622453377648880941
+    second: Tesla_36
+  - first:
+      213: 1074734139548184930
+    second: Tesla_37
+  - first:
+      213: -5882507325338385048
+    second: Tesla_38
+  - first:
+      213: 1297937764065531515
+    second: Tesla_39
+  - first:
+      213: 1894629070554395363
+    second: Tesla_40
+  - first:
+      213: -8137453624232873592
+    second: Tesla_41
+  - first:
+      213: 7090984604248018983
+    second: Tesla_42
+  - first:
+      213: -5783239026432212119
+    second: Tesla_43
+  - first:
+      213: 7291918072171147374
+    second: Tesla_44
+  - first:
+      213: 7956977006412145321
+    second: Tesla_45
+  - first:
+      213: -3232435585995829531
+    second: Tesla_46
+  - first:
+      213: -7348764768630034446
+    second: Tesla_47
+  - first:
+      213: 2542022298845226747
+    second: Tesla_48
+  - first:
+      213: 754216098546743951
+    second: Tesla_49
+  - first:
+      213: 8559497050986975802
+    second: Tesla_50
+  - first:
+      213: -1836230039958286965
+    second: Tesla_51
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tesla_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 147
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44a67d82e7d7edc0800000000000000
+      internalID: -3609679208278219701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 302
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126ea9bb8bf7a090800000000000000
+      internalID: -8023167633603010030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 320
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04a515ebae47d3d0800000000000000
+      internalID: -3181988111524191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d55f8db75f2e00800000000000000
+      internalID: 1022132112101594886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e49e99580b565e0800000000000000
+      internalID: -1916931978516935111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 99
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f6fd7b300c3ab0800000000000000
+      internalID: -5027142828535910147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9cd74242cfd6890800000000000000
+      internalID: -7463031775321798237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 261
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040635b998b44acd0800000000000000
+      internalID: -2547828434796322752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 99
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d220e5d5240030400800000000000000
+      internalID: 289075086116127277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 227
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc5d23d04978060800000000000000
+      internalID: 6955690933905378738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 247
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37d9e7145a08f10800000000000000
+      internalID: 2269995912910435306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 218
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39559e96a53dbd780800000000000000
+      internalID: -8657093473412229741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 186
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e38a2c3cc85200800000000000000
+      internalID: 169109544809784279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba731d40ba88cc0800000000000000
+      internalID: -3708526255961298012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 108
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f39561ce01d6520800000000000000
+      internalID: 2696830358038069123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cededbe792ea0810800000000000000
+      internalID: 1732446148802567872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 191
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbc2d806fde1e6e0800000000000000
+      internalID: -1809903934260458560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23743c18ecb9912a0800000000000000
+      internalID: -6766205653904832718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 108
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a10a2688891ac0800000000000000
+      internalID: -3883923093818595750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1ade2387da9ff0800000000000000
+      internalID: -28473489197753217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 166
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf4f998732e4dc0800000000000000
+      internalID: -3652943246864876363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d40211671f0350800000000000000
+      internalID: 5985028135480250799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f6945707c98e30800000000000000
+      internalID: 4506351736458769264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 150
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a88f3c33969dc0800000000000000
+      internalID: -3632554162454485910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 134
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f8575aac3996f0800000000000000
+      internalID: -677443566634993642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 138
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd04863b6f67d6d0800000000000000
+      internalID: -2965779323333374503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 112
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5818e5d3798f2db0800000000000000
+      internalID: -4814478346032768932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 69
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a0b97c5014d30f0800000000000000
+      internalID: -1135680037948028375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c4c20621cea17d0800000000000000
+      internalID: -2946783442493485977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687f22d6d886ca30800000000000000
+      internalID: 4235222955819235431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62495e994d0df95e0800000000000000
+      internalID: -1900570906193456090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368764eb6a7394d00800000000000000
+      internalID: 957357585089329251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d95e803054d9e0800000000000000
+      internalID: -1597563798332779400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd50d1015f7e90270800000000000000
+      internalID: 8217354034837521887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 28
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9547965d67ab7360800000000000000
+      internalID: 7168507319936304543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbc114aad30e3f0800000000000000
+      internalID: -873630526263738882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de46730cc148610800000000000000
+      internalID: 1622453377648880941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 25
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26131c771093aee00800000000000000
+      internalID: 1074734139548184930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865829421c22d5ea0800000000000000
+      internalID: -5882507325338385048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 47
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d0b70583330210800000000000000
+      internalID: 1297937764065531515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f58bf9131b4a10800000000000000
+      internalID: 1894629070554395363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817267fa05f11f80800000000000000
+      internalID: -8137453624232873592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72097fb8dec386260800000000000000
+      internalID: 7090984604248018983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 8
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96305521fbecdbfa0800000000000000
+      internalID: -5783239026432212119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6033073ad8123560800000000000000
+      internalID: 7291918072171147374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a521fd6cdc6e60800000000000000
+      internalID: 7956977006412145321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee0361f5f41423d0800000000000000
+      internalID: -3232435585995829531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffa6ebd061f30a90800000000000000
+      internalID: -7348764768630034446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6aac500d3174320800000000000000
+      internalID: 2542022298845226747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a72cdab83877a00800000000000000
+      internalID: 754216098546743951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32151cb73179c670800000000000000
+      internalID: 8559497050986975802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tesla_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8266e1866486e0800000000000000
+      internalID: -1836230039958286965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tesla_0: -3609679208278219701
+      Tesla_1: -8023167633603010030
+      Tesla_10: 2269995912910435306
+      Tesla_11: -8657093473412229741
+      Tesla_12: 169109544809784279
+      Tesla_13: -3708526255961298012
+      Tesla_14: 2696830358038069123
+      Tesla_15: 1732446148802567872
+      Tesla_16: -1809903934260458560
+      Tesla_17: -6766205653904832718
+      Tesla_18: -3883923093818595750
+      Tesla_19: -28473489197753217
+      Tesla_2: -3181988111524191222
+      Tesla_20: -3652943246864876363
+      Tesla_21: 5985028135480250799
+      Tesla_22: 4506351736458769264
+      Tesla_23: -3632554162454485910
+      Tesla_24: -677443566634993642
+      Tesla_25: -2965779323333374503
+      Tesla_26: -4814478346032768932
+      Tesla_27: -1135680037948028375
+      Tesla_28: -2946783442493485977
+      Tesla_29: 4235222955819235431
+      Tesla_3: 1022132112101594886
+      Tesla_30: -1900570906193456090
+      Tesla_31: 957357585089329251
+      Tesla_32: -1597563798332779400
+      Tesla_33: 8217354034837521887
+      Tesla_34: 7168507319936304543
+      Tesla_35: -873630526263738882
+      Tesla_36: 1622453377648880941
+      Tesla_37: 1074734139548184930
+      Tesla_38: -5882507325338385048
+      Tesla_39: 1297937764065531515
+      Tesla_4: -1916931978516935111
+      Tesla_40: 1894629070554395363
+      Tesla_41: -8137453624232873592
+      Tesla_42: 7090984604248018983
+      Tesla_43: -5783239026432212119
+      Tesla_44: 7291918072171147374
+      Tesla_45: 7956977006412145321
+      Tesla_46: -3232435585995829531
+      Tesla_47: -7348764768630034446
+      Tesla_48: 2542022298845226747
+      Tesla_49: 754216098546743951
+      Tesla_5: -5027142828535910147
+      Tesla_50: 8559497050986975802
+      Tesla_51: -1836230039958286965
+      Tesla_6: -7463031775321798237
+      Tesla_7: -2547828434796322752
+      Tesla_8: 289075086116127277
+      Tesla_9: 6955690933905378738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

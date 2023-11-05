@@ -1,0 +1,1787 @@
+fileFormatVersion: 2
+guid: 815978a1f126e3a458fe6f9e11030868
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8642734949510635747
+    second: Confetes_0
+  - first:
+      213: 7672860615678515383
+    second: Confetes_1
+  - first:
+      213: -4894104877843211227
+    second: Confetes_2
+  - first:
+      213: -7053319615737141214
+    second: Confetes_3
+  - first:
+      213: 5810119827739607514
+    second: Confetes_4
+  - first:
+      213: -4843796490382476093
+    second: Confetes_5
+  - first:
+      213: 5712331000234864420
+    second: Confetes_6
+  - first:
+      213: -8703165924845664286
+    second: Confetes_7
+  - first:
+      213: 3262636127263340302
+    second: Confetes_8
+  - first:
+      213: 3134719042941133878
+    second: Confetes_9
+  - first:
+      213: 1289646874890067101
+    second: Confetes_10
+  - first:
+      213: 7454924916417920431
+    second: Confetes_11
+  - first:
+      213: 8138387240373573258
+    second: Confetes_12
+  - first:
+      213: 5703265970713896495
+    second: Confetes_13
+  - first:
+      213: 2841573811942085971
+    second: Confetes_14
+  - first:
+      213: -7745986621399039381
+    second: Confetes_15
+  - first:
+      213: 6257856869575415674
+    second: Confetes_16
+  - first:
+      213: -1402328302275813082
+    second: Confetes_17
+  - first:
+      213: 4888804670306748244
+    second: Confetes_18
+  - first:
+      213: 8904462754875307729
+    second: Confetes_19
+  - first:
+      213: -8382543291334557996
+    second: Confetes_20
+  - first:
+      213: 8902324656852087702
+    second: Confetes_21
+  - first:
+      213: -7326192132188616381
+    second: Confetes_22
+  - first:
+      213: 88030400956748694
+    second: Confetes_23
+  - first:
+      213: 1759865622247807987
+    second: Confetes_24
+  - first:
+      213: 5268511750492317741
+    second: Confetes_25
+  - first:
+      213: 8612699356221817928
+    second: Confetes_26
+  - first:
+      213: -4901930517211799287
+    second: Confetes_27
+  - first:
+      213: 6475275301205165517
+    second: Confetes_28
+  - first:
+      213: -8964567308872594743
+    second: Confetes_29
+  - first:
+      213: -75071988834177843
+    second: Confetes_30
+  - first:
+      213: -3423224413258019175
+    second: Confetes_31
+  - first:
+      213: -7419915072453812268
+    second: Confetes_32
+  - first:
+      213: 8797097560899212701
+    second: Confetes_33
+  - first:
+      213: -3065746605357961142
+    second: Confetes_34
+  - first:
+      213: -4492665942768477728
+    second: Confetes_35
+  - first:
+      213: -3463603781833066033
+    second: Confetes_36
+  - first:
+      213: -116797888550007856
+    second: Confetes_37
+  - first:
+      213: -5765933834046486733
+    second: Confetes_38
+  - first:
+      213: 4611297603248621168
+    second: Confetes_39
+  - first:
+      213: -2459298957885468216
+    second: Confetes_40
+  - first:
+      213: 3327478112495637500
+    second: Confetes_41
+  - first:
+      213: -340748037782917591
+    second: Confetes_42
+  - first:
+      213: 7771945361719865240
+    second: Confetes_43
+  - first:
+      213: 3667087089444068040
+    second: Confetes_44
+  - first:
+      213: 170651651280496803
+    second: Confetes_45
+  - first:
+      213: 5460489123346421666
+    second: Confetes_46
+  - first:
+      213: -8017065837237101173
+    second: Confetes_47
+  - first:
+      213: -991557758798550711
+    second: Confetes_48
+  - first:
+      213: -6408311923511926155
+    second: Confetes_49
+  - first:
+      213: 5563308891035740365
+    second: Confetes_50
+  - first:
+      213: -1903188288138318611
+    second: Confetes_51
+  - first:
+      213: -2069685884720580836
+    second: Confetes_52
+  - first:
+      213: -7528914700991427014
+    second: Confetes_53
+  - first:
+      213: -8100291742567722289
+    second: Confetes_54
+  - first:
+      213: 5483686666028464588
+    second: Confetes_55
+  - first:
+      213: -3732810105224929068
+    second: Confetes_56
+  - first:
+      213: -2869007582832023387
+    second: Confetes_57
+  - first:
+      213: 8956590636690699114
+    second: Confetes_58
+  - first:
+      213: -8296374432503292625
+    second: Confetes_59
+  - first:
+      213: 3772140856506828340
+    second: Confetes_60
+  - first:
+      213: 2844116162236562548
+    second: Confetes_61
+  - first:
+      213: -2384402037547216694
+    second: Confetes_62
+  - first:
+      213: -4412302225027843967
+    second: Confetes_63
+  - first:
+      213: -7283000404855925196
+    second: Confetes_64
+  - first:
+      213: -6428657452442857037
+    second: Confetes_65
+  - first:
+      213: -5574752328748717363
+    second: Confetes_66
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Confetes_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1045
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f9096ca56de0880800000000000000
+      internalID: -8642734949510635747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1025
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85a90d31a7b7a60800000000000000
+      internalID: 7672860615678515383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1028
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c16ae2b85a41cb0800000000000000
+      internalID: -4894104877843211227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 965
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22861b8fd239d1e90800000000000000
+      internalID: -7053319615737141214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1005
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad18fd23331b1a050800000000000000
+      internalID: 5810119827739607514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 957
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf77a61c067ccb0800000000000000
+      internalID: -4843796490382476093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_6
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 925
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f637c87c6464f40800000000000000
+      internalID: 5712331000234864420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_7
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 833
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74a44e3b4283780800000000000000
+      internalID: -8703165924845664286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 778
+        width: 108
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0733e48546374d20800000000000000
+      internalID: 3262636127263340302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 931
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634a8217c52c08b20800000000000000
+      internalID: 3134719042941133878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 896
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd387fffeb5e110800000000000000
+      internalID: 1289646874890067101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_11
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 937
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad7c4ea6b6357760800000000000000
+      internalID: 7454924916417920431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 894
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d90b731c51f070800000000000000
+      internalID: 8138387240373573258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 753
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a9f3ee22162f40800000000000000
+      internalID: 5703265970713896495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 775
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555cdf935c4f6720800000000000000
+      internalID: 2841573811942085971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 819
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b620594353ab08490800000000000000
+      internalID: -7745986621399039381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_16
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 813
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d746daaf58d650800000000000000
+      internalID: 6257856869575415674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_17
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 734
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621af54c6dde98ce0800000000000000
+      internalID: -1402328302275813082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45787e512f588d340800000000000000
+      internalID: 4888804670306748244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 713
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f90c92b1039b70800000000000000
+      internalID: 8904462754875307729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 561
+        width: 244
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de7ba50a493bab80800000000000000
+      internalID: -8382543291334557996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_21
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 757
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693bededb196b8b70800000000000000
+      internalID: 8902324656852087702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_22
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 674
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c2a45213245a90800000000000000
+      internalID: -7326192132188616381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_23
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 671
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693567aee2fb83100800000000000000
+      internalID: 88030400956748694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_24
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 639
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9082957c4c6810800000000000000
+      internalID: 1759865622247807987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_25
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 714
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e017f5838d1940800000000000000
+      internalID: 5268511750492317741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 617
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84446d4be64768770800000000000000
+      internalID: 8612699356221817928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_27
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 662
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901a1f78a28d8fbb0800000000000000
+      internalID: -4901930517211799287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_28
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 617
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c137349cccd950800000000000000
+      internalID: 6475275301205165517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac1956785779380800000000000000
+      internalID: -8964567308872594743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 595
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcce4f48c6a45fef0800000000000000
+      internalID: -75071988834177843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 534
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e8f4d78834e70d0800000000000000
+      internalID: -3423224413258019175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_32
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 540
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd2d2dd8a270990800000000000000
+      internalID: -7419915072453812268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 562
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955ad36f91951a70800000000000000
+      internalID: 8797097560899212701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_34
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 550
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40774894b74475d0800000000000000
+      internalID: -3065746605357961142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_35
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 553
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e91ac2d028d6a1c0800000000000000
+      internalID: -4492665942768477728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 483
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f32d16beceefc0800000000000000
+      internalID: -3463603781833066033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 359
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db067e60fc016ef0800000000000000
+      internalID: -116797888550007856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 476
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c0472ab94bffa0800000000000000
+      internalID: -5765933834046486733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 464
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0768e3b0dbe9eff30800000000000000
+      internalID: 4611297603248621168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 452
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19fb2b0a0deddd0800000000000000
+      internalID: -2459298957885468216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_41
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 413
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3903da6b39d2e20800000000000000
+      internalID: 3327478112495637500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_42
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 341
+        width: 186
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea90a077b654bf0800000000000000
+      internalID: -340748037782917591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_43
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 491
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fae03012f7bdb60800000000000000
+      internalID: 7771945361719865240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 360
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1cbe574c14e230800000000000000
+      internalID: 3667087089444068040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_45
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 354
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a868eec5c64e5200800000000000000
+      internalID: 170651651280496803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_46
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 300
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a792f04ded87cb40800000000000000
+      internalID: 5460489123346421666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 280
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1096e819adb090800000000000000
+      internalID: -8017065837237101173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_48
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 299
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a78cc8774d32f0800000000000000
+      internalID: -991557758798550711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 229
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572eb2d124a1117a0800000000000000
+      internalID: -6408311923511926155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_50
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 207
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc825f1f5f7d43d40800000000000000
+      internalID: 5563308891035740365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_51
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 240
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece4d0e5548695e0800000000000000
+      internalID: -1903188288138318611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 174
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f69c47aff643e0800000000000000
+      internalID: -2069685884720580836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 130
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e803728fbe38790800000000000000
+      internalID: -7528914700991427014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 155
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2983bc39bf59f80800000000000000
+      internalID: -8100291742567722289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_55
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93c2c08f7f91c40800000000000000
+      internalID: 5483686666028464588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_56
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 174
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d064109cf4623cc0800000000000000
+      internalID: -3732810105224929068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_57
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 161
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a82567ddcc3f28d0800000000000000
+      internalID: -2869007582832023387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f982eab33c4c70800000000000000
+      internalID: 8956590636690699114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_59
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 38
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d1203e86b5ddc80800000000000000
+      internalID: -8296374432503292625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_60
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 102
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436c3d29f16595430800000000000000
+      internalID: 3772140856506828340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 17
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbe0ea494587720800000000000000
+      internalID: 2844116162236562548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0d74edaf6e8eed0800000000000000
+      internalID: -2384402037547216694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 63
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188bc83f08a54c2c0800000000000000
+      internalID: -4412302225027843967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_64
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 34
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436598108b59dea90800000000000000
+      internalID: -7283000404855925196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d9748b12d8c6a0800000000000000
+      internalID: -6428657452442857037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Confetes_66
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa6261b4082a2b0800000000000000
+      internalID: -5574752328748717363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Confetes_0: -8642734949510635747
+      Confetes_1: 7672860615678515383
+      Confetes_10: 1289646874890067101
+      Confetes_11: 7454924916417920431
+      Confetes_12: 8138387240373573258
+      Confetes_13: 5703265970713896495
+      Confetes_14: 2841573811942085971
+      Confetes_15: -7745986621399039381
+      Confetes_16: 6257856869575415674
+      Confetes_17: -1402328302275813082
+      Confetes_18: 4888804670306748244
+      Confetes_19: 8904462754875307729
+      Confetes_2: -4894104877843211227
+      Confetes_20: -8382543291334557996
+      Confetes_21: 8902324656852087702
+      Confetes_22: -7326192132188616381
+      Confetes_23: 88030400956748694
+      Confetes_24: 1759865622247807987
+      Confetes_25: 5268511750492317741
+      Confetes_26: 8612699356221817928
+      Confetes_27: -4901930517211799287
+      Confetes_28: 6475275301205165517
+      Confetes_29: -8964567308872594743
+      Confetes_3: -7053319615737141214
+      Confetes_30: -75071988834177843
+      Confetes_31: -3423224413258019175
+      Confetes_32: -7419915072453812268
+      Confetes_33: 8797097560899212701
+      Confetes_34: -3065746605357961142
+      Confetes_35: -4492665942768477728
+      Confetes_36: -3463603781833066033
+      Confetes_37: -116797888550007856
+      Confetes_38: -5765933834046486733
+      Confetes_39: 4611297603248621168
+      Confetes_4: 5810119827739607514
+      Confetes_40: -2459298957885468216
+      Confetes_41: 3327478112495637500
+      Confetes_42: -340748037782917591
+      Confetes_43: 7771945361719865240
+      Confetes_44: 3667087089444068040
+      Confetes_45: 170651651280496803
+      Confetes_46: 5460489123346421666
+      Confetes_47: -8017065837237101173
+      Confetes_48: -991557758798550711
+      Confetes_49: -6408311923511926155
+      Confetes_5: -4843796490382476093
+      Confetes_50: 5563308891035740365
+      Confetes_51: -1903188288138318611
+      Confetes_52: -2069685884720580836
+      Confetes_53: -7528914700991427014
+      Confetes_54: -8100291742567722289
+      Confetes_55: 5483686666028464588
+      Confetes_56: -3732810105224929068
+      Confetes_57: -2869007582832023387
+      Confetes_58: 8956590636690699114
+      Confetes_59: -8296374432503292625
+      Confetes_6: 5712331000234864420
+      Confetes_60: 3772140856506828340
+      Confetes_61: 2844116162236562548
+      Confetes_62: -2384402037547216694
+      Confetes_63: -4412302225027843967
+      Confetes_64: -7283000404855925196
+      Confetes_65: -6428657452442857037
+      Confetes_66: -5574752328748717363
+      Confetes_7: -8703165924845664286
+      Confetes_8: 3262636127263340302
+      Confetes_9: 3134719042941133878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

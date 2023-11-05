@@ -1,0 +1,69 @@
+[
+    {
+        "ArenaIndex" : 0,
+        "ArenaTitle" : "Entrenamiento",
+        "TrophiesAmout" : 0,
+        "UnlockedCards" : [0,1,2,3,4,5,6,7]
+    },
+    {
+        "ArenaIndex" : 1,
+        "ArenaTitle" : "Estadio Duende",
+        "TrophiesAmout" : 0,
+        "UnlockedCards" : [0,1,2]
+    },
+    {
+        "ArenaIndex" : 2,
+        "ArenaTitle" : "Foso de Huesos",
+        "TrophiesAmout" : 300,
+        "UnlockedCards" : [0,1,2,3,4]
+    },
+    {
+        "ArenaIndex" : 3,
+        "ArenaTitle" : "Coliseo Barbaro",
+        "TrophiesAmout" : 600,
+        "UnlockedCards" : [0,1,2,3,4,5]
+    },
+    {
+        "ArenaIndex" : 4,
+        "ArenaTitle" : "Fuerte de la P.E.K.K.A.",
+        "TrophiesAmout" : 1000,
+        "UnlockedCards" : [0,1,2,3,4,5,6]
+    },
+    {
+        "ArenaIndex" : 5,
+        "ArenaTitle" : "Valle de Hechizos",
+        "TrophiesAmout" : 1300,
+        "UnlockedCards" : [0,1,2,3,4,5]
+    },
+    {
+        "ArenaIndex" : 6,
+        "ArenaTitle" : "Taller del Constructor",
+        "TrophiesAmout" : 1600,
+        "UnlockedCards" : [0,1,2,3,4,5]
+    },
+    {
+        "ArenaIndex" : 7,
+        "ArenaTitle" : "Arena Real",
+        "TrophiesAmout" : 2000,
+        "UnlockedCards" : [0,1,2,3,4,5,6]
+    },
+    {
+        "ArenaIndex" : 8,
+        "ArenaTitle" : "Pico Helado",
+        "TrophiesAmout" : 2300,
+        "UnlockedCards" : [0,1,2,3,4,5]
+    },
+    {
+        "ArenaIndex" : 9,
+        "ArenaTitle" : "Arena Selvatica",
+        "TrophiesAmout" : 2600,
+        "UnlockedCards" : [0,1,2,3,4,5]
+    },
+    {
+        "ArenaIndex" : 10,
+        "ArenaTitle" : "Montapurco",
+        "TrophiesAmout" : 3000,
+        "UnlockedCards" : [0,1,2,3,4,5,6]
+    }
+
+]

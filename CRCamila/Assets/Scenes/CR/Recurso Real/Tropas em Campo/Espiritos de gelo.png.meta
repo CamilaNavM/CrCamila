@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 39b4742e70cd1f140a84bb77cd95850b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5186282602877268166
+    second: Espiritos de gelo_0
+  - first:
+      213: 7842168764539907800
+    second: Espiritos de gelo_1
+  - first:
+      213: 1703285483471619592
+    second: Espiritos de gelo_2
+  - first:
+      213: 6651758112054019293
+    second: Espiritos de gelo_3
+  - first:
+      213: 468580366853653415
+    second: Espiritos de gelo_4
+  - first:
+      213: -3254427510248609742
+    second: Espiritos de gelo_5
+  - first:
+      213: 154903027198473438
+    second: Espiritos de gelo_6
+  - first:
+      213: 5260808039564821043
+    second: Espiritos de gelo_7
+  - first:
+      213: -2288793095199851844
+    second: Espiritos de gelo_8
+  - first:
+      213: 3990871111871993201
+    second: Espiritos de gelo_9
+  - first:
+      213: 1415501996410829008
+    second: Espiritos de gelo_10
+  - first:
+      213: 1987344235201453345
+    second: Espiritos de gelo_11
+  - first:
+      213: -1248570926345849807
+    second: Espiritos de gelo_12
+  - first:
+      213: 7729023013838070981
+    second: Espiritos de gelo_13
+  - first:
+      213: -2181365761508462790
+    second: Espiritos de gelo_14
+  - first:
+      213: -431732650100905681
+    second: Espiritos de gelo_15
+  - first:
+      213: -3366582770089621486
+    second: Espiritos de gelo_16
+  - first:
+      213: -2353666778570031350
+    second: Espiritos de gelo_17
+  - first:
+      213: 5403752928255046339
+    second: Espiritos de gelo_18
+  - first:
+      213: 7674002255440643034
+    second: Espiritos de gelo_19
+  - first:
+      213: -5059793284102478230
+    second: Espiritos de gelo_20
+  - first:
+      213: 6267581191735159593
+    second: Espiritos de gelo_21
+  - first:
+      213: -5370563661937067583
+    second: Espiritos de gelo_22
+  - first:
+      213: -3633237066912385969
+    second: Espiritos de gelo_23
+  - first:
+      213: -178966291279407812
+    second: Espiritos de gelo_24
+  - first:
+      213: 8808307766125796035
+    second: Espiritos de gelo_25
+  - first:
+      213: -501344840458718782
+    second: Espiritos de gelo_26
+  - first:
+      213: -3380481808947582793
+    second: Espiritos de gelo_27
+  - first:
+      213: 923636842256130436
+    second: Espiritos de gelo_28
+  - first:
+      213: -8872913972761357797
+    second: Espiritos de gelo_29
+  - first:
+      213: 8448403231035089664
+    second: Espiritos de gelo_30
+  - first:
+      213: 1345005708215607016
+    second: Espiritos de gelo_31
+  - first:
+      213: -7757693131337380673
+    second: Espiritos de gelo_32
+  - first:
+      213: 6677235180068373707
+    second: Espiritos de gelo_33
+  - first:
+      213: 5141293829448559667
+    second: Espiritos de gelo_34
+  - first:
+      213: -4945328356553554607
+    second: Espiritos de gelo_35
+  - first:
+      213: 4422632617448593129
+    second: Espiritos de gelo_36
+  - first:
+      213: -3443364111728869650
+    second: Espiritos de gelo_37
+  - first:
+      213: -6317955511217871615
+    second: Espiritos de gelo_38
+  - first:
+      213: 4088277557207317239
+    second: Espiritos de gelo_39
+  - first:
+      213: -3917730888661624814
+    second: Espiritos de gelo_40
+  - first:
+      213: 6910082596405002560
+    second: Espiritos de gelo_41
+  - first:
+      213: 3445021921444435382
+    second: Espiritos de gelo_42
+  - first:
+      213: -6176826953190173327
+    second: Espiritos de gelo_43
+  - first:
+      213: 9210596378375229316
+    second: Espiritos de gelo_44
+  - first:
+      213: 2345614591070743550
+    second: Espiritos de gelo_45
+  - first:
+      213: 7403849522739406161
+    second: Espiritos de gelo_46
+  - first:
+      213: -8484798212844178106
+    second: Espiritos de gelo_47
+  - first:
+      213: 5110709524623227232
+    second: Espiritos de gelo_48
+  - first:
+      213: -8821850010908363839
+    second: Espiritos de gelo_49
+  - first:
+      213: 3922173666668431773
+    second: Espiritos de gelo_50
+  - first:
+      213: -4234762249673173274
+    second: Espiritos de gelo_51
+  - first:
+      213: -8676406723017852606
+    second: Espiritos de gelo_52
+  - first:
+      213: 8555375080325209918
+    second: Espiritos de gelo_53
+  - first:
+      213: 6420220254953985373
+    second: Espiritos de gelo_54
+  - first:
+      213: 5816827340454761207
+    second: Espiritos de gelo_55
+  - first:
+      213: 3172170422271136555
+    second: Espiritos de gelo_56
+  - first:
+      213: -5451148485331118222
+    second: Espiritos de gelo_57
+  - first:
+      213: -8838192774552453260
+    second: Espiritos de gelo_58
+  - first:
+      213: -4442672187479928776
+    second: Espiritos de gelo_59
+  - first:
+      213: -8995265795801571665
+    second: Espiritos de gelo_60
+  - first:
+      213: -5957001436701231020
+    second: Espiritos de gelo_61
+  - first:
+      213: 2005269016541216110
+    second: Espiritos de gelo_62
+  - first:
+      213: -6163884585427446352
+    second: Espiritos de gelo_63
+  - first:
+      213: -5895614969637612650
+    second: Espiritos de gelo_64
+  - first:
+      213: -7316993506837064377
+    second: Espiritos de gelo_65
+  - first:
+      213: -3900366245708620586
+    second: Espiritos de gelo_66
+  - first:
+      213: -7203988625591741435
+    second: Espiritos de gelo_67
+  - first:
+      213: -5712591467623656651
+    second: Espiritos de gelo_68
+  - first:
+      213: 5598542978727948951
+    second: Espiritos de gelo_69
+  - first:
+      213: -8706381218449529018
+    second: Espiritos de gelo_70
+  - first:
+      213: 1146994611143757600
+    second: Espiritos de gelo_71
+  - first:
+      213: -2070247141423447691
+    second: Espiritos de gelo_72
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espiritos de gelo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b9499c8069f740800000000000000
+      internalID: 5186282602877268166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 951
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea01711faf4dc60800000000000000
+      internalID: 7842168764539907800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 887
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c7617f1943a710800000000000000
+      internalID: 1703285483471619592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 886
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48dc8a2cacf4c50800000000000000
+      internalID: 6651758112054019293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 951
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c80b6c5bb08600800000000000000
+      internalID: 468580366853653415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386f501c63f5d2d0800000000000000
+      internalID: -3254427510248609742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed43cc68b73562200800000000000000
+      internalID: 154903027198473438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 826
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c7cdf905220940800000000000000
+      internalID: 5260808039564821043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 833
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafe347ec29c30e0800000000000000
+      internalID: -2288793095199851844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 828
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759f77b12c626730800000000000000
+      internalID: 3990871111871993201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d87ceae09fd4a310800000000000000
+      internalID: 1415501996410829008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 759
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5a917d07749b10800000000000000
+      internalID: 1987344235201453345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 766
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13476429b5f2caee0800000000000000
+      internalID: -1248570926345849807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 763
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c423a02b71034b60800000000000000
+      internalID: 7729023013838070981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fa614b56b3ab1e0800000000000000
+      internalID: -2181365761508462790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 651
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292cc0317d220af0800000000000000
+      internalID: -431732650100905681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 707
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2188bd9bece7741d0800000000000000
+      internalID: -3366582770089621486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 700
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff1bff888165fd0800000000000000
+      internalID: -2353666778570031350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 698
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27e9e68acfdfa40800000000000000
+      internalID: 5403752928255046339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3061984688f7a60800000000000000
+      internalID: 7674002255440643034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662a28e0d008c9b0800000000000000
+      internalID: -5059793284102478230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 600
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2b4603ebeaf650800000000000000
+      internalID: 6267581191735159593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 647
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9be9ecdcce775b0800000000000000
+      internalID: -5370563661937067583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 587
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44b7e92326249dc0800000000000000
+      internalID: -3633237066912385969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 633
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3595853b1f248df0800000000000000
+      internalID: -178966291279407812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca1e30be356d3a70800000000000000
+      internalID: 8808307766125796035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 549
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1bb7a168dda09f0800000000000000
+      internalID: -501344840458718782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 538
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8620094bd1611d0800000000000000
+      internalID: -3380481808947582793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 584
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e32c70da61dc00800000000000000
+      internalID: 923636842256130436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1295f2a0c31dd480800000000000000
+      internalID: -8872913972761357797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 500
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eb112af1ce3570800000000000000
+      internalID: 8448403231035089664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 490
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5013c09b6aa210800000000000000
+      internalID: 1345005708215607016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 520
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc526f233275490800000000000000
+      internalID: -7757693131337380673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc487bdc40e4aac50800000000000000
+      internalID: 6677235180068373707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 452
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c60368f7b895740800000000000000
+      internalID: 5141293829448559667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 442
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15585f9af0aae5bb0800000000000000
+      internalID: -4945328356553554607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 467
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e65417fee8506d30800000000000000
+      internalID: 4422632617448593129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 416
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee72188596b630d0800000000000000
+      internalID: -3443364111728869650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105232fbfec1258a0800000000000000
+      internalID: -6317955511217871615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3b8417ca7cb830800000000000000
+      internalID: 4088277557207317239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 390
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189fb7838c61a9c0800000000000000
+      internalID: -3917730888661624814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 392
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041445f928b85ef50800000000000000
+      internalID: 6910082596405002560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 366
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5112f5f2d2fcf20800000000000000
+      internalID: 3445021921444435382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759a00cc90874aa0800000000000000
+      internalID: -6176826953190173327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 342
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0e863b9c92df70800000000000000
+      internalID: 9210596378375229316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 289
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbaeb00b0c4d8020800000000000000
+      internalID: 2345614591070743550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 343
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155e355e9e1cfb660800000000000000
+      internalID: 7403849522739406161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 310
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645bd84daf0ff3a80800000000000000
+      internalID: -8484798212844178106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697f552c33ece640800000000000000
+      internalID: 5110709524623227232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 291
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3f70eb72e729580800000000000000
+      internalID: -8821850010908363839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 243
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c9255b2c5e6630800000000000000
+      internalID: 3922173666668431773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 259
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e61fffab2a1b35c0800000000000000
+      internalID: -4234762249673173274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b5b31e06379780800000000000000
+      internalID: -8676406723017852606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 193
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f5307ae4ccab670800000000000000
+      internalID: 8555375080325209918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 191
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55dc4c5e44391950800000000000000
+      internalID: 6420220254953985373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f21693b5a589b050800000000000000
+      internalID: 5816827340454761207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 210
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d8723130d50c20800000000000000
+      internalID: 3172170422271136555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2771ee18551a954b0800000000000000
+      internalID: -5451148485331118222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f70609f7e685580800000000000000
+      internalID: -8838192774552453260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 142
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83050cb0f257852c0800000000000000
+      internalID: -4442672187479928776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 107
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae960dea656a2380800000000000000
+      internalID: -8995265795801571665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_61
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 159
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587eee31ca745da0800000000000000
+      internalID: -5957001436701231020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3902db8524db10800000000000000
+      internalID: 2005269016541216110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5571190ab757aa0800000000000000
+      internalID: -6163884585427446352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 96
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935642eb619e2ea0800000000000000
+      internalID: -5895614969637612650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 89
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74513213c21d47a90800000000000000
+      internalID: -7316993506837064377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 56
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc1d96809d1fd9c0800000000000000
+      internalID: -3900366245708620586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 50
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50456ad638a460c90800000000000000
+      internalID: -7203988625591741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5335d59a35cc8b0b0800000000000000
+      internalID: -5712591467623656651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79236d24d2502bd40800000000000000
+      internalID: 5598542978727948951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647ee230968bc2780800000000000000
+      internalID: -8706381218449529018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc2849581faef00800000000000000
+      internalID: 1146994611143757600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de gelo_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571003a81310543e0800000000000000
+      internalID: -2070247141423447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Espiritos de gelo_0: 5186282602877268166
+      Espiritos de gelo_1: 7842168764539907800
+      Espiritos de gelo_10: 1415501996410829008
+      Espiritos de gelo_11: 1987344235201453345
+      Espiritos de gelo_12: -1248570926345849807
+      Espiritos de gelo_13: 7729023013838070981
+      Espiritos de gelo_14: -2181365761508462790
+      Espiritos de gelo_15: -431732650100905681
+      Espiritos de gelo_16: -3366582770089621486
+      Espiritos de gelo_17: -2353666778570031350
+      Espiritos de gelo_18: 5403752928255046339
+      Espiritos de gelo_19: 7674002255440643034
+      Espiritos de gelo_2: 1703285483471619592
+      Espiritos de gelo_20: -5059793284102478230
+      Espiritos de gelo_21: 6267581191735159593
+      Espiritos de gelo_22: -5370563661937067583
+      Espiritos de gelo_23: -3633237066912385969
+      Espiritos de gelo_24: -178966291279407812
+      Espiritos de gelo_25: 8808307766125796035
+      Espiritos de gelo_26: -501344840458718782
+      Espiritos de gelo_27: -3380481808947582793
+      Espiritos de gelo_28: 923636842256130436
+      Espiritos de gelo_29: -8872913972761357797
+      Espiritos de gelo_3: 6651758112054019293
+      Espiritos de gelo_30: 8448403231035089664
+      Espiritos de gelo_31: 1345005708215607016
+      Espiritos de gelo_32: -7757693131337380673
+      Espiritos de gelo_33: 6677235180068373707
+      Espiritos de gelo_34: 5141293829448559667
+      Espiritos de gelo_35: -4945328356553554607
+      Espiritos de gelo_36: 4422632617448593129
+      Espiritos de gelo_37: -3443364111728869650
+      Espiritos de gelo_38: -6317955511217871615
+      Espiritos de gelo_39: 4088277557207317239
+      Espiritos de gelo_4: 468580366853653415
+      Espiritos de gelo_40: -3917730888661624814
+      Espiritos de gelo_41: 6910082596405002560
+      Espiritos de gelo_42: 3445021921444435382
+      Espiritos de gelo_43: -6176826953190173327
+      Espiritos de gelo_44: 9210596378375229316
+      Espiritos de gelo_45: 2345614591070743550
+      Espiritos de gelo_46: 7403849522739406161
+      Espiritos de gelo_47: -8484798212844178106
+      Espiritos de gelo_48: 5110709524623227232
+      Espiritos de gelo_49: -8821850010908363839
+      Espiritos de gelo_5: -3254427510248609742
+      Espiritos de gelo_50: 3922173666668431773
+      Espiritos de gelo_51: -4234762249673173274
+      Espiritos de gelo_52: -8676406723017852606
+      Espiritos de gelo_53: 8555375080325209918
+      Espiritos de gelo_54: 6420220254953985373
+      Espiritos de gelo_55: 5816827340454761207
+      Espiritos de gelo_56: 3172170422271136555
+      Espiritos de gelo_57: -5451148485331118222
+      Espiritos de gelo_58: -8838192774552453260
+      Espiritos de gelo_59: -4442672187479928776
+      Espiritos de gelo_6: 154903027198473438
+      Espiritos de gelo_60: -8995265795801571665
+      Espiritos de gelo_61: -5957001436701231020
+      Espiritos de gelo_62: 2005269016541216110
+      Espiritos de gelo_63: -6163884585427446352
+      Espiritos de gelo_64: -5895614969637612650
+      Espiritos de gelo_65: -7316993506837064377
+      Espiritos de gelo_66: -3900366245708620586
+      Espiritos de gelo_67: -7203988625591741435
+      Espiritos de gelo_68: -5712591467623656651
+      Espiritos de gelo_69: 5598542978727948951
+      Espiritos de gelo_7: 5260808039564821043
+      Espiritos de gelo_70: -8706381218449529018
+      Espiritos de gelo_71: 1146994611143757600
+      Espiritos de gelo_72: -2070247141423447691
+      Espiritos de gelo_8: -2288793095199851844
+      Espiritos de gelo_9: 3990871111871993201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

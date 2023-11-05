@@ -1,0 +1,2512 @@
+fileFormatVersion: 2
+guid: b5895c8b07c5ea7449ca56a45662f99c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1202787305445228537
+    second: Rainha Arqueira_0
+  - first:
+      213: -5837884299084884621
+    second: Rainha Arqueira_1
+  - first:
+      213: -2123363557854589161
+    second: Rainha Arqueira_2
+  - first:
+      213: 1597207604527865253
+    second: Rainha Arqueira_3
+  - first:
+      213: 3445247545441640982
+    second: Rainha Arqueira_4
+  - first:
+      213: -2975572671399023318
+    second: Rainha Arqueira_5
+  - first:
+      213: 8411074402726974612
+    second: Rainha Arqueira_6
+  - first:
+      213: 7407618695080055429
+    second: Rainha Arqueira_7
+  - first:
+      213: 273188435296295429
+    second: Rainha Arqueira_8
+  - first:
+      213: -6557194200723228980
+    second: Rainha Arqueira_9
+  - first:
+      213: 7835092378323660543
+    second: Rainha Arqueira_10
+  - first:
+      213: -4747037621796667894
+    second: Rainha Arqueira_11
+  - first:
+      213: 9056339548933060314
+    second: Rainha Arqueira_12
+  - first:
+      213: -6591138159336819314
+    second: Rainha Arqueira_13
+  - first:
+      213: -540988448606947931
+    second: Rainha Arqueira_14
+  - first:
+      213: 825714818729206216
+    second: Rainha Arqueira_15
+  - first:
+      213: 2382843979588111782
+    second: Rainha Arqueira_16
+  - first:
+      213: 8089174071104818040
+    second: Rainha Arqueira_17
+  - first:
+      213: -6476814645042442756
+    second: Rainha Arqueira_18
+  - first:
+      213: 5357575197673209636
+    second: Rainha Arqueira_19
+  - first:
+      213: -4100055779460477147
+    second: Rainha Arqueira_20
+  - first:
+      213: -6868501821202632260
+    second: Rainha Arqueira_21
+  - first:
+      213: -6793335836965227510
+    second: Rainha Arqueira_22
+  - first:
+      213: -146924886425438737
+    second: Rainha Arqueira_23
+  - first:
+      213: 5676513643963982844
+    second: Rainha Arqueira_24
+  - first:
+      213: -5519264999837692831
+    second: Rainha Arqueira_25
+  - first:
+      213: 1966778232416009778
+    second: Rainha Arqueira_26
+  - first:
+      213: -2594337225871351123
+    second: Rainha Arqueira_27
+  - first:
+      213: -2897415723311936451
+    second: Rainha Arqueira_28
+  - first:
+      213: 3421686761127887253
+    second: Rainha Arqueira_29
+  - first:
+      213: 2842117281941651471
+    second: Rainha Arqueira_30
+  - first:
+      213: 4987480873178988151
+    second: Rainha Arqueira_31
+  - first:
+      213: 6569649870298022525
+    second: Rainha Arqueira_32
+  - first:
+      213: 1336841150929887699
+    second: Rainha Arqueira_33
+  - first:
+      213: 2516060580090680832
+    second: Rainha Arqueira_34
+  - first:
+      213: -1733650308543876438
+    second: Rainha Arqueira_35
+  - first:
+      213: -484250278234658781
+    second: Rainha Arqueira_36
+  - first:
+      213: 7212040150552289807
+    second: Rainha Arqueira_37
+  - first:
+      213: -7222088875734372548
+    second: Rainha Arqueira_38
+  - first:
+      213: -8489101597822708590
+    second: Rainha Arqueira_39
+  - first:
+      213: 3767584985371286789
+    second: Rainha Arqueira_40
+  - first:
+      213: 1568533599374664066
+    second: Rainha Arqueira_41
+  - first:
+      213: -8351403461495282010
+    second: Rainha Arqueira_42
+  - first:
+      213: 5620552686635848991
+    second: Rainha Arqueira_43
+  - first:
+      213: 4383371867036397203
+    second: Rainha Arqueira_44
+  - first:
+      213: 9103908101319100874
+    second: Rainha Arqueira_45
+  - first:
+      213: -4744013003647673105
+    second: Rainha Arqueira_46
+  - first:
+      213: 2930423056360509655
+    second: Rainha Arqueira_47
+  - first:
+      213: 615638638800886055
+    second: Rainha Arqueira_48
+  - first:
+      213: 5999691083854856466
+    second: Rainha Arqueira_49
+  - first:
+      213: -934834442294902755
+    second: Rainha Arqueira_50
+  - first:
+      213: -3608421082176815330
+    second: Rainha Arqueira_51
+  - first:
+      213: 744092133128843007
+    second: Rainha Arqueira_52
+  - first:
+      213: -7973380071443585703
+    second: Rainha Arqueira_53
+  - first:
+      213: -6798143078888972597
+    second: Rainha Arqueira_54
+  - first:
+      213: -676219757551451799
+    second: Rainha Arqueira_55
+  - first:
+      213: -4952604708662957496
+    second: Rainha Arqueira_56
+  - first:
+      213: -1724450764826950371
+    second: Rainha Arqueira_57
+  - first:
+      213: -3282810628679927938
+    second: Rainha Arqueira_58
+  - first:
+      213: 6806265103406197456
+    second: Rainha Arqueira_59
+  - first:
+      213: -5768039540479582889
+    second: Rainha Arqueira_60
+  - first:
+      213: 2215666851031994890
+    second: Rainha Arqueira_61
+  - first:
+      213: -9140197843543594772
+    second: Rainha Arqueira_62
+  - first:
+      213: -3411227424286309201
+    second: Rainha Arqueira_63
+  - first:
+      213: 6624348619476402074
+    second: Rainha Arqueira_64
+  - first:
+      213: 8244423312626292584
+    second: Rainha Arqueira_65
+  - first:
+      213: 7918581986104274313
+    second: Rainha Arqueira_66
+  - first:
+      213: 3750174992328558414
+    second: Rainha Arqueira_67
+  - first:
+      213: -3239319330991775861
+    second: Rainha Arqueira_68
+  - first:
+      213: 3470725481123961603
+    second: Rainha Arqueira_69
+  - first:
+      213: -8054337942359564727
+    second: Rainha Arqueira_70
+  - first:
+      213: -6303189234083171021
+    second: Rainha Arqueira_71
+  - first:
+      213: -6840820111418104504
+    second: Rainha Arqueira_72
+  - first:
+      213: -2968442604472629344
+    second: Rainha Arqueira_73
+  - first:
+      213: -4187943863713780563
+    second: Rainha Arqueira_74
+  - first:
+      213: 8039104858894193588
+    second: Rainha Arqueira_75
+  - first:
+      213: -5831505617677163333
+    second: Rainha Arqueira_76
+  - first:
+      213: 6472597470290709079
+    second: Rainha Arqueira_77
+  - first:
+      213: -3044851039350081572
+    second: Rainha Arqueira_78
+  - first:
+      213: 1650717369761693987
+    second: Rainha Arqueira_79
+  - first:
+      213: -2920849048910504537
+    second: Rainha Arqueira_80
+  - first:
+      213: 580758559728157859
+    second: Rainha Arqueira_81
+  - first:
+      213: 4136476816424454970
+    second: Rainha Arqueira_82
+  - first:
+      213: -635603930968430291
+    second: Rainha Arqueira_83
+  - first:
+      213: -7436382189220754593
+    second: Rainha Arqueira_84
+  - first:
+      213: -648094085340368491
+    second: Rainha Arqueira_85
+  - first:
+      213: -4317827517445599832
+    second: Rainha Arqueira_86
+  - first:
+      213: -1187532547255144749
+    second: Rainha Arqueira_87
+  - first:
+      213: -4310361673252782554
+    second: Rainha Arqueira_88
+  - first:
+      213: 9145296763699029618
+    second: Rainha Arqueira_89
+  - first:
+      213: 8323804877442855679
+    second: Rainha Arqueira_90
+  - first:
+      213: -8514539178672432145
+    second: Rainha Arqueira_91
+  - first:
+      213: 4754688803915462503
+    second: Rainha Arqueira_92
+  - first:
+      213: 376690594844102225
+    second: Rainha Arqueira_93
+  - first:
+      213: -9106629993994308824
+    second: Rainha Arqueira_94
+  - first:
+      213: -223386656907725224
+    second: Rainha Arqueira_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rainha Arqueira_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff79618ea821b010800000000000000
+      internalID: 1202787305445228537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 643
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3751731192babfea0800000000000000
+      internalID: -5837884299084884621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 638
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f411d181c4882e0800000000000000
+      internalID: -2123363557854589161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 645
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad9f6c9adb6a2610800000000000000
+      internalID: 1597207604527865253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 655
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e55d836affcf20800000000000000
+      internalID: 3445247545441640982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 653
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da6edab64a4b6d0800000000000000
+      internalID: -2975572671399023318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 660
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941ce10b932ab470800000000000000
+      internalID: 8411074402726974612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 721
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5821ac7b4f52dc660800000000000000
+      internalID: 7407618695080055429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 678
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a949a3f6f8ac300800000000000000
+      internalID: 273188435296295429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f3aead9a2005a0800000000000000
+      internalID: -6557194200723228980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2a588107dbbc60800000000000000
+      internalID: 7835092378323660543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 607
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef4611f622f1eb0800000000000000
+      internalID: -4747037621796667894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 552
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f97356d49ead70800000000000000
+      internalID: 9056339548933060314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 543
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f433f3c29784a0800000000000000
+      internalID: -6591138159336819314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 571
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5713d4fd50e78f0800000000000000
+      internalID: -540988448606947931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 561
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16128b047857b00800000000000000
+      internalID: 825714818729206216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 564
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad078e79ff811120800000000000000
+      internalID: 2382843979588111782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bc08a95f4824070800000000000000
+      internalID: 8089174071104818040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 411
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd823e556bbd16a0800000000000000
+      internalID: -6476814645042442756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 484
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f31c2b14ee95a40800000000000000
+      internalID: 5357575197673209636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f88f9ddfca917c0800000000000000
+      internalID: -4100055779460477147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 447
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f7180cfd2ea0a0800000000000000
+      internalID: -6868501821202632260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 501
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04b1c58c0939b1a0800000000000000
+      internalID: -6793335836965227510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 527
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe572ff189406fdf0800000000000000
+      internalID: -146924886425438737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 461
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a12f651707ce40800000000000000
+      internalID: 5676513643963982844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 523
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8d6799b1a763b0800000000000000
+      internalID: -5519264999837692831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 419
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7027c1666b4b10800000000000000
+      internalID: 1966778232416009778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 512
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2ad58d9001ffbd0800000000000000
+      internalID: -2594337225871351123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4c5530cf4ac7d0800000000000000
+      internalID: -2897415723311936451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 453
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914fa9faf54c7f20800000000000000
+      internalID: 3421686761127887253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 359
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0081281c9a317720800000000000000
+      internalID: 2842117281941651471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 364
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e73e9ed67173540800000000000000
+      internalID: 4987480873178988151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 378
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720ec1efb51c2b50800000000000000
+      internalID: 6569649870298022525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 384
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ec42a1f96d8210800000000000000
+      internalID: 1336841150929887699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 298
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061ba554c7dae220800000000000000
+      internalID: 2516060580090680832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 295
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fe7aca36d0f7e0800000000000000
+      internalID: -1733650308543876438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 309
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328607700f89749f0800000000000000
+      internalID: -484250278234658781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 293
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02268f4e40561460800000000000000
+      internalID: 7212040150552289807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_38
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 388
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f6d898e6cf5cb90800000000000000
+      internalID: -7222088875734372548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 340
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294939fe217a03a80800000000000000
+      internalID: -8489101597822708590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d962a2596294430800000000000000
+      internalID: 3767584985371286789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281edf88ffc84c510800000000000000
+      internalID: 1568533599374664066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 256
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a62b95accad91c80800000000000000
+      internalID: -8351403461495282010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 217
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151c48b3e6300e40800000000000000
+      internalID: 5620552686635848991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 209
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e252d2d7dd4dc30800000000000000
+      internalID: 4383371867036397203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_45
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 238
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90deefe24975e70800000000000000
+      internalID: 9103908101319100874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 195
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec1fbbde41e92eb0800000000000000
+      internalID: -4744013003647673105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 283
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09bf36e34faa820800000000000000
+      internalID: 2930423056360509655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 264
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295bb784103b8800800000000000000
+      internalID: 615638638800886055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114f37c04f234350800000000000000
+      internalID: 5999691083854856466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 97
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d104637170dc603f0800000000000000
+      internalID: -934834442294902755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 155
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff1dcd4205cedc0800000000000000
+      internalID: -3608421082176815330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 147
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeae4b4adb835a00800000000000000
+      internalID: 744092133128843007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 84
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9552d6ed11dd85190800000000000000
+      internalID: -7973380071443585703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 157
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceda8a43e428a1a0800000000000000
+      internalID: -6798143078888972597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_55
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 118
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9618b0996b59d96f0800000000000000
+      internalID: -676219757551451799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_56
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 167
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa73be140d44bb0800000000000000
+      internalID: -4952604708662957496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c6d97a258118e0800000000000000
+      internalID: -1724450764826950371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_58
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 156
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f7a4502d1172d0800000000000000
+      internalID: -3282810628679927938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae9a7ec06b47e50800000000000000
+      internalID: 6806265103406197456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_60
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9e4b299ec3ffa0800000000000000
+      internalID: -5768039540479582889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 67
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02de5c0341afbe10800000000000000
+      internalID: 2215666851031994890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 73
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8eac6fc7e772180800000000000000
+      internalID: -9140197843543594772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 110
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa408572bb2e8a0d0800000000000000
+      internalID: -3411227424286309201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_64
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 103
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7d3cd8f96eeb50800000000000000
+      internalID: 6624348619476402074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_65
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 81
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8671a0f62531a6270800000000000000
+      internalID: 8244423312626292584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 74
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d6d86ac5474ed60800000000000000
+      internalID: 7918581986104274313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_67
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 81
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470c47494c4b0430800000000000000
+      internalID: 3750174992328558414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fdd2a2b30ab03d0800000000000000
+      internalID: -3239319330991775861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b5a47bf6e7a2030800000000000000
+      internalID: 3470725481123961603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e15bca05e393090800000000000000
+      internalID: -8054337942359564727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335f76e89c29688a0800000000000000
+      internalID: -6303189234083171021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_72
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 92
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84563965a568011a0800000000000000
+      internalID: -6840820111418104504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a70640cd29fdc6d0800000000000000
+      internalID: -2968442604472629344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2010ae3f61e5c0800000000000000
+      internalID: -4187943863713780563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35182b643a09f60800000000000000
+      internalID: 8039104858894193588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 40
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb468a09984521fa0800000000000000
+      internalID: -5831505617677163333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 49
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a05ce1b1943d950800000000000000
+      internalID: 6472597470290709079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_78
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 42
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd73f8dac148eb5d0800000000000000
+      internalID: -3044851039350081572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_79
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3218631b3b688e610800000000000000
+      internalID: 1650717369761693987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 43
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7add62de34f0777d0800000000000000
+      internalID: -2920849048910504537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_81
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 188
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44dd445d44f0800800000000000000
+      internalID: 580758559728157859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 23
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4e90afb7b76930800000000000000
+      internalID: 4136476816424454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e8c4a791ed27f0800000000000000
+      internalID: -635603930968430291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_84
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 36
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b847d6cc9acc890800000000000000
+      internalID: -7436382189220754593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917146fcd18107f0800000000000000
+      internalID: -648094085340368491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8f3defbef314c0800000000000000
+      internalID: -4317827517445599832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de64a9a079058fe0800000000000000
+      internalID: -1187532547255144749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_88
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e3f4c35e48e24c0800000000000000
+      internalID: -4310361673252782554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766fc5e3fe9aee70800000000000000
+      internalID: 9145296763699029618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff235a34f68148370800000000000000
+      internalID: 8323804877442855679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_91
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb551d9ab746d980800000000000000
+      internalID: -8514539178672432145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 14
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76778e6964c0cf140800000000000000
+      internalID: 4754688803915462503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_93
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec9e7a9164a3500800000000000000
+      internalID: 376690594844102225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233d0bf440ce9180800000000000000
+      internalID: -9106629993994308824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainha Arqueira_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f373e40f56ecf0800000000000000
+      internalID: -223386656907725224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rainha Arqueira_0: 1202787305445228537
+      Rainha Arqueira_1: -5837884299084884621
+      Rainha Arqueira_10: 7835092378323660543
+      Rainha Arqueira_11: -4747037621796667894
+      Rainha Arqueira_12: 9056339548933060314
+      Rainha Arqueira_13: -6591138159336819314
+      Rainha Arqueira_14: -540988448606947931
+      Rainha Arqueira_15: 825714818729206216
+      Rainha Arqueira_16: 2382843979588111782
+      Rainha Arqueira_17: 8089174071104818040
+      Rainha Arqueira_18: -6476814645042442756
+      Rainha Arqueira_19: 5357575197673209636
+      Rainha Arqueira_2: -2123363557854589161
+      Rainha Arqueira_20: -4100055779460477147
+      Rainha Arqueira_21: -6868501821202632260
+      Rainha Arqueira_22: -6793335836965227510
+      Rainha Arqueira_23: -146924886425438737
+      Rainha Arqueira_24: 5676513643963982844
+      Rainha Arqueira_25: -5519264999837692831
+      Rainha Arqueira_26: 1966778232416009778
+      Rainha Arqueira_27: -2594337225871351123
+      Rainha Arqueira_28: -2897415723311936451
+      Rainha Arqueira_29: 3421686761127887253
+      Rainha Arqueira_3: 1597207604527865253
+      Rainha Arqueira_30: 2842117281941651471
+      Rainha Arqueira_31: 4987480873178988151
+      Rainha Arqueira_32: 6569649870298022525
+      Rainha Arqueira_33: 1336841150929887699
+      Rainha Arqueira_34: 2516060580090680832
+      Rainha Arqueira_35: -1733650308543876438
+      Rainha Arqueira_36: -484250278234658781
+      Rainha Arqueira_37: 7212040150552289807
+      Rainha Arqueira_38: -7222088875734372548
+      Rainha Arqueira_39: -8489101597822708590
+      Rainha Arqueira_4: 3445247545441640982
+      Rainha Arqueira_40: 3767584985371286789
+      Rainha Arqueira_41: 1568533599374664066
+      Rainha Arqueira_42: -8351403461495282010
+      Rainha Arqueira_43: 5620552686635848991
+      Rainha Arqueira_44: 4383371867036397203
+      Rainha Arqueira_45: 9103908101319100874
+      Rainha Arqueira_46: -4744013003647673105
+      Rainha Arqueira_47: 2930423056360509655
+      Rainha Arqueira_48: 615638638800886055
+      Rainha Arqueira_49: 5999691083854856466
+      Rainha Arqueira_5: -2975572671399023318
+      Rainha Arqueira_50: -934834442294902755
+      Rainha Arqueira_51: -3608421082176815330
+      Rainha Arqueira_52: 744092133128843007
+      Rainha Arqueira_53: -7973380071443585703
+      Rainha Arqueira_54: -6798143078888972597
+      Rainha Arqueira_55: -676219757551451799
+      Rainha Arqueira_56: -4952604708662957496
+      Rainha Arqueira_57: -1724450764826950371
+      Rainha Arqueira_58: -3282810628679927938
+      Rainha Arqueira_59: 6806265103406197456
+      Rainha Arqueira_6: 8411074402726974612
+      Rainha Arqueira_60: -5768039540479582889
+      Rainha Arqueira_61: 2215666851031994890
+      Rainha Arqueira_62: -9140197843543594772
+      Rainha Arqueira_63: -3411227424286309201
+      Rainha Arqueira_64: 6624348619476402074
+      Rainha Arqueira_65: 8244423312626292584
+      Rainha Arqueira_66: 7918581986104274313
+      Rainha Arqueira_67: 3750174992328558414
+      Rainha Arqueira_68: -3239319330991775861
+      Rainha Arqueira_69: 3470725481123961603
+      Rainha Arqueira_7: 7407618695080055429
+      Rainha Arqueira_70: -8054337942359564727
+      Rainha Arqueira_71: -6303189234083171021
+      Rainha Arqueira_72: -6840820111418104504
+      Rainha Arqueira_73: -2968442604472629344
+      Rainha Arqueira_74: -4187943863713780563
+      Rainha Arqueira_75: 8039104858894193588
+      Rainha Arqueira_76: -5831505617677163333
+      Rainha Arqueira_77: 6472597470290709079
+      Rainha Arqueira_78: -3044851039350081572
+      Rainha Arqueira_79: 1650717369761693987
+      Rainha Arqueira_8: 273188435296295429
+      Rainha Arqueira_80: -2920849048910504537
+      Rainha Arqueira_81: 580758559728157859
+      Rainha Arqueira_82: 4136476816424454970
+      Rainha Arqueira_83: -635603930968430291
+      Rainha Arqueira_84: -7436382189220754593
+      Rainha Arqueira_85: -648094085340368491
+      Rainha Arqueira_86: -4317827517445599832
+      Rainha Arqueira_87: -1187532547255144749
+      Rainha Arqueira_88: -4310361673252782554
+      Rainha Arqueira_89: 9145296763699029618
+      Rainha Arqueira_9: -6557194200723228980
+      Rainha Arqueira_90: 8323804877442855679
+      Rainha Arqueira_91: -8514539178672432145
+      Rainha Arqueira_92: 4754688803915462503
+      Rainha Arqueira_93: 376690594844102225
+      Rainha Arqueira_94: -9106629993994308824
+      Rainha Arqueira_95: -223386656907725224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

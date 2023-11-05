@@ -1,0 +1,3312 @@
+fileFormatVersion: 2
+guid: f862b9b4b1ba34d4d9362ffa2e433aa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7022683826767780240
+    second: Cacador 2_0
+  - first:
+      213: 4953618628411828493
+    second: Cacador 2_1
+  - first:
+      213: -6153566784449552062
+    second: Cacador 2_2
+  - first:
+      213: -6881830954361230221
+    second: Cacador 2_3
+  - first:
+      213: 3314354339404127805
+    second: Cacador 2_4
+  - first:
+      213: 1411335499731540764
+    second: Cacador 2_5
+  - first:
+      213: 2161845835051195171
+    second: Cacador 2_6
+  - first:
+      213: 1506662142167092498
+    second: Cacador 2_7
+  - first:
+      213: -8989659870621308147
+    second: Cacador 2_8
+  - first:
+      213: 8419068629530068143
+    second: Cacador 2_9
+  - first:
+      213: -5771399366669356411
+    second: Cacador 2_10
+  - first:
+      213: 2356030416001526289
+    second: Cacador 2_11
+  - first:
+      213: 3566685388497264989
+    second: Cacador 2_12
+  - first:
+      213: -3049367699204699317
+    second: Cacador 2_13
+  - first:
+      213: 1552180166528460554
+    second: Cacador 2_14
+  - first:
+      213: -1874041592343999375
+    second: Cacador 2_15
+  - first:
+      213: -3181131993369380107
+    second: Cacador 2_16
+  - first:
+      213: 5078103380237096852
+    second: Cacador 2_17
+  - first:
+      213: -1411557615862832852
+    second: Cacador 2_18
+  - first:
+      213: -86162241236918797
+    second: Cacador 2_19
+  - first:
+      213: 8740687642192959293
+    second: Cacador 2_20
+  - first:
+      213: 2076876329238377445
+    second: Cacador 2_21
+  - first:
+      213: 7675688443970104550
+    second: Cacador 2_22
+  - first:
+      213: 176287779948997978
+    second: Cacador 2_23
+  - first:
+      213: -3492743932120419667
+    second: Cacador 2_24
+  - first:
+      213: -7116633119609342056
+    second: Cacador 2_25
+  - first:
+      213: 1987577441363126296
+    second: Cacador 2_26
+  - first:
+      213: 2326322227919404036
+    second: Cacador 2_27
+  - first:
+      213: 4980200727698056145
+    second: Cacador 2_28
+  - first:
+      213: -8759269674729552494
+    second: Cacador 2_29
+  - first:
+      213: 8854728299241054375
+    second: Cacador 2_30
+  - first:
+      213: 6309780842715436681
+    second: Cacador 2_31
+  - first:
+      213: -8133593159728785239
+    second: Cacador 2_32
+  - first:
+      213: 9135764084247026881
+    second: Cacador 2_33
+  - first:
+      213: 5777254225977315065
+    second: Cacador 2_34
+  - first:
+      213: -4436136982068330721
+    second: Cacador 2_35
+  - first:
+      213: 976632532691688274
+    second: Cacador 2_36
+  - first:
+      213: -1723197205943304635
+    second: Cacador 2_37
+  - first:
+      213: 2716723315053665802
+    second: Cacador 2_38
+  - first:
+      213: -272624330086632718
+    second: Cacador 2_39
+  - first:
+      213: -6526291246987978207
+    second: Cacador 2_40
+  - first:
+      213: -3979681101261807835
+    second: Cacador 2_41
+  - first:
+      213: 7883647615672441930
+    second: Cacador 2_42
+  - first:
+      213: 6895344202437889233
+    second: Cacador 2_43
+  - first:
+      213: 6889630403445209140
+    second: Cacador 2_44
+  - first:
+      213: 7156313377466474411
+    second: Cacador 2_45
+  - first:
+      213: -2286444633137690573
+    second: Cacador 2_46
+  - first:
+      213: -7975959309782741173
+    second: Cacador 2_47
+  - first:
+      213: 5085061375144835635
+    second: Cacador 2_48
+  - first:
+      213: 7927411088457682974
+    second: Cacador 2_49
+  - first:
+      213: 6588270338610161624
+    second: Cacador 2_50
+  - first:
+      213: -4781429674988296533
+    second: Cacador 2_51
+  - first:
+      213: -8533197775207849677
+    second: Cacador 2_52
+  - first:
+      213: 8205221700492684203
+    second: Cacador 2_53
+  - first:
+      213: -8167102134722139235
+    second: Cacador 2_54
+  - first:
+      213: -216983481180707428
+    second: Cacador 2_55
+  - first:
+      213: 220478044092335115
+    second: Cacador 2_56
+  - first:
+      213: -8394929116272130575
+    second: Cacador 2_57
+  - first:
+      213: -7668774343094648610
+    second: Cacador 2_58
+  - first:
+      213: -4460920059082484499
+    second: Cacador 2_59
+  - first:
+      213: -8382964423169125256
+    second: Cacador 2_60
+  - first:
+      213: -4058841882790733656
+    second: Cacador 2_61
+  - first:
+      213: 4475534540380396011
+    second: Cacador 2_62
+  - first:
+      213: -7858176049049140930
+    second: Cacador 2_63
+  - first:
+      213: 5473536628692520943
+    second: Cacador 2_64
+  - first:
+      213: 2853566880816898241
+    second: Cacador 2_65
+  - first:
+      213: 2243691467244311985
+    second: Cacador 2_66
+  - first:
+      213: -6848681840213914507
+    second: Cacador 2_67
+  - first:
+      213: -9164138383716307154
+    second: Cacador 2_68
+  - first:
+      213: 5328835933480979604
+    second: Cacador 2_69
+  - first:
+      213: -6026379893503528682
+    second: Cacador 2_70
+  - first:
+      213: -7001063193772994004
+    second: Cacador 2_71
+  - first:
+      213: 163062504752771437
+    second: Cacador 2_72
+  - first:
+      213: 3596796599723738560
+    second: Cacador 2_73
+  - first:
+      213: -9126878476885672049
+    second: Cacador 2_74
+  - first:
+      213: 9212148574650345643
+    second: Cacador 2_75
+  - first:
+      213: -6470959690847161506
+    second: Cacador 2_76
+  - first:
+      213: -2864145068186486318
+    second: Cacador 2_77
+  - first:
+      213: -3848596107922525764
+    second: Cacador 2_78
+  - first:
+      213: -7717646047963859291
+    second: Cacador 2_79
+  - first:
+      213: 1078837909102854379
+    second: Cacador 2_80
+  - first:
+      213: -5855989053482144379
+    second: Cacador 2_81
+  - first:
+      213: -1424259873602976684
+    second: Cacador 2_82
+  - first:
+      213: -2499333300011570245
+    second: Cacador 2_83
+  - first:
+      213: 2176358311936047462
+    second: Cacador 2_84
+  - first:
+      213: 5070653715568081897
+    second: Cacador 2_85
+  - first:
+      213: 4447566904327754874
+    second: Cacador 2_86
+  - first:
+      213: 1219172565841737508
+    second: Cacador 2_87
+  - first:
+      213: -5045931568617691194
+    second: Cacador 2_88
+  - first:
+      213: -326258967575711567
+    second: Cacador 2_89
+  - first:
+      213: 3696395001729893291
+    second: Cacador 2_90
+  - first:
+      213: -950031505593742491
+    second: Cacador 2_91
+  - first:
+      213: -7362360185940630400
+    second: Cacador 2_92
+  - first:
+      213: 4942245897182360258
+    second: Cacador 2_93
+  - first:
+      213: -1100232563225485813
+    second: Cacador 2_94
+  - first:
+      213: 845428039573087153
+    second: Cacador 2_95
+  - first:
+      213: -4691489775068608838
+    second: Cacador 2_96
+  - first:
+      213: -134057946679790569
+    second: Cacador 2_97
+  - first:
+      213: -1403997631950121521
+    second: Cacador 2_98
+  - first:
+      213: -1245566523821524080
+    second: Cacador 2_99
+  - first:
+      213: 571380221216931853
+    second: Cacador 2_100
+  - first:
+      213: -2448731619870634722
+    second: Cacador 2_101
+  - first:
+      213: 740408471129195076
+    second: Cacador 2_102
+  - first:
+      213: -5923826530126377593
+    second: Cacador 2_103
+  - first:
+      213: -2244343946322825389
+    second: Cacador 2_104
+  - first:
+      213: 3913747289223792713
+    second: Cacador 2_105
+  - first:
+      213: -7478821893700670497
+    second: Cacador 2_106
+  - first:
+      213: 3317327141064826887
+    second: Cacador 2_107
+  - first:
+      213: -7247031010771972091
+    second: Cacador 2_108
+  - first:
+      213: 265070472860571319
+    second: Cacador 2_109
+  - first:
+      213: 9103006691041910954
+    second: Cacador 2_110
+  - first:
+      213: -3173881349623535239
+    second: Cacador 2_111
+  - first:
+      213: 3388935160081373904
+    second: Cacador 2_112
+  - first:
+      213: -8770435537170443790
+    second: Cacador 2_113
+  - first:
+      213: -3707549499765856251
+    second: Cacador 2_114
+  - first:
+      213: -2851098164605243166
+    second: Cacador 2_115
+  - first:
+      213: -8578280470464294027
+    second: Cacador 2_116
+  - first:
+      213: 6975666124820320012
+    second: Cacador 2_117
+  - first:
+      213: -7005030331687133242
+    second: Cacador 2_118
+  - first:
+      213: -2810527546838188746
+    second: Cacador 2_119
+  - first:
+      213: 1090340891740817580
+    second: Cacador 2_120
+  - first:
+      213: 4060542446366616131
+    second: Cacador 2_121
+  - first:
+      213: 1374991229461363789
+    second: Cacador 2_122
+  - first:
+      213: 8664952357013520453
+    second: Cacador 2_123
+  - first:
+      213: 1382875556807650242
+    second: Cacador 2_124
+  - first:
+      213: -3018089320362793243
+    second: Cacador 2_125
+  - first:
+      213: 2022634048218282814
+    second: Cacador 2_126
+  - first:
+      213: 4201193474318418745
+    second: Cacador 2_127
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cacador 2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 498
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099df509bb5957160800000000000000
+      internalID: 7022683826767780240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ae3ba5e9ceb440800000000000000
+      internalID: 4953618628411828493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ed3fcc932a9aa0800000000000000
+      internalID: -6153566784449552062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce2016533de70a0800000000000000
+      internalID: -6881830954361230221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e15f326b3fefd20800000000000000
+      internalID: 3314354339404127805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9560d822169310800000000000000
+      internalID: 1411335499731540764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b5261455b600e10800000000000000
+      internalID: 2161845835051195171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 473
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d06645c3db8e410800000000000000
+      internalID: 1506662142167092498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b68081aff4e3380800000000000000
+      internalID: -8989659870621308147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa446caff4a86d470800000000000000
+      internalID: 8419068629530068143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 455
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58232ccaaded7efa0800000000000000
+      internalID: -5771399366669356411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 437
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a69c93e2d42b020800000000000000
+      internalID: 2356030416001526289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 439
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51a4f6b6796f7130800000000000000
+      internalID: 3566685388497264989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 439
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b8a5bdb387ea5d0800000000000000
+      internalID: -3049367699204699317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 439
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e55d33a37a8510800000000000000
+      internalID: 1552180166528460554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 439
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c4702d9111ef5e0800000000000000
+      internalID: -1874041592343999375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 439
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa769f6e495ad3d0800000000000000
+      internalID: -3181131993369380107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 438
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971ebf8e1c097640800000000000000
+      internalID: 5078103380237096852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21af7eb3d3296ce0800000000000000
+      internalID: -1411557615862832852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd950ae5e3edcef0800000000000000
+      internalID: -86162241236918797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37de85b9192d4970800000000000000
+      internalID: 8740687642192959293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 405
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3bba6840c82dc10800000000000000
+      internalID: 2076876329238377445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca865e8f5858a60800000000000000
+      internalID: 7675688443970104550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 405
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2a164dcc427200800000000000000
+      internalID: 176287779948997978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2bf8a26e7478fc0800000000000000
+      internalID: -3492743932120419667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 405
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b7ec12e3ac3d90800000000000000
+      internalID: -7116633119609342056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818670cf62b459b10800000000000000
+      internalID: 1987577441363126296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3b3cadb1c84020800000000000000
+      internalID: 2326322227919404036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 405
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3a594fc2a3d1540800000000000000
+      internalID: 4980200727698056145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 369
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c4e1b3a2d07680800000000000000
+      internalID: -8759269674729552494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0acda497052ea70800000000000000
+      internalID: 8854728299241054375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 402
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865e9cee38d09750800000000000000
+      internalID: 6309780842715436681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a891d66d1caf1f80800000000000000
+      internalID: -8133593159728785239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 365
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccd0510801c8ce70800000000000000
+      internalID: 9135764084247026881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe808cfb1eec2050800000000000000
+      internalID: 5777254225977315065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff7d02becaf62c0800000000000000
+      internalID: -4436136982068330721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9d233d12bd8d00800000000000000
+      internalID: 976632532691688274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebdc56549f518e0800000000000000
+      internalID: -1723197205943304635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e9bc2167db3b520800000000000000
+      internalID: 2716723315053665802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2be00cd91773cf0800000000000000
+      internalID: -272624330086632718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 332
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5a8a40b4fd65a0800000000000000
+      internalID: -6526291246987978207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f54f7af1555c8c0800000000000000
+      internalID: -3979681101261807835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd282bcb7586d60800000000000000
+      internalID: 7883647615672441930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc0c5ed40f21bf50800000000000000
+      internalID: 6895344202437889233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438351f5952ec9f50800000000000000
+      internalID: 6889630403445209140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 299
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd34dd915505360800000000000000
+      internalID: 7156313377466474411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 299
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ca3368bae440e0800000000000000
+      internalID: -2286444633137690573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 299
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f0e652443bf4190800000000000000
+      internalID: -7975959309782741173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a319ef064c19640800000000000000
+      internalID: 5085061375144835635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10530c3262d30e60800000000000000
+      internalID: 7927411088457682974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e91187fc3e6b50800000000000000
+      internalID: 6588270338610161624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 266
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6afcf2b03f4adb0800000000000000
+      internalID: -4781429674988296533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 266
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331259295ddf39980800000000000000
+      internalID: -8533197775207849677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_53
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6139d9adced170800000000000000
+      internalID: 8205221700492684203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b6d8f21ef98ae80800000000000000
+      internalID: -8167102134722139235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 265
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a81a6cae1dfcf0800000000000000
+      internalID: -216983481180707428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_56
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 264
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0485eaec9b4f0300800000000000000
+      internalID: 220478044092335115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 297
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5040e62783f7b80800000000000000
+      internalID: -8394929116272130575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 264
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c639ad5a039590800000000000000
+      internalID: -7668774343094648610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 297
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de459fa57d0a712c0800000000000000
+      internalID: -4460920059082484499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8745440a54ab9ab80800000000000000
+      internalID: -8382964423169125256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8d7c0ffc81ca7c0800000000000000
+      internalID: -4058841882790733656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95d5bb3fa4c1e30800000000000000
+      internalID: 4475534540380396011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 233
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3181fd848622f290800000000000000
+      internalID: -7858176049049140930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 233
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8e425098e5fb40800000000000000
+      internalID: 5473536628692520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 232
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c029e195f7e99720800000000000000
+      internalID: 2853566880816898241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 232
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b51caa7081332f10800000000000000
+      internalID: 2243691467244311985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 231
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c8166f62894f0a0800000000000000
+      internalID: -6848681840213914507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 228
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f211691b072d080800000000000000
+      internalID: -9164138383716307154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 232
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c88715c04d3f940800000000000000
+      internalID: 5328835933480979604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 197
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117a2e7a6ffd5ca0800000000000000
+      internalID: -6026379893503528682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2259155e1a37de90800000000000000
+      internalID: -7001063193772994004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6179ffeb70534200800000000000000
+      internalID: 163062504752771437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 168
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cdd763736ae130800000000000000
+      internalID: 3596796599723738560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 201
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f321da160d65180800000000000000
+      internalID: -9126878476885672049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a722125028df70800000000000000
+      internalID: 9212148574650345643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 200
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53fe2f12788236a0800000000000000
+      internalID: -6470959690847161506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9be814c338048d0800000000000000
+      internalID: -2864145068186486318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 195
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b3570b3a079ac0800000000000000
+      internalID: -3848596107922525764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6bae82fc965e490800000000000000
+      internalID: -7717646047963859291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00d46cc5dc8fe00800000000000000
+      internalID: 1078837909102854379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dee927bf85bbea0800000000000000
+      internalID: -5855989053482144379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 133
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544d06e0330c3ce0800000000000000
+      internalID: -1424259873602976684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 167
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb618d0b95905dd0800000000000000
+      internalID: -2499333300011570245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bae69a5af33e10800000000000000
+      internalID: 2176358311936047462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb337750b49e5640800000000000000
+      internalID: 5070653715568081897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_86
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 167
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745d37098ee8bd30800000000000000
+      internalID: 4447566904327754874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 165
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f5ea3dfe5be010800000000000000
+      internalID: 1219172565841737508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_88
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ec9b09ff39f9b0800000000000000
+      internalID: -5045931568617691194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 161
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03dd49235e87bf0800000000000000
+      internalID: -326258967575711567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c3a37bab3c4330800000000000000
+      internalID: 3696395001729893291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc7af016fc0d2f0800000000000000
+      internalID: -950031505593742491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a7881b64a3d990800000000000000
+      internalID: -7362360185940630400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2bf265572669440800000000000000
+      internalID: 4942245897182360258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e90a220503bb0f0800000000000000
+      internalID: -1100232563225485813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 98
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a8ed92509bbb00800000000000000
+      internalID: 845428039573087153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab688a9f7ea74eeb0800000000000000
+      internalID: -4691489775068608838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71435dcf10bb32ef0800000000000000
+      internalID: -134057946679790569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59f1aa79ff38ce0800000000000000
+      internalID: -1403997631950121521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_99
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 129
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bff7b88dbd6bee0800000000000000
+      internalID: -1245566523821524080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c15da843fde700800000000000000
+      internalID: 571380221216931853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_101
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d085fc09b540ed0800000000000000
+      internalID: -2448731619870634722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4428856e495764a00800000000000000
+      internalID: 740408471129195076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d48c818275acda0800000000000000
+      internalID: -5923826530126377593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f21a5621d7ad0e0800000000000000
+      internalID: -2244343946322825389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94805d27c6c605630800000000000000
+      internalID: 3913747289223792713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_106
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbae87bc13e53890800000000000000
+      internalID: -7478821893700670497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 97
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006ee67573890e20800000000000000
+      internalID: 3317327141064826887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_108
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 94
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50052be21bf5d6b90800000000000000
+      internalID: -7247031010771972091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b69c4fc038bda300800000000000000
+      internalID: 265070472860571319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ae8f0b50645e70800000000000000
+      internalID: 9103006691041910954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979a37c7abb14f3d0800000000000000
+      internalID: -3173881349623535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_112
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da5b7f929ae70f20800000000000000
+      internalID: 3388935160081373904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_113
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15e71c857294680800000000000000
+      internalID: -8770435537170443790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50867479f532c8cc0800000000000000
+      internalID: -3707549499765856251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 33
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bfe6335dde68d0800000000000000
+      internalID: -2851098164605243166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_116
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5731e4e9c53d3f880800000000000000
+      internalID: -8578280470464294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 29
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f04a1c16b8ec060800000000000000
+      internalID: 6975666124820320012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 61
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf93fe070229ce90800000000000000
+      internalID: -7005030331687133242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d724346100ff8d0800000000000000
+      internalID: -2810527546838188746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84b40a34ba12f00800000000000000
+      internalID: 1090340891740817580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ae31f57d1f95830800000000000000
+      internalID: 4060542446366616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7259fc33f41310800000000000000
+      internalID: 1374991229461363789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54089738248104870800000000000000
+      internalID: 8664952357013520453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_124
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb271cfdf5f03310800000000000000
+      internalID: 1382875556807650242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_125
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6206fe0c79d16d0800000000000000
+      internalID: -3018089320362793243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b39a253f6d11c10800000000000000
+      internalID: 2022634048218282814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacador 2_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933407db433ad4a30800000000000000
+      internalID: 4201193474318418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cacador 2_0: 7022683826767780240
+      Cacador 2_1: 4953618628411828493
+      Cacador 2_10: -5771399366669356411
+      Cacador 2_100: 571380221216931853
+      Cacador 2_101: -2448731619870634722
+      Cacador 2_102: 740408471129195076
+      Cacador 2_103: -5923826530126377593
+      Cacador 2_104: -2244343946322825389
+      Cacador 2_105: 3913747289223792713
+      Cacador 2_106: -7478821893700670497
+      Cacador 2_107: 3317327141064826887
+      Cacador 2_108: -7247031010771972091
+      Cacador 2_109: 265070472860571319
+      Cacador 2_11: 2356030416001526289
+      Cacador 2_110: 9103006691041910954
+      Cacador 2_111: -3173881349623535239
+      Cacador 2_112: 3388935160081373904
+      Cacador 2_113: -8770435537170443790
+      Cacador 2_114: -3707549499765856251
+      Cacador 2_115: -2851098164605243166
+      Cacador 2_116: -8578280470464294027
+      Cacador 2_117: 6975666124820320012
+      Cacador 2_118: -7005030331687133242
+      Cacador 2_119: -2810527546838188746
+      Cacador 2_12: 3566685388497264989
+      Cacador 2_120: 1090340891740817580
+      Cacador 2_121: 4060542446366616131
+      Cacador 2_122: 1374991229461363789
+      Cacador 2_123: 8664952357013520453
+      Cacador 2_124: 1382875556807650242
+      Cacador 2_125: -3018089320362793243
+      Cacador 2_126: 2022634048218282814
+      Cacador 2_127: 4201193474318418745
+      Cacador 2_13: -3049367699204699317
+      Cacador 2_14: 1552180166528460554
+      Cacador 2_15: -1874041592343999375
+      Cacador 2_16: -3181131993369380107
+      Cacador 2_17: 5078103380237096852
+      Cacador 2_18: -1411557615862832852
+      Cacador 2_19: -86162241236918797
+      Cacador 2_2: -6153566784449552062
+      Cacador 2_20: 8740687642192959293
+      Cacador 2_21: 2076876329238377445
+      Cacador 2_22: 7675688443970104550
+      Cacador 2_23: 176287779948997978
+      Cacador 2_24: -3492743932120419667
+      Cacador 2_25: -7116633119609342056
+      Cacador 2_26: 1987577441363126296
+      Cacador 2_27: 2326322227919404036
+      Cacador 2_28: 4980200727698056145
+      Cacador 2_29: -8759269674729552494
+      Cacador 2_3: -6881830954361230221
+      Cacador 2_30: 8854728299241054375
+      Cacador 2_31: 6309780842715436681
+      Cacador 2_32: -8133593159728785239
+      Cacador 2_33: 9135764084247026881
+      Cacador 2_34: 5777254225977315065
+      Cacador 2_35: -4436136982068330721
+      Cacador 2_36: 976632532691688274
+      Cacador 2_37: -1723197205943304635
+      Cacador 2_38: 2716723315053665802
+      Cacador 2_39: -272624330086632718
+      Cacador 2_4: 3314354339404127805
+      Cacador 2_40: -6526291246987978207
+      Cacador 2_41: -3979681101261807835
+      Cacador 2_42: 7883647615672441930
+      Cacador 2_43: 6895344202437889233
+      Cacador 2_44: 6889630403445209140
+      Cacador 2_45: 7156313377466474411
+      Cacador 2_46: -2286444633137690573
+      Cacador 2_47: -7975959309782741173
+      Cacador 2_48: 5085061375144835635
+      Cacador 2_49: 7927411088457682974
+      Cacador 2_5: 1411335499731540764
+      Cacador 2_50: 6588270338610161624
+      Cacador 2_51: -4781429674988296533
+      Cacador 2_52: -8533197775207849677
+      Cacador 2_53: 8205221700492684203
+      Cacador 2_54: -8167102134722139235
+      Cacador 2_55: -216983481180707428
+      Cacador 2_56: 220478044092335115
+      Cacador 2_57: -8394929116272130575
+      Cacador 2_58: -7668774343094648610
+      Cacador 2_59: -4460920059082484499
+      Cacador 2_6: 2161845835051195171
+      Cacador 2_60: -8382964423169125256
+      Cacador 2_61: -4058841882790733656
+      Cacador 2_62: 4475534540380396011
+      Cacador 2_63: -7858176049049140930
+      Cacador 2_64: 5473536628692520943
+      Cacador 2_65: 2853566880816898241
+      Cacador 2_66: 2243691467244311985
+      Cacador 2_67: -6848681840213914507
+      Cacador 2_68: -9164138383716307154
+      Cacador 2_69: 5328835933480979604
+      Cacador 2_7: 1506662142167092498
+      Cacador 2_70: -6026379893503528682
+      Cacador 2_71: -7001063193772994004
+      Cacador 2_72: 163062504752771437
+      Cacador 2_73: 3596796599723738560
+      Cacador 2_74: -9126878476885672049
+      Cacador 2_75: 9212148574650345643
+      Cacador 2_76: -6470959690847161506
+      Cacador 2_77: -2864145068186486318
+      Cacador 2_78: -3848596107922525764
+      Cacador 2_79: -7717646047963859291
+      Cacador 2_8: -8989659870621308147
+      Cacador 2_80: 1078837909102854379
+      Cacador 2_81: -5855989053482144379
+      Cacador 2_82: -1424259873602976684
+      Cacador 2_83: -2499333300011570245
+      Cacador 2_84: 2176358311936047462
+      Cacador 2_85: 5070653715568081897
+      Cacador 2_86: 4447566904327754874
+      Cacador 2_87: 1219172565841737508
+      Cacador 2_88: -5045931568617691194
+      Cacador 2_89: -326258967575711567
+      Cacador 2_9: 8419068629530068143
+      Cacador 2_90: 3696395001729893291
+      Cacador 2_91: -950031505593742491
+      Cacador 2_92: -7362360185940630400
+      Cacador 2_93: 4942245897182360258
+      Cacador 2_94: -1100232563225485813
+      Cacador 2_95: 845428039573087153
+      Cacador 2_96: -4691489775068608838
+      Cacador 2_97: -134057946679790569
+      Cacador 2_98: -1403997631950121521
+      Cacador 2_99: -1245566523821524080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

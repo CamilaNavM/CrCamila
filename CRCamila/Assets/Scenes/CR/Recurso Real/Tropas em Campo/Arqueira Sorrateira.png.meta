@@ -1,0 +1,3062 @@
+fileFormatVersion: 2
+guid: 202bb552ed3a1254aab545e112692645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2644388732806661224
+    second: Arqueira Sorrateira_0
+  - first:
+      213: -1416730848117496380
+    second: Arqueira Sorrateira_1
+  - first:
+      213: 7977086203634684671
+    second: Arqueira Sorrateira_2
+  - first:
+      213: 794657134918599381
+    second: Arqueira Sorrateira_3
+  - first:
+      213: 1696710562110729527
+    second: Arqueira Sorrateira_4
+  - first:
+      213: 6869902598336569838
+    second: Arqueira Sorrateira_5
+  - first:
+      213: -4178681477033599706
+    second: Arqueira Sorrateira_6
+  - first:
+      213: -4593869466583586506
+    second: Arqueira Sorrateira_7
+  - first:
+      213: 8495296100373360846
+    second: Arqueira Sorrateira_8
+  - first:
+      213: 2964811944138355292
+    second: Arqueira Sorrateira_9
+  - first:
+      213: -7469440267520086560
+    second: Arqueira Sorrateira_10
+  - first:
+      213: -3580124152766230846
+    second: Arqueira Sorrateira_11
+  - first:
+      213: 8656443428948348096
+    second: Arqueira Sorrateira_12
+  - first:
+      213: 202272245621654383
+    second: Arqueira Sorrateira_13
+  - first:
+      213: -8790387900657089336
+    second: Arqueira Sorrateira_14
+  - first:
+      213: 6936467959725698295
+    second: Arqueira Sorrateira_15
+  - first:
+      213: 3444260960566942998
+    second: Arqueira Sorrateira_16
+  - first:
+      213: -6023125477957852953
+    second: Arqueira Sorrateira_17
+  - first:
+      213: -3695880302100525645
+    second: Arqueira Sorrateira_18
+  - first:
+      213: 3774789244894210729
+    second: Arqueira Sorrateira_19
+  - first:
+      213: -1747101986030976814
+    second: Arqueira Sorrateira_20
+  - first:
+      213: -8022798647220127427
+    second: Arqueira Sorrateira_21
+  - first:
+      213: -4182338627772913150
+    second: Arqueira Sorrateira_22
+  - first:
+      213: 6350601428746817237
+    second: Arqueira Sorrateira_23
+  - first:
+      213: 8465424334209768903
+    second: Arqueira Sorrateira_24
+  - first:
+      213: -3834393088769526239
+    second: Arqueira Sorrateira_25
+  - first:
+      213: 7340049573220691384
+    second: Arqueira Sorrateira_26
+  - first:
+      213: 8241162798198817845
+    second: Arqueira Sorrateira_27
+  - first:
+      213: -5811324676832501177
+    second: Arqueira Sorrateira_28
+  - first:
+      213: 1531769952125220991
+    second: Arqueira Sorrateira_29
+  - first:
+      213: -8214797407368761408
+    second: Arqueira Sorrateira_30
+  - first:
+      213: 3761962498726142287
+    second: Arqueira Sorrateira_31
+  - first:
+      213: 7702418081742053331
+    second: Arqueira Sorrateira_32
+  - first:
+      213: -4548008111966024194
+    second: Arqueira Sorrateira_33
+  - first:
+      213: 6689967932956148638
+    second: Arqueira Sorrateira_34
+  - first:
+      213: -4713339141620426466
+    second: Arqueira Sorrateira_35
+  - first:
+      213: -8119646507175936388
+    second: Arqueira Sorrateira_36
+  - first:
+      213: -3242970794448417319
+    second: Arqueira Sorrateira_37
+  - first:
+      213: -3243486318137587191
+    second: Arqueira Sorrateira_38
+  - first:
+      213: 1598689903812753755
+    second: Arqueira Sorrateira_39
+  - first:
+      213: 6879493328697281983
+    second: Arqueira Sorrateira_40
+  - first:
+      213: -5923524291194308475
+    second: Arqueira Sorrateira_41
+  - first:
+      213: 6319111899802176537
+    second: Arqueira Sorrateira_42
+  - first:
+      213: -6350761541460840977
+    second: Arqueira Sorrateira_43
+  - first:
+      213: 7377340975674667497
+    second: Arqueira Sorrateira_44
+  - first:
+      213: 6962005130656323690
+    second: Arqueira Sorrateira_45
+  - first:
+      213: 7712256076994887689
+    second: Arqueira Sorrateira_46
+  - first:
+      213: 3907313992707991675
+    second: Arqueira Sorrateira_47
+  - first:
+      213: -6180295728903202027
+    second: Arqueira Sorrateira_48
+  - first:
+      213: -2363196059001627484
+    second: Arqueira Sorrateira_49
+  - first:
+      213: -259619947779838033
+    second: Arqueira Sorrateira_50
+  - first:
+      213: 4217954723449569489
+    second: Arqueira Sorrateira_51
+  - first:
+      213: 6506622576944219884
+    second: Arqueira Sorrateira_52
+  - first:
+      213: -1651455797068730541
+    second: Arqueira Sorrateira_53
+  - first:
+      213: 4345401416083044649
+    second: Arqueira Sorrateira_54
+  - first:
+      213: 7997931885975280876
+    second: Arqueira Sorrateira_55
+  - first:
+      213: 1299183291925875244
+    second: Arqueira Sorrateira_56
+  - first:
+      213: -8172423298415691722
+    second: Arqueira Sorrateira_57
+  - first:
+      213: 513025020161290138
+    second: Arqueira Sorrateira_58
+  - first:
+      213: 7978455359960777217
+    second: Arqueira Sorrateira_59
+  - first:
+      213: -3066911054313243248
+    second: Arqueira Sorrateira_60
+  - first:
+      213: -4757033429823321937
+    second: Arqueira Sorrateira_61
+  - first:
+      213: -6296698298776452199
+    second: Arqueira Sorrateira_62
+  - first:
+      213: 6860779375540158475
+    second: Arqueira Sorrateira_63
+  - first:
+      213: 6862313507211201722
+    second: Arqueira Sorrateira_64
+  - first:
+      213: 501092636290617007
+    second: Arqueira Sorrateira_65
+  - first:
+      213: -4055224190719014499
+    second: Arqueira Sorrateira_66
+  - first:
+      213: 8412389138833576540
+    second: Arqueira Sorrateira_67
+  - first:
+      213: 1822625859073040417
+    second: Arqueira Sorrateira_68
+  - first:
+      213: 8314979014456284616
+    second: Arqueira Sorrateira_69
+  - first:
+      213: -3953863871092088711
+    second: Arqueira Sorrateira_70
+  - first:
+      213: -5974348868827001058
+    second: Arqueira Sorrateira_71
+  - first:
+      213: 1258949455711892036
+    second: Arqueira Sorrateira_72
+  - first:
+      213: 8499699568741333342
+    second: Arqueira Sorrateira_73
+  - first:
+      213: 7651304767223846802
+    second: Arqueira Sorrateira_74
+  - first:
+      213: -7042294754405738214
+    second: Arqueira Sorrateira_75
+  - first:
+      213: -6557508150107616382
+    second: Arqueira Sorrateira_76
+  - first:
+      213: -13435601142009800
+    second: Arqueira Sorrateira_77
+  - first:
+      213: 4920517278288886253
+    second: Arqueira Sorrateira_78
+  - first:
+      213: 3010018076241309079
+    second: Arqueira Sorrateira_79
+  - first:
+      213: 1040186283101178440
+    second: Arqueira Sorrateira_80
+  - first:
+      213: 4954589596314594130
+    second: Arqueira Sorrateira_81
+  - first:
+      213: -2835224324676885711
+    second: Arqueira Sorrateira_82
+  - first:
+      213: -5791217461037780040
+    second: Arqueira Sorrateira_83
+  - first:
+      213: -2238925018714609267
+    second: Arqueira Sorrateira_84
+  - first:
+      213: 8541295579629568032
+    second: Arqueira Sorrateira_85
+  - first:
+      213: -7664659381620713987
+    second: Arqueira Sorrateira_86
+  - first:
+      213: -3458425044075054295
+    second: Arqueira Sorrateira_87
+  - first:
+      213: -5782864167676161239
+    second: Arqueira Sorrateira_88
+  - first:
+      213: 783139814592979360
+    second: Arqueira Sorrateira_89
+  - first:
+      213: 5090105189700067846
+    second: Arqueira Sorrateira_90
+  - first:
+      213: 7881210647263454675
+    second: Arqueira Sorrateira_91
+  - first:
+      213: -5989449597063340861
+    second: Arqueira Sorrateira_92
+  - first:
+      213: 1296760706353384819
+    second: Arqueira Sorrateira_93
+  - first:
+      213: -1498283776519005285
+    second: Arqueira Sorrateira_94
+  - first:
+      213: 378318388569983471
+    second: Arqueira Sorrateira_95
+  - first:
+      213: -4534898027862914886
+    second: Arqueira Sorrateira_96
+  - first:
+      213: -927815832765312497
+    second: Arqueira Sorrateira_97
+  - first:
+      213: -4185057007437482360
+    second: Arqueira Sorrateira_98
+  - first:
+      213: -3100210230353892569
+    second: Arqueira Sorrateira_99
+  - first:
+      213: 7496448629134350879
+    second: Arqueira Sorrateira_100
+  - first:
+      213: -2922655041567852771
+    second: Arqueira Sorrateira_101
+  - first:
+      213: 114423584572634946
+    second: Arqueira Sorrateira_102
+  - first:
+      213: 8387071256221257993
+    second: Arqueira Sorrateira_103
+  - first:
+      213: 7110945528008939368
+    second: Arqueira Sorrateira_104
+  - first:
+      213: 4233647947960804665
+    second: Arqueira Sorrateira_105
+  - first:
+      213: -4202636651424408528
+    second: Arqueira Sorrateira_106
+  - first:
+      213: -1508946590622517833
+    second: Arqueira Sorrateira_107
+  - first:
+      213: 5979909910155025806
+    second: Arqueira Sorrateira_108
+  - first:
+      213: -8198576018577509984
+    second: Arqueira Sorrateira_109
+  - first:
+      213: -4860933700306626389
+    second: Arqueira Sorrateira_110
+  - first:
+      213: -7222724806833811989
+    second: Arqueira Sorrateira_111
+  - first:
+      213: 3701532312666888803
+    second: Arqueira Sorrateira_112
+  - first:
+      213: 8673726930104858918
+    second: Arqueira Sorrateira_113
+  - first:
+      213: -5096941400802014183
+    second: Arqueira Sorrateira_114
+  - first:
+      213: -2515182332170427725
+    second: Arqueira Sorrateira_115
+  - first:
+      213: 8760268276702379133
+    second: Arqueira Sorrateira_116
+  - first:
+      213: -7857778961917937071
+    second: Arqueira Sorrateira_117
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7305457e3d4bd0800000000000000
+      internalID: -2644388732806661224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 964
+        width: 114
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c56e9fbcc2c65ce0800000000000000
+      internalID: -1416730848117496380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1150
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2905643ad44be60800000000000000
+      internalID: 7977086203634684671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1154
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28d053470370b00800000000000000
+      internalID: 794657134918599381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1067
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6345444deb8710800000000000000
+      internalID: 1696710562110729527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1164
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1626fc30cc65f50800000000000000
+      internalID: 6869902598336569838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1085
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d58e316575206c0800000000000000
+      internalID: -4178681477033599706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1171
+        width: 225
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639a5cb3f0c4f30c0800000000000000
+      internalID: -4593869466583586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1099
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f3841bca55e570800000000000000
+      internalID: 8495296100373360846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 870
+        width: 154
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b33441c0252920800000000000000
+      internalID: 2964811944138355292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1170
+        width: 223
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed6777c6a7375890800000000000000
+      internalID: -7469440267520086560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1059
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce82962d08d05ec0800000000000000
+      internalID: -3580124152766230846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1089
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0bb05f6dd12870800000000000000
+      internalID: 8656443428948348096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1172
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630334298d9ec200800000000000000
+      internalID: 202272245621654383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_14
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1096
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4417f17c4420680800000000000000
+      internalID: -8790387900657089336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc245fbbd8434060800000000000000
+      internalID: 6936467959725698295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1040
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d965c58197ccf20800000000000000
+      internalID: 3444260960566942998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 946
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a7b82a4f896ca0800000000000000
+      internalID: -6023125477957852953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 970
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd4fe4627895bcc0800000000000000
+      internalID: -3695880302100525645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1012
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa62eb81deb26430800000000000000
+      internalID: 3774789244894210729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 958
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d08e30100c01c7e0800000000000000
+      internalID: -1747101986030976814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1017
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b5ff032b49a090800000000000000
+      internalID: -8022798647220127427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 933
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a63315d2955f5c0800000000000000
+      internalID: -4182338627772913150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1012
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deca8e3a5ed12850800000000000000
+      internalID: 6350601428746817237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5589849a3b7570800000000000000
+      internalID: 8465424334209768903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 815
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126fdae1dcf79cac0800000000000000
+      internalID: -3834393088769526239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 888
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda39592381dd560800000000000000
+      internalID: 7340049573220691384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 789
+        width: 260
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340ec2c6ed7e5270800000000000000
+      internalID: 8241162798198817845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 910
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742efe20ff60a5fa0800000000000000
+      internalID: -5811324676832501177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 867
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787a02e7a0f14510800000000000000
+      internalID: 1531769952125220991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_30
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 905
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf2cf7284d2ffd80800000000000000
+      internalID: -8214797407368761408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 809
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a9eaf5fc253430800000000000000
+      internalID: 3761962498726142287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_32
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 850
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd7c9af6c74ea60800000000000000
+      internalID: 7702418081742053331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_33
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 902
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8ba2f7ba32e0c0800000000000000
+      internalID: -4548008111966024194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930b9ad36a87dc50800000000000000
+      internalID: 6689967932956148638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 707
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1915c5e50bd69eb0800000000000000
+      internalID: -4713339141620426466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 813
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e790e7588315f80800000000000000
+      internalID: -8119646507175936388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 699
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd8fe39e37aef2d0800000000000000
+      internalID: -3242970794448417319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 617
+        width: 119
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ac19dd062dcf2d0800000000000000
+      internalID: -3243486318137587191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 707
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5933ce4fffaf2610800000000000000
+      internalID: 1598689903812753755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_40
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 781
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdcbabbbbed87f50800000000000000
+      internalID: 6879493328697281983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 767
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58837f49a0a6bcda0800000000000000
+      internalID: -5923524291194308475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_42
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 711
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c07a3facef1b750800000000000000
+      internalID: 6319111899802176537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 688
+        width: 107
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda30c96009dd7a0800000000000000
+      internalID: -6350761541460840977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 658
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1b502d784916660800000000000000
+      internalID: 7377340975674667497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 591
+        width: 161
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a689731b7c20e9060800000000000000
+      internalID: 6962005130656323690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 674
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900c02e6a00770b60800000000000000
+      internalID: 7712256076994887689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 551
+        width: 100
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e541ef51993630800000000000000
+      internalID: 3907313992707991675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_48
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 630
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5cd777cd2b3aa0800000000000000
+      internalID: -6180295728903202027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_49
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 703
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acda9084bd343fd0800000000000000
+      internalID: -2363196059001627484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 640
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2af37805a56cf0800000000000000
+      internalID: -259619947779838033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 550
+        width: 111
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d084e9297f298a30800000000000000
+      internalID: 4217954723449569489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 591
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce60c4a92ca2c4a50800000000000000
+      internalID: 6506622576944219884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 522
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f657dc3b9d419e0800000000000000
+      internalID: -1651455797068730541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 553
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929fb14a097fd4c30800000000000000
+      internalID: 4345401416083044649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 569
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9359ecac5efe60800000000000000
+      internalID: 7997931885975280876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 567
+        width: 84
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a4d551250a70210800000000000000
+      internalID: 1299183291925875244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_57
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 611
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6387ec73f48b59e80800000000000000
+      internalID: -8172423298415691722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 523
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe997a981ae1700800000000000000
+      internalID: 513025020161290138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10206c2d0ea29be60800000000000000
+      internalID: 7978455359960777217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 424
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09db0f135a42075d0800000000000000
+      internalID: -3066911054313243248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 463
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa809b6ac4f9bfdb0800000000000000
+      internalID: -4757033429823321937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 481
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938f933242ad98a0800000000000000
+      internalID: -6296698298776452199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_63
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 403
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c569fd72663f50800000000000000
+      internalID: 6860779375540158475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 375
+        width: 100
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc40b6d6c5db3f50800000000000000
+      internalID: 6862313507211201722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_65
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 484
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae8aa9091d34f600800000000000000
+      internalID: 501092636290617007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 421
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d994f938513f8b7c0800000000000000
+      internalID: -4055224190719014499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_67
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 495
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52978cd95fceb470800000000000000
+      internalID: 8412389138833576540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 466
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206d78ef844b4910800000000000000
+      internalID: 1822625859073040417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_69
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 436
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c59e77eb5db46370800000000000000
+      internalID: 8314979014456284616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9702e49f1cd0129c0800000000000000
+      internalID: -3953863871092088711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 364
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4f457b59d61da0800000000000000
+      internalID: -5974348868827001058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 377
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f0e91cdfa87110800000000000000
+      internalID: 1258949455711892036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_73
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 314
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e593e5479bff4f570800000000000000
+      internalID: 8499699568741333342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_74
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 409
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29751aeb525ee2a60800000000000000
+      internalID: 7651304767223846802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_75
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 327
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199c088b3eb44e90800000000000000
+      internalID: -7042294754405738214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_76
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 321
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4b15a41d0ff4a0800000000000000
+      internalID: -6557508150107616382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 388
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8303696546440dff0800000000000000
+      internalID: -13435601142009800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_78
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 357
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9b4930560394440800000000000000
+      internalID: 4920517278288886253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_79
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 310
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d2ed91e7bb5c920800000000000000
+      internalID: 3010018076241309079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_80
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 365
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aca70d9eb7f6e00800000000000000
+      internalID: 1040186283101178440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6d20ccfc32c440800000000000000
+      internalID: 4954589596314594130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13366159f7247a8d0800000000000000
+      internalID: -2835224324676885711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 216
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3bdc1076671afa0800000000000000
+      internalID: -5791217461037780040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 293
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e7ccce8dbde0e0800000000000000
+      internalID: -2238925018714609267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_85
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 223
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204f617317c88670800000000000000
+      internalID: 8541295579629568032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 304
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d12ac6e8a1a590800000000000000
+      internalID: -7664659381620713987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_87
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 235
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7795feb43100d0800000000000000
+      internalID: -3458425044075054295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 225
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923d35dada32fbfa0800000000000000
+      internalID: -5782864167676161239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_89
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 245
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1a74a13854eda00800000000000000
+      internalID: 783139814592979360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_90
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 289
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602e17593bfa3a640800000000000000
+      internalID: 5090105189700067846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_91
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 232
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d52a26c35faf5d60800000000000000
+      internalID: 7881210647263454675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_92
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 244
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccdeee235331eca0800000000000000
+      internalID: -5989449597063340861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc0ecedf40ff110800000000000000
+      internalID: 1296760706353384819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9adfe7d6053be0800000000000000
+      internalID: -1498283776519005285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe946bae19e004500800000000000000
+      internalID: 378318388569983471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab88c94454ec011c0800000000000000
+      internalID: -4534898027862914886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_97
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 158
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025a077a6cbf13f0800000000000000
+      internalID: -927815832765312497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_98
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 163
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886fdea33d0bbe5c0800000000000000
+      internalID: -4185057007437482360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_99
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 105
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b69ba9837d9f4d0800000000000000
+      internalID: -3100210230353892569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_100
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 196
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a54807f4cb80860800000000000000
+      internalID: 7496448629134350879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_101
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 139
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f75e79b4a077d0800000000000000
+      internalID: -2922655041567852771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 96
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f068d4a3869100800000000000000
+      internalID: 114423584572634946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_103
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 185
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90115f4fedcd46470800000000000000
+      internalID: 8387071256221257993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_104
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 42
+        width: 94
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867102648472fa260800000000000000
+      internalID: 7110945528008939368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e34ab060f0ca30800000000000000
+      internalID: 4233647947960804665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c9fc76b3c3da5c0800000000000000
+      internalID: -4202636651424408528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_107
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b578e012152f0be0800000000000000
+      internalID: -1508946590622517833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd0af5168ecf250800000000000000
+      internalID: 5979909910155025806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_109
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 100
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b6ac8c8ec83e80800000000000000
+      internalID: -8198576018577509984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_110
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89f7ccd8e7a8cb0800000000000000
+      internalID: -4860933700306626389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_111
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 74
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc44a4e0ab3cb90800000000000000
+      internalID: -7222724806833811989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_112
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 61
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad32dd60c7e5330800000000000000
+      internalID: 3701532312666888803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_113
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 61
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b3a300b44f5870800000000000000
+      internalID: 8673726930104858918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_114
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 24
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc63cfcc60449b0800000000000000
+      internalID: -5096941400802014183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a4a1bef6481dd0800000000000000
+      internalID: -2515182332170427725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_116
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf7f17599b29970800000000000000
+      internalID: 8760268276702379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueira Sorrateira_117
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af75b9aaf83f290800000000000000
+      internalID: -7857778961917937071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arqueira Sorrateira_0: -2644388732806661224
+      Arqueira Sorrateira_1: -1416730848117496380
+      Arqueira Sorrateira_10: -7469440267520086560
+      Arqueira Sorrateira_100: 7496448629134350879
+      Arqueira Sorrateira_101: -2922655041567852771
+      Arqueira Sorrateira_102: 114423584572634946
+      Arqueira Sorrateira_103: 8387071256221257993
+      Arqueira Sorrateira_104: 7110945528008939368
+      Arqueira Sorrateira_105: 4233647947960804665
+      Arqueira Sorrateira_106: -4202636651424408528
+      Arqueira Sorrateira_107: -1508946590622517833
+      Arqueira Sorrateira_108: 5979909910155025806
+      Arqueira Sorrateira_109: -8198576018577509984
+      Arqueira Sorrateira_11: -3580124152766230846
+      Arqueira Sorrateira_110: -4860933700306626389
+      Arqueira Sorrateira_111: -7222724806833811989
+      Arqueira Sorrateira_112: 3701532312666888803
+      Arqueira Sorrateira_113: 8673726930104858918
+      Arqueira Sorrateira_114: -5096941400802014183
+      Arqueira Sorrateira_115: -2515182332170427725
+      Arqueira Sorrateira_116: 8760268276702379133
+      Arqueira Sorrateira_117: -7857778961917937071
+      Arqueira Sorrateira_12: 8656443428948348096
+      Arqueira Sorrateira_13: 202272245621654383
+      Arqueira Sorrateira_14: -8790387900657089336
+      Arqueira Sorrateira_15: 6936467959725698295
+      Arqueira Sorrateira_16: 3444260960566942998
+      Arqueira Sorrateira_17: -6023125477957852953
+      Arqueira Sorrateira_18: -3695880302100525645
+      Arqueira Sorrateira_19: 3774789244894210729
+      Arqueira Sorrateira_2: 7977086203634684671
+      Arqueira Sorrateira_20: -1747101986030976814
+      Arqueira Sorrateira_21: -8022798647220127427
+      Arqueira Sorrateira_22: -4182338627772913150
+      Arqueira Sorrateira_23: 6350601428746817237
+      Arqueira Sorrateira_24: 8465424334209768903
+      Arqueira Sorrateira_25: -3834393088769526239
+      Arqueira Sorrateira_26: 7340049573220691384
+      Arqueira Sorrateira_27: 8241162798198817845
+      Arqueira Sorrateira_28: -5811324676832501177
+      Arqueira Sorrateira_29: 1531769952125220991
+      Arqueira Sorrateira_3: 794657134918599381
+      Arqueira Sorrateira_30: -8214797407368761408
+      Arqueira Sorrateira_31: 3761962498726142287
+      Arqueira Sorrateira_32: 7702418081742053331
+      Arqueira Sorrateira_33: -4548008111966024194
+      Arqueira Sorrateira_34: 6689967932956148638
+      Arqueira Sorrateira_35: -4713339141620426466
+      Arqueira Sorrateira_36: -8119646507175936388
+      Arqueira Sorrateira_37: -3242970794448417319
+      Arqueira Sorrateira_38: -3243486318137587191
+      Arqueira Sorrateira_39: 1598689903812753755
+      Arqueira Sorrateira_4: 1696710562110729527
+      Arqueira Sorrateira_40: 6879493328697281983
+      Arqueira Sorrateira_41: -5923524291194308475
+      Arqueira Sorrateira_42: 6319111899802176537
+      Arqueira Sorrateira_43: -6350761541460840977
+      Arqueira Sorrateira_44: 7377340975674667497
+      Arqueira Sorrateira_45: 6962005130656323690
+      Arqueira Sorrateira_46: 7712256076994887689
+      Arqueira Sorrateira_47: 3907313992707991675
+      Arqueira Sorrateira_48: -6180295728903202027
+      Arqueira Sorrateira_49: -2363196059001627484
+      Arqueira Sorrateira_5: 6869902598336569838
+      Arqueira Sorrateira_50: -259619947779838033
+      Arqueira Sorrateira_51: 4217954723449569489
+      Arqueira Sorrateira_52: 6506622576944219884
+      Arqueira Sorrateira_53: -1651455797068730541
+      Arqueira Sorrateira_54: 4345401416083044649
+      Arqueira Sorrateira_55: 7997931885975280876
+      Arqueira Sorrateira_56: 1299183291925875244
+      Arqueira Sorrateira_57: -8172423298415691722
+      Arqueira Sorrateira_58: 513025020161290138
+      Arqueira Sorrateira_59: 7978455359960777217
+      Arqueira Sorrateira_6: -4178681477033599706
+      Arqueira Sorrateira_60: -3066911054313243248
+      Arqueira Sorrateira_61: -4757033429823321937
+      Arqueira Sorrateira_62: -6296698298776452199
+      Arqueira Sorrateira_63: 6860779375540158475
+      Arqueira Sorrateira_64: 6862313507211201722
+      Arqueira Sorrateira_65: 501092636290617007
+      Arqueira Sorrateira_66: -4055224190719014499
+      Arqueira Sorrateira_67: 8412389138833576540
+      Arqueira Sorrateira_68: 1822625859073040417
+      Arqueira Sorrateira_69: 8314979014456284616
+      Arqueira Sorrateira_7: -4593869466583586506
+      Arqueira Sorrateira_70: -3953863871092088711
+      Arqueira Sorrateira_71: -5974348868827001058
+      Arqueira Sorrateira_72: 1258949455711892036
+      Arqueira Sorrateira_73: 8499699568741333342
+      Arqueira Sorrateira_74: 7651304767223846802
+      Arqueira Sorrateira_75: -7042294754405738214
+      Arqueira Sorrateira_76: -6557508150107616382
+      Arqueira Sorrateira_77: -13435601142009800
+      Arqueira Sorrateira_78: 4920517278288886253
+      Arqueira Sorrateira_79: 3010018076241309079
+      Arqueira Sorrateira_8: 8495296100373360846
+      Arqueira Sorrateira_80: 1040186283101178440
+      Arqueira Sorrateira_81: 4954589596314594130
+      Arqueira Sorrateira_82: -2835224324676885711
+      Arqueira Sorrateira_83: -5791217461037780040
+      Arqueira Sorrateira_84: -2238925018714609267
+      Arqueira Sorrateira_85: 8541295579629568032
+      Arqueira Sorrateira_86: -7664659381620713987
+      Arqueira Sorrateira_87: -3458425044075054295
+      Arqueira Sorrateira_88: -5782864167676161239
+      Arqueira Sorrateira_89: 783139814592979360
+      Arqueira Sorrateira_9: 2964811944138355292
+      Arqueira Sorrateira_90: 5090105189700067846
+      Arqueira Sorrateira_91: 7881210647263454675
+      Arqueira Sorrateira_92: -5989449597063340861
+      Arqueira Sorrateira_93: 1296760706353384819
+      Arqueira Sorrateira_94: -1498283776519005285
+      Arqueira Sorrateira_95: 378318388569983471
+      Arqueira Sorrateira_96: -4534898027862914886
+      Arqueira Sorrateira_97: -927815832765312497
+      Arqueira Sorrateira_98: -4185057007437482360
+      Arqueira Sorrateira_99: -3100210230353892569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

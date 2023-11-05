@@ -1,0 +1,1987 @@
+fileFormatVersion: 2
+guid: 421b957585e602c48b0513c08b214f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6286440991111315754
+    second: Espiritos de fogo_0
+  - first:
+      213: 4927506719681656754
+    second: Espiritos de fogo_1
+  - first:
+      213: -4606292199529842592
+    second: Espiritos de fogo_2
+  - first:
+      213: 5406454598568048271
+    second: Espiritos de fogo_3
+  - first:
+      213: 5898177956992877763
+    second: Espiritos de fogo_4
+  - first:
+      213: 7931448077619392943
+    second: Espiritos de fogo_5
+  - first:
+      213: 8971599876749835233
+    second: Espiritos de fogo_6
+  - first:
+      213: 4460545841128112027
+    second: Espiritos de fogo_7
+  - first:
+      213: 7788694066865363166
+    second: Espiritos de fogo_8
+  - first:
+      213: 359085087507278747
+    second: Espiritos de fogo_9
+  - first:
+      213: 2816222232229523490
+    second: Espiritos de fogo_10
+  - first:
+      213: -4757577486423311400
+    second: Espiritos de fogo_11
+  - first:
+      213: 6172518683201233656
+    second: Espiritos de fogo_12
+  - first:
+      213: 8371380992497333835
+    second: Espiritos de fogo_13
+  - first:
+      213: -3966752678039923983
+    second: Espiritos de fogo_14
+  - first:
+      213: -2728535650300354621
+    second: Espiritos de fogo_15
+  - first:
+      213: -8033143832108667961
+    second: Espiritos de fogo_16
+  - first:
+      213: 6554070207605123110
+    second: Espiritos de fogo_17
+  - first:
+      213: 3884062455061822413
+    second: Espiritos de fogo_18
+  - first:
+      213: -3526614696891932221
+    second: Espiritos de fogo_19
+  - first:
+      213: -7598508194480649507
+    second: Espiritos de fogo_20
+  - first:
+      213: 7766597738180476796
+    second: Espiritos de fogo_21
+  - first:
+      213: -8514179083379033535
+    second: Espiritos de fogo_22
+  - first:
+      213: -5961724324568621185
+    second: Espiritos de fogo_23
+  - first:
+      213: -464526448273317251
+    second: Espiritos de fogo_24
+  - first:
+      213: -7835187877444476640
+    second: Espiritos de fogo_25
+  - first:
+      213: -5791553262826283917
+    second: Espiritos de fogo_26
+  - first:
+      213: -588786716300684985
+    second: Espiritos de fogo_27
+  - first:
+      213: -8924004933741516581
+    second: Espiritos de fogo_28
+  - first:
+      213: -2332665605557061128
+    second: Espiritos de fogo_29
+  - first:
+      213: -4048853836296995310
+    second: Espiritos de fogo_30
+  - first:
+      213: -7040639108564514894
+    second: Espiritos de fogo_31
+  - first:
+      213: -1222306817519289482
+    second: Espiritos de fogo_32
+  - first:
+      213: -2335842001653132639
+    second: Espiritos de fogo_33
+  - first:
+      213: 4289775807192349909
+    second: Espiritos de fogo_34
+  - first:
+      213: -7844388142158520048
+    second: Espiritos de fogo_35
+  - first:
+      213: -8666600668396981653
+    second: Espiritos de fogo_36
+  - first:
+      213: -3681908781745175727
+    second: Espiritos de fogo_37
+  - first:
+      213: -8110536093830347909
+    second: Espiritos de fogo_38
+  - first:
+      213: -6891450497824387837
+    second: Espiritos de fogo_39
+  - first:
+      213: 657217012008575280
+    second: Espiritos de fogo_40
+  - first:
+      213: -8449507696624772074
+    second: Espiritos de fogo_41
+  - first:
+      213: -9080510744544987942
+    second: Espiritos de fogo_42
+  - first:
+      213: -1769777563404547900
+    second: Espiritos de fogo_43
+  - first:
+      213: 7150115451058342239
+    second: Espiritos de fogo_44
+  - first:
+      213: 2079312535126295562
+    second: Espiritos de fogo_45
+  - first:
+      213: -3541697844581139654
+    second: Espiritos de fogo_46
+  - first:
+      213: -5671926551388979853
+    second: Espiritos de fogo_47
+  - first:
+      213: 1462945378941684343
+    second: Espiritos de fogo_48
+  - first:
+      213: 2697761504569273890
+    second: Espiritos de fogo_49
+  - first:
+      213: 1473499798789234942
+    second: Espiritos de fogo_50
+  - first:
+      213: 7191492250818982037
+    second: Espiritos de fogo_51
+  - first:
+      213: -5144682690328394604
+    second: Espiritos de fogo_52
+  - first:
+      213: 1116737806822613908
+    second: Espiritos de fogo_53
+  - first:
+      213: -4606685517849759511
+    second: Espiritos de fogo_54
+  - first:
+      213: 539329208989798846
+    second: Espiritos de fogo_55
+  - first:
+      213: 7644564884851331674
+    second: Espiritos de fogo_56
+  - first:
+      213: 4317158311800320814
+    second: Espiritos de fogo_57
+  - first:
+      213: 4626961738758695021
+    second: Espiritos de fogo_58
+  - first:
+      213: 4689717307982427894
+    second: Espiritos de fogo_59
+  - first:
+      213: -90252859396056539
+    second: Espiritos de fogo_60
+  - first:
+      213: 7556723794754038726
+    second: Espiritos de fogo_61
+  - first:
+      213: -1508366441889701870
+    second: Espiritos de fogo_62
+  - first:
+      213: 6270672569859081353
+    second: Espiritos de fogo_63
+  - first:
+      213: 7103597125443693357
+    second: Espiritos de fogo_64
+  - first:
+      213: -6762286280568281711
+    second: Espiritos de fogo_65
+  - first:
+      213: 3861872192092303680
+    second: Espiritos de fogo_66
+  - first:
+      213: -771956752576427136
+    second: Espiritos de fogo_67
+  - first:
+      213: 4488304479546937651
+    second: Espiritos de fogo_68
+  - first:
+      213: -2048799643343534314
+    second: Espiritos de fogo_69
+  - first:
+      213: 2953161212617939241
+    second: Espiritos de fogo_70
+  - first:
+      213: 1477217712754530628
+    second: Espiritos de fogo_71
+  - first:
+      213: 3072768385494141645
+    second: Espiritos de fogo_72
+  - first:
+      213: 6681093261335216910
+    second: Espiritos de fogo_73
+  - first:
+      213: -9166806112864640991
+    second: Espiritos de fogo_74
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espiritos de fogo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2105a046cced3750800000000000000
+      internalID: 6286440991111315754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 350
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b9f62145026440800000000000000
+      internalID: 4927506719681656754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 350
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068fe5356a92310c0800000000000000
+      internalID: -4606292199529842592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 348
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86fce110d5970b40800000000000000
+      internalID: 5406454598568048271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 340
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4899c1a998ad150800000000000000
+      internalID: 5898177956992877763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 316
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa175f4010a221e60800000000000000
+      internalID: 7931448077619392943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 324
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebbc98ed86818c70800000000000000
+      internalID: 8971599876749835233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 311
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f79cc3fca07ed30800000000000000
+      internalID: 4460545841128112027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 299
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8d3bfccfff61c60800000000000000
+      internalID: 7788694066865363166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be20d0cf9bbf400800000000000000
+      internalID: 359085087507278747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 262
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203990033b351720800000000000000
+      internalID: 2816222232229523490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 290
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbb75a9b70b9fdb0800000000000000
+      internalID: -4757577486423311400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2eba9f90139a550800000000000000
+      internalID: 6172518683201233656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 279
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b241c8ae1d2470800000000000000
+      internalID: 8371380992497333835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 260
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d991c47343f8c0800000000000000
+      internalID: -3966752678039923983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf9bde484b422ad0800000000000000
+      internalID: -2728535650300354621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 262
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbea810f3a848090800000000000000
+      internalID: -8033143832108667961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 265
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628264df02cb4fa50800000000000000
+      internalID: 6554070207605123110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 230
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb34676936f6e530800000000000000
+      internalID: 3884062455061822413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 244
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a5143e92fe0fc0800000000000000
+      internalID: -3526614696891932221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda06154e0dac8690800000000000000
+      internalID: -7598508194480649507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 233
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f79916e7f78cb60800000000000000
+      internalID: 7766597738180476796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 208
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab125db3f87d980800000000000000
+      internalID: -8514179083379033535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 233
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f18493053b34da0800000000000000
+      internalID: -5961724324568621185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 208
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7225ed08abad89f0800000000000000
+      internalID: -464526448273317251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 214
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a9785322d34390800000000000000
+      internalID: -7835187877444476640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1c7f0ef440afa0800000000000000
+      internalID: -5791553262826283917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741dd6ed99534d7f0800000000000000
+      internalID: -588786716300684985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 178
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e08e4bc0972480800000000000000
+      internalID: -8924004933741516581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 178
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9fff0adf4b0afd0800000000000000
+      internalID: -2332665605557061128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 194
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3a0c33e49fc7c0800000000000000
+      internalID: -4048853836296995310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 179
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b70a4e9800aa4e90800000000000000
+      internalID: -7040639108564514894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 196
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b793fec6e790fe0800000000000000
+      internalID: -1222306817519289482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 166
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21708431c659fd0800000000000000
+      internalID: -2335842001653132639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcb3c15e58588b30800000000000000
+      internalID: 4289775807192349909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 166
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ea5acb82232390800000000000000
+      internalID: -7844388142158520048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 179
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62f8061c9c0ab780800000000000000
+      internalID: -8666600668396981653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15300b8787b37ecc0800000000000000
+      internalID: -3681908781745175727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 149
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730245e466917f80800000000000000
+      internalID: -8110536093830347909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0df1e846ac50a0800000000000000
+      internalID: -6891450497824387837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 151
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316d1de367ee1900800000000000000
+      internalID: 657217012008575280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 141
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c50cf64815dba80800000000000000
+      internalID: -8449507696624772074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 129
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad43744a69b8bf180800000000000000
+      internalID: -9080510744544987942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c0d9ceac7077e0800000000000000
+      internalID: -1769777563404547900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 120
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594d5bae105a3360800000000000000
+      internalID: 7150115451058342239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 120
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a044839ebb33bdc10800000000000000
+      internalID: 2079312535126295562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b79f7339c59dec0800000000000000
+      internalID: -3541697844581139654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 124
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7a584ad44941b0800000000000000
+      internalID: -5671926551388979853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a4e95321d6d4410800000000000000
+      internalID: 1462945378941684343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e23988bcf507520800000000000000
+      internalID: 2697761504569273890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 92
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02173924ce27410800000000000000
+      internalID: 1473499798789234942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5903a0799105dc360800000000000000
+      internalID: 7191492250818982037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 72
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49400e0d95a6a98b0800000000000000
+      internalID: -5144682690328394604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49329ea5e137f7f00800000000000000
+      internalID: 1116737806822613908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f0a4cde3c110c0800000000000000
+      internalID: -4606685517849759511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb154dede051c7700800000000000000
+      internalID: 539329208989798846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a521df79243f61a60800000000000000
+      internalID: 7644564884851331674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23bbfd7c90a9eb30800000000000000
+      internalID: 4317158311800320814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68290ccf25463040800000000000000
+      internalID: 4626961738758695021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63b4f5b09351140800000000000000
+      internalID: 4689717307982427894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 29
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a1cb7a08b5fbef0800000000000000
+      internalID: -90252859396056539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 29
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb6e0c0140eed860800000000000000
+      internalID: 7556723794754038726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 30
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106b0876b4311be0800000000000000
+      internalID: -1508366441889701870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 30
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9848c359a77e50750800000000000000
+      internalID: 6270672569859081353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_64
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 31
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bae89f2fb059260800000000000000
+      internalID: 7103597125443693357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 32
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ea39b4788722a0800000000000000
+      internalID: -6762286280568281711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041fe913c40289530800000000000000
+      internalID: 3861872192092303680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc7bc6c657945f0800000000000000
+      internalID: -771956752576427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3319033e429a94e30800000000000000
+      internalID: 4488304479546937651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cf8254933193e0800000000000000
+      internalID: -2048799643343534314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929dd82f97cbbf820800000000000000
+      internalID: 2953161212617939241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44916a0eea1208410800000000000000
+      internalID: 1477217712754530628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcacd6ef09aa4aa20800000000000000
+      internalID: 3072768385494141645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0344295ce208bc50800000000000000
+      internalID: 6681093261335216910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espiritos de fogo_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120e2dd7866f8c080800000000000000
+      internalID: -9166806112864640991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Espiritos de fogo_0: 6286440991111315754
+      Espiritos de fogo_1: 4927506719681656754
+      Espiritos de fogo_10: 2816222232229523490
+      Espiritos de fogo_11: -4757577486423311400
+      Espiritos de fogo_12: 6172518683201233656
+      Espiritos de fogo_13: 8371380992497333835
+      Espiritos de fogo_14: -3966752678039923983
+      Espiritos de fogo_15: -2728535650300354621
+      Espiritos de fogo_16: -8033143832108667961
+      Espiritos de fogo_17: 6554070207605123110
+      Espiritos de fogo_18: 3884062455061822413
+      Espiritos de fogo_19: -3526614696891932221
+      Espiritos de fogo_2: -4606292199529842592
+      Espiritos de fogo_20: -7598508194480649507
+      Espiritos de fogo_21: 7766597738180476796
+      Espiritos de fogo_22: -8514179083379033535
+      Espiritos de fogo_23: -5961724324568621185
+      Espiritos de fogo_24: -464526448273317251
+      Espiritos de fogo_25: -7835187877444476640
+      Espiritos de fogo_26: -5791553262826283917
+      Espiritos de fogo_27: -588786716300684985
+      Espiritos de fogo_28: -8924004933741516581
+      Espiritos de fogo_29: -2332665605557061128
+      Espiritos de fogo_3: 5406454598568048271
+      Espiritos de fogo_30: -4048853836296995310
+      Espiritos de fogo_31: -7040639108564514894
+      Espiritos de fogo_32: -1222306817519289482
+      Espiritos de fogo_33: -2335842001653132639
+      Espiritos de fogo_34: 4289775807192349909
+      Espiritos de fogo_35: -7844388142158520048
+      Espiritos de fogo_36: -8666600668396981653
+      Espiritos de fogo_37: -3681908781745175727
+      Espiritos de fogo_38: -8110536093830347909
+      Espiritos de fogo_39: -6891450497824387837
+      Espiritos de fogo_4: 5898177956992877763
+      Espiritos de fogo_40: 657217012008575280
+      Espiritos de fogo_41: -8449507696624772074
+      Espiritos de fogo_42: -9080510744544987942
+      Espiritos de fogo_43: -1769777563404547900
+      Espiritos de fogo_44: 7150115451058342239
+      Espiritos de fogo_45: 2079312535126295562
+      Espiritos de fogo_46: -3541697844581139654
+      Espiritos de fogo_47: -5671926551388979853
+      Espiritos de fogo_48: 1462945378941684343
+      Espiritos de fogo_49: 2697761504569273890
+      Espiritos de fogo_5: 7931448077619392943
+      Espiritos de fogo_50: 1473499798789234942
+      Espiritos de fogo_51: 7191492250818982037
+      Espiritos de fogo_52: -5144682690328394604
+      Espiritos de fogo_53: 1116737806822613908
+      Espiritos de fogo_54: -4606685517849759511
+      Espiritos de fogo_55: 539329208989798846
+      Espiritos de fogo_56: 7644564884851331674
+      Espiritos de fogo_57: 4317158311800320814
+      Espiritos de fogo_58: 4626961738758695021
+      Espiritos de fogo_59: 4689717307982427894
+      Espiritos de fogo_6: 8971599876749835233
+      Espiritos de fogo_60: -90252859396056539
+      Espiritos de fogo_61: 7556723794754038726
+      Espiritos de fogo_62: -1508366441889701870
+      Espiritos de fogo_63: 6270672569859081353
+      Espiritos de fogo_64: 7103597125443693357
+      Espiritos de fogo_65: -6762286280568281711
+      Espiritos de fogo_66: 3861872192092303680
+      Espiritos de fogo_67: -771956752576427136
+      Espiritos de fogo_68: 4488304479546937651
+      Espiritos de fogo_69: -2048799643343534314
+      Espiritos de fogo_7: 4460545841128112027
+      Espiritos de fogo_70: 2953161212617939241
+      Espiritos de fogo_71: 1477217712754530628
+      Espiritos de fogo_72: 3072768385494141645
+      Espiritos de fogo_73: 6681093261335216910
+      Espiritos de fogo_74: -9166806112864640991
+      Espiritos de fogo_8: 7788694066865363166
+      Espiritos de fogo_9: 359085087507278747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

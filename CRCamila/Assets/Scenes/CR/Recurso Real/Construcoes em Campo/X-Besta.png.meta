@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: caeac7c056d0b0a49b0e0a5ed7648c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5920030541195317308
+    second: X-Besta_0
+  - first:
+      213: -5886795409432262580
+    second: X-Besta_1
+  - first:
+      213: 7503767769695342900
+    second: X-Besta_2
+  - first:
+      213: 9114275095467969519
+    second: X-Besta_3
+  - first:
+      213: -4210746032737909187
+    second: X-Besta_4
+  - first:
+      213: -8397998952450184069
+    second: X-Besta_5
+  - first:
+      213: -7199377141206200376
+    second: X-Besta_6
+  - first:
+      213: 5937565902776188294
+    second: X-Besta_7
+  - first:
+      213: -8334409937964953588
+    second: X-Besta_8
+  - first:
+      213: 7191782210900000729
+    second: X-Besta_9
+  - first:
+      213: 4470593863048427548
+    second: X-Besta_10
+  - first:
+      213: -389176470631275514
+    second: X-Besta_11
+  - first:
+      213: 7547057089890356081
+    second: X-Besta_12
+  - first:
+      213: -3296656543010322362
+    second: X-Besta_13
+  - first:
+      213: 5768357433034374359
+    second: X-Besta_14
+  - first:
+      213: -2539323588447101399
+    second: X-Besta_15
+  - first:
+      213: 212472378747021316
+    second: X-Besta_16
+  - first:
+      213: 4834002588500961916
+    second: X-Besta_17
+  - first:
+      213: 4525524515917994731
+    second: X-Besta_18
+  - first:
+      213: 3686832358347448250
+    second: X-Besta_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X-Besta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 861
+        width: 179
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe694a693d7dda0800000000000000
+      internalID: -5920030541195317308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 871
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c363c3c6ed4ea0800000000000000
+      internalID: -5886795409432262580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 922
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43157b5a70db22860800000000000000
+      internalID: 7503767769695342900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febce8ae8e86c7e70800000000000000
+      internalID: 9114275095467969519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 714
+        width: 176
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36854feacc6095c0800000000000000
+      internalID: -4210746032737909187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 168
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7caa1f7270547b80800000000000000
+      internalID: -8397998952450184069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 568
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf465e42aca61c90800000000000000
+      internalID: -7199377141206200376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 557
+        width: 135
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3271eab8766250800000000000000
+      internalID: 5937565902776188294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001d1ba15a365c80800000000000000
+      internalID: -8334409937964953588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 422
+        width: 162
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffaae21d75ec360800000000000000
+      internalID: 7191782210900000729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 433
+        width: 143
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18fa06ae6dba0e30800000000000000
+      internalID: 4470593863048427548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 272
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042519df0e599af0800000000000000
+      internalID: -389176470631275514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 156
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b028eef688cb860800000000000000
+      internalID: 7547057089890356081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 284
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648076f275cef32d0800000000000000
+      internalID: -3296656543010322362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc7f75f5825d0050800000000000000
+      internalID: 5768357433034374359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 157
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e17d476a282ccd0800000000000000
+      internalID: -2539323588447101399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086cc3b08ad2f200800000000000000
+      internalID: 212472378747021316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2bea1eb3d51340800000000000000
+      internalID: 4834002588500961916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 14
+        width: 151
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea1d99e194edce30800000000000000
+      internalID: 4525524515917994731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Besta_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf17b90f724a2330800000000000000
+      internalID: 3686832358347448250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      X-Besta_0: -5920030541195317308
+      X-Besta_1: -5886795409432262580
+      X-Besta_10: 4470593863048427548
+      X-Besta_11: -389176470631275514
+      X-Besta_12: 7547057089890356081
+      X-Besta_13: -3296656543010322362
+      X-Besta_14: 5768357433034374359
+      X-Besta_15: -2539323588447101399
+      X-Besta_16: 212472378747021316
+      X-Besta_17: 4834002588500961916
+      X-Besta_18: 4525524515917994731
+      X-Besta_19: 3686832358347448250
+      X-Besta_2: 7503767769695342900
+      X-Besta_3: 9114275095467969519
+      X-Besta_4: -4210746032737909187
+      X-Besta_5: -8397998952450184069
+      X-Besta_6: -7199377141206200376
+      X-Besta_7: 5937565902776188294
+      X-Besta_8: -8334409937964953588
+      X-Besta_9: 7191782210900000729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

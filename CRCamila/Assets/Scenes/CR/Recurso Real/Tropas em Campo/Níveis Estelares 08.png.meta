@@ -1,0 +1,4912 @@
+fileFormatVersion: 2
+guid: f07d87e33dc857b4385772b4cff94e02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8051710445273684974
+    second: "N\xEDveis Estelares 08_0"
+  - first:
+      213: -8894680710639332726
+    second: "N\xEDveis Estelares 08_1"
+  - first:
+      213: -213154096310258300
+    second: "N\xEDveis Estelares 08_2"
+  - first:
+      213: -2950813420268841169
+    second: "N\xEDveis Estelares 08_3"
+  - first:
+      213: -5074238585716311785
+    second: "N\xEDveis Estelares 08_4"
+  - first:
+      213: 797857409583961899
+    second: "N\xEDveis Estelares 08_5"
+  - first:
+      213: -5683266047271178651
+    second: "N\xEDveis Estelares 08_6"
+  - first:
+      213: -1860078631203069311
+    second: "N\xEDveis Estelares 08_7"
+  - first:
+      213: 8045186484627926020
+    second: "N\xEDveis Estelares 08_8"
+  - first:
+      213: -3885184580476675901
+    second: "N\xEDveis Estelares 08_9"
+  - first:
+      213: 6842113218587605436
+    second: "N\xEDveis Estelares 08_10"
+  - first:
+      213: -7626859158422534594
+    second: "N\xEDveis Estelares 08_11"
+  - first:
+      213: -1237517909845965626
+    second: "N\xEDveis Estelares 08_12"
+  - first:
+      213: -6236888961073664684
+    second: "N\xEDveis Estelares 08_13"
+  - first:
+      213: 2943443929627289076
+    second: "N\xEDveis Estelares 08_14"
+  - first:
+      213: 2806980274751306820
+    second: "N\xEDveis Estelares 08_15"
+  - first:
+      213: 9092342873824422490
+    second: "N\xEDveis Estelares 08_16"
+  - first:
+      213: -7546765464418465749
+    second: "N\xEDveis Estelares 08_17"
+  - first:
+      213: -7404295032344699488
+    second: "N\xEDveis Estelares 08_18"
+  - first:
+      213: 6354965914928200233
+    second: "N\xEDveis Estelares 08_19"
+  - first:
+      213: 8432990062671442499
+    second: "N\xEDveis Estelares 08_20"
+  - first:
+      213: -5563895296254768820
+    second: "N\xEDveis Estelares 08_21"
+  - first:
+      213: 6457867241688609223
+    second: "N\xEDveis Estelares 08_22"
+  - first:
+      213: -1671428927686114343
+    second: "N\xEDveis Estelares 08_23"
+  - first:
+      213: 3887619673430417213
+    second: "N\xEDveis Estelares 08_24"
+  - first:
+      213: 3850498843216138670
+    second: "N\xEDveis Estelares 08_25"
+  - first:
+      213: -2017140671374345719
+    second: "N\xEDveis Estelares 08_26"
+  - first:
+      213: 4525879593712317746
+    second: "N\xEDveis Estelares 08_27"
+  - first:
+      213: 5641028863184381568
+    second: "N\xEDveis Estelares 08_28"
+  - first:
+      213: 3371183848308842308
+    second: "N\xEDveis Estelares 08_29"
+  - first:
+      213: -781684851633289399
+    second: "N\xEDveis Estelares 08_30"
+  - first:
+      213: 4719593186190211845
+    second: "N\xEDveis Estelares 08_31"
+  - first:
+      213: 2517676154754856879
+    second: "N\xEDveis Estelares 08_32"
+  - first:
+      213: 3778107112350649448
+    second: "N\xEDveis Estelares 08_33"
+  - first:
+      213: -2240916586656925967
+    second: "N\xEDveis Estelares 08_34"
+  - first:
+      213: 3400230856724544056
+    second: "N\xEDveis Estelares 08_35"
+  - first:
+      213: 9136924660332803551
+    second: "N\xEDveis Estelares 08_36"
+  - first:
+      213: -8422483593668778832
+    second: "N\xEDveis Estelares 08_37"
+  - first:
+      213: -2157396928179244010
+    second: "N\xEDveis Estelares 08_38"
+  - first:
+      213: 5272377259583881508
+    second: "N\xEDveis Estelares 08_39"
+  - first:
+      213: -6810968650841541009
+    second: "N\xEDveis Estelares 08_40"
+  - first:
+      213: -7209234504956762328
+    second: "N\xEDveis Estelares 08_41"
+  - first:
+      213: -2288968332176574379
+    second: "N\xEDveis Estelares 08_42"
+  - first:
+      213: 95337273776539164
+    second: "N\xEDveis Estelares 08_43"
+  - first:
+      213: -7288298680485364464
+    second: "N\xEDveis Estelares 08_44"
+  - first:
+      213: -1585037022573635127
+    second: "N\xEDveis Estelares 08_45"
+  - first:
+      213: 6022234566909530810
+    second: "N\xEDveis Estelares 08_46"
+  - first:
+      213: 6685856729327197113
+    second: "N\xEDveis Estelares 08_47"
+  - first:
+      213: 4086359114057094571
+    second: "N\xEDveis Estelares 08_48"
+  - first:
+      213: -2413320055214965300
+    second: "N\xEDveis Estelares 08_49"
+  - first:
+      213: -680412565198740130
+    second: "N\xEDveis Estelares 08_50"
+  - first:
+      213: 3739345140435428460
+    second: "N\xEDveis Estelares 08_51"
+  - first:
+      213: 4696113572378933413
+    second: "N\xEDveis Estelares 08_52"
+  - first:
+      213: -6981886893024824182
+    second: "N\xEDveis Estelares 08_53"
+  - first:
+      213: 5540020996646773335
+    second: "N\xEDveis Estelares 08_54"
+  - first:
+      213: -6761321346903603328
+    second: "N\xEDveis Estelares 08_55"
+  - first:
+      213: -74944989023222415
+    second: "N\xEDveis Estelares 08_56"
+  - first:
+      213: -4687089985521221058
+    second: "N\xEDveis Estelares 08_57"
+  - first:
+      213: -2227462236936364717
+    second: "N\xEDveis Estelares 08_58"
+  - first:
+      213: 1371345728994485383
+    second: "N\xEDveis Estelares 08_59"
+  - first:
+      213: 3000899259794578740
+    second: "N\xEDveis Estelares 08_60"
+  - first:
+      213: 5514655586328739118
+    second: "N\xEDveis Estelares 08_61"
+  - first:
+      213: 2314042407943084501
+    second: "N\xEDveis Estelares 08_62"
+  - first:
+      213: -8494107916808865054
+    second: "N\xEDveis Estelares 08_63"
+  - first:
+      213: -1850037146293153723
+    second: "N\xEDveis Estelares 08_64"
+  - first:
+      213: -6295345223563919721
+    second: "N\xEDveis Estelares 08_65"
+  - first:
+      213: 3129695112221095350
+    second: "N\xEDveis Estelares 08_66"
+  - first:
+      213: 4465825798864554529
+    second: "N\xEDveis Estelares 08_67"
+  - first:
+      213: -3564116619128489785
+    second: "N\xEDveis Estelares 08_68"
+  - first:
+      213: 6814933812694736181
+    second: "N\xEDveis Estelares 08_69"
+  - first:
+      213: 5507100123356479291
+    second: "N\xEDveis Estelares 08_70"
+  - first:
+      213: -6769041844512698665
+    second: "N\xEDveis Estelares 08_71"
+  - first:
+      213: -2765743606287143358
+    second: "N\xEDveis Estelares 08_72"
+  - first:
+      213: 2436588140710252628
+    second: "N\xEDveis Estelares 08_73"
+  - first:
+      213: 8714882699893070556
+    second: "N\xEDveis Estelares 08_74"
+  - first:
+      213: 8738018664060383536
+    second: "N\xEDveis Estelares 08_75"
+  - first:
+      213: 7320661434213028652
+    second: "N\xEDveis Estelares 08_76"
+  - first:
+      213: 3364205556922595245
+    second: "N\xEDveis Estelares 08_77"
+  - first:
+      213: -1733217334664207708
+    second: "N\xEDveis Estelares 08_78"
+  - first:
+      213: -7960002830862923580
+    second: "N\xEDveis Estelares 08_79"
+  - first:
+      213: 3614566810464692366
+    second: "N\xEDveis Estelares 08_80"
+  - first:
+      213: -8630260443621680442
+    second: "N\xEDveis Estelares 08_81"
+  - first:
+      213: 3317504214178332264
+    second: "N\xEDveis Estelares 08_82"
+  - first:
+      213: 7789622295665546671
+    second: "N\xEDveis Estelares 08_83"
+  - first:
+      213: -7207710298580263833
+    second: "N\xEDveis Estelares 08_84"
+  - first:
+      213: 2820102207587842615
+    second: "N\xEDveis Estelares 08_85"
+  - first:
+      213: 7841378609441259117
+    second: "N\xEDveis Estelares 08_86"
+  - first:
+      213: 4100922156568984599
+    second: "N\xEDveis Estelares 08_87"
+  - first:
+      213: -4292772085598359753
+    second: "N\xEDveis Estelares 08_88"
+  - first:
+      213: -6967026166951919956
+    second: "N\xEDveis Estelares 08_89"
+  - first:
+      213: 2445112955494504574
+    second: "N\xEDveis Estelares 08_90"
+  - first:
+      213: -1272242087405003537
+    second: "N\xEDveis Estelares 08_91"
+  - first:
+      213: -3916788746394622383
+    second: "N\xEDveis Estelares 08_92"
+  - first:
+      213: 817899329258601013
+    second: "N\xEDveis Estelares 08_93"
+  - first:
+      213: 862798339520025177
+    second: "N\xEDveis Estelares 08_94"
+  - first:
+      213: 5490229148337136205
+    second: "N\xEDveis Estelares 08_95"
+  - first:
+      213: 4545214373349100046
+    second: "N\xEDveis Estelares 08_96"
+  - first:
+      213: 6760918052503538201
+    second: "N\xEDveis Estelares 08_97"
+  - first:
+      213: -2894410005489754655
+    second: "N\xEDveis Estelares 08_98"
+  - first:
+      213: 6618148084611252030
+    second: "N\xEDveis Estelares 08_99"
+  - first:
+      213: -1024005469734206239
+    second: "N\xEDveis Estelares 08_100"
+  - first:
+      213: -7090771680145112808
+    second: "N\xEDveis Estelares 08_101"
+  - first:
+      213: 6536875287632301475
+    second: "N\xEDveis Estelares 08_102"
+  - first:
+      213: -4722275776657666470
+    second: "N\xEDveis Estelares 08_103"
+  - first:
+      213: 8369854609579713659
+    second: "N\xEDveis Estelares 08_104"
+  - first:
+      213: -8369888981079895700
+    second: "N\xEDveis Estelares 08_105"
+  - first:
+      213: 5125146538358930888
+    second: "N\xEDveis Estelares 08_106"
+  - first:
+      213: -5241558971451060370
+    second: "N\xEDveis Estelares 08_107"
+  - first:
+      213: -1175639573490322995
+    second: "N\xEDveis Estelares 08_108"
+  - first:
+      213: 1345906749975023933
+    second: "N\xEDveis Estelares 08_109"
+  - first:
+      213: -6892407437509987590
+    second: "N\xEDveis Estelares 08_110"
+  - first:
+      213: 8105564253355186441
+    second: "N\xEDveis Estelares 08_111"
+  - first:
+      213: 5106274201143304701
+    second: "N\xEDveis Estelares 08_112"
+  - first:
+      213: -3310817689970130416
+    second: "N\xEDveis Estelares 08_113"
+  - first:
+      213: -7864170663757336573
+    second: "N\xEDveis Estelares 08_114"
+  - first:
+      213: -8877738715675784227
+    second: "N\xEDveis Estelares 08_115"
+  - first:
+      213: -2311301625793533690
+    second: "N\xEDveis Estelares 08_116"
+  - first:
+      213: -2976867170226699486
+    second: "N\xEDveis Estelares 08_117"
+  - first:
+      213: 7321886363740069331
+    second: "N\xEDveis Estelares 08_118"
+  - first:
+      213: -970062199678373933
+    second: "N\xEDveis Estelares 08_119"
+  - first:
+      213: -8429709265884960418
+    second: "N\xEDveis Estelares 08_120"
+  - first:
+      213: -2939784822977334815
+    second: "N\xEDveis Estelares 08_121"
+  - first:
+      213: -2990891494287881590
+    second: "N\xEDveis Estelares 08_122"
+  - first:
+      213: 992797976837975395
+    second: "N\xEDveis Estelares 08_123"
+  - first:
+      213: 7244464422791814305
+    second: "N\xEDveis Estelares 08_124"
+  - first:
+      213: 1860391746855823323
+    second: "N\xEDveis Estelares 08_125"
+  - first:
+      213: -2627772774832673997
+    second: "N\xEDveis Estelares 08_126"
+  - first:
+      213: -3933252398804405555
+    second: "N\xEDveis Estelares 08_127"
+  - first:
+      213: 3518928273736851196
+    second: "N\xEDveis Estelares 08_128"
+  - first:
+      213: -3938947559801135862
+    second: "N\xEDveis Estelares 08_129"
+  - first:
+      213: 1735400090870778230
+    second: "N\xEDveis Estelares 08_130"
+  - first:
+      213: 7182153237546178710
+    second: "N\xEDveis Estelares 08_131"
+  - first:
+      213: 2464098936562366965
+    second: "N\xEDveis Estelares 08_132"
+  - first:
+      213: -5645513814316490662
+    second: "N\xEDveis Estelares 08_133"
+  - first:
+      213: -7750840619724002057
+    second: "N\xEDveis Estelares 08_134"
+  - first:
+      213: 9189113690292319022
+    second: "N\xEDveis Estelares 08_135"
+  - first:
+      213: 355042798527190617
+    second: "N\xEDveis Estelares 08_136"
+  - first:
+      213: -716945006094356632
+    second: "N\xEDveis Estelares 08_137"
+  - first:
+      213: 652734419716862068
+    second: "N\xEDveis Estelares 08_138"
+  - first:
+      213: 6857046651282717146
+    second: "N\xEDveis Estelares 08_139"
+  - first:
+      213: -8011576059903342518
+    second: "N\xEDveis Estelares 08_140"
+  - first:
+      213: -7567738465263924240
+    second: "N\xEDveis Estelares 08_141"
+  - first:
+      213: -5768114397555666797
+    second: "N\xEDveis Estelares 08_142"
+  - first:
+      213: -5465282349991507228
+    second: "N\xEDveis Estelares 08_143"
+  - first:
+      213: -5915534967826637255
+    second: "N\xEDveis Estelares 08_144"
+  - first:
+      213: -217011237524396546
+    second: "N\xEDveis Estelares 08_145"
+  - first:
+      213: 6481464578224248580
+    second: "N\xEDveis Estelares 08_146"
+  - first:
+      213: 8106812061383661181
+    second: "N\xEDveis Estelares 08_147"
+  - first:
+      213: 4639818455188507532
+    second: "N\xEDveis Estelares 08_148"
+  - first:
+      213: 2975065998944980422
+    second: "N\xEDveis Estelares 08_149"
+  - first:
+      213: 3889129417258233517
+    second: "N\xEDveis Estelares 08_150"
+  - first:
+      213: 8343796875898915868
+    second: "N\xEDveis Estelares 08_151"
+  - first:
+      213: 3794675915888629280
+    second: "N\xEDveis Estelares 08_152"
+  - first:
+      213: -8609520713746317016
+    second: "N\xEDveis Estelares 08_153"
+  - first:
+      213: 7484242679558853583
+    second: "N\xEDveis Estelares 08_154"
+  - first:
+      213: -583787095485399456
+    second: "N\xEDveis Estelares 08_155"
+  - first:
+      213: 2689209413671831595
+    second: "N\xEDveis Estelares 08_156"
+  - first:
+      213: -8233984066067372589
+    second: "N\xEDveis Estelares 08_157"
+  - first:
+      213: 8681829825365953857
+    second: "N\xEDveis Estelares 08_158"
+  - first:
+      213: -4933567192848156843
+    second: "N\xEDveis Estelares 08_159"
+  - first:
+      213: -3777195108342031017
+    second: "N\xEDveis Estelares 08_160"
+  - first:
+      213: -5163325925622083056
+    second: "N\xEDveis Estelares 08_161"
+  - first:
+      213: 3302044094743036354
+    second: "N\xEDveis Estelares 08_162"
+  - first:
+      213: -780074285940557903
+    second: "N\xEDveis Estelares 08_163"
+  - first:
+      213: -9005832532955707015
+    second: "N\xEDveis Estelares 08_164"
+  - first:
+      213: 3909644269946636243
+    second: "N\xEDveis Estelares 08_165"
+  - first:
+      213: -62896978232428368
+    second: "N\xEDveis Estelares 08_166"
+  - first:
+      213: 3324581770153075541
+    second: "N\xEDveis Estelares 08_167"
+  - first:
+      213: 8981262845550006399
+    second: "N\xEDveis Estelares 08_168"
+  - first:
+      213: 4216108237633998695
+    second: "N\xEDveis Estelares 08_169"
+  - first:
+      213: 4294573569396247495
+    second: "N\xEDveis Estelares 08_170"
+  - first:
+      213: -3598275027121658377
+    second: "N\xEDveis Estelares 08_171"
+  - first:
+      213: -1932810544584943310
+    second: "N\xEDveis Estelares 08_172"
+  - first:
+      213: 5709448060181199325
+    second: "N\xEDveis Estelares 08_173"
+  - first:
+      213: 6418680497184550704
+    second: "N\xEDveis Estelares 08_174"
+  - first:
+      213: 2178255411518218731
+    second: "N\xEDveis Estelares 08_175"
+  - first:
+      213: 365398091586825132
+    second: "N\xEDveis Estelares 08_176"
+  - first:
+      213: 6128885578283039900
+    second: "N\xEDveis Estelares 08_177"
+  - first:
+      213: -6310391851958227132
+    second: "N\xEDveis Estelares 08_178"
+  - first:
+      213: 3786698268534346847
+    second: "N\xEDveis Estelares 08_179"
+  - first:
+      213: 320050191999432855
+    second: "N\xEDveis Estelares 08_180"
+  - first:
+      213: -939345069376016319
+    second: "N\xEDveis Estelares 08_181"
+  - first:
+      213: 3538117855811824129
+    second: "N\xEDveis Estelares 08_182"
+  - first:
+      213: 1517563925539858885
+    second: "N\xEDveis Estelares 08_183"
+  - first:
+      213: -3406973397107542045
+    second: "N\xEDveis Estelares 08_184"
+  - first:
+      213: 2173328794954825836
+    second: "N\xEDveis Estelares 08_185"
+  - first:
+      213: -7403356505376432542
+    second: "N\xEDveis Estelares 08_186"
+  - first:
+      213: 9181615550594671523
+    second: "N\xEDveis Estelares 08_187"
+  - first:
+      213: 6496344800664402513
+    second: "N\xEDveis Estelares 08_188"
+  - first:
+      213: -8120961289890168067
+    second: "N\xEDveis Estelares 08_189"
+  - first:
+      213: 6834872049317267780
+    second: "N\xEDveis Estelares 08_190"
+  - first:
+      213: -5033825580439120581
+    second: "N\xEDveis Estelares 08_191"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1309
+        width: 177
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e8238204924090800000000000000
+      internalID: -8051710445273684974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_1"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1459
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d2db050fbf8480800000000000000
+      internalID: -8894680710639332726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_2"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1310
+        width: 176
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f10f8a79ba0df0800000000000000
+      internalID: -213154096310258300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_3"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1438
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279b6e04da9c07d0800000000000000
+      internalID: -2950813420268841169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_4"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1256
+        width: 128
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7197cc804eea499b0800000000000000
+      internalID: -5074238585716311785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_5"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1438
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275aa7361f821b00800000000000000
+      internalID: 797857409583961899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_6"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1316
+        width: 176
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eec5824abf021b0800000000000000
+      internalID: -5683266047271178651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_7"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1431
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182a8dc075caf26e0800000000000000
+      internalID: -1860078631203069311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_8"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1318
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c65088b7e36af60800000000000000
+      internalID: 8045186484627926020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_9"
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1449
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8dcd9653d051ac0800000000000000
+      internalID: -3885184580476675901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_10"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1293
+        width: 152
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb93be2a8b114fe50800000000000000
+      internalID: 6842113218587605436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_11"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1443
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364a461104f72690800000000000000
+      internalID: -7626859158422534594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_12"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1435
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c48274840473dee0800000000000000
+      internalID: -1237517909845965626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_13"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1416
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d26abc88e1279a0800000000000000
+      internalID: -6236888961073664684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_14"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1414
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e6b1b8a639d820800000000000000
+      internalID: 2943443929627289076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_15"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1344
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c741810b564f620800000000000000
+      internalID: 2806980274751306820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_16"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1161
+        width: 153
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aeb52abad7e2e70800000000000000
+      internalID: 9092342873824422490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_17"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1308
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28c62a6bc0844790800000000000000
+      internalID: -7546765464418465749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_18"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1278
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad97e0d5e8ae3990800000000000000
+      internalID: -7404295032344699488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_19"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1163
+        width: 151
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab20f54df513850800000000000000
+      internalID: 6354965914928200233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_20"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1292
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3423ee738cff70570800000000000000
+      internalID: 8432990062671442499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_21"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1171
+        width: 168
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498443f4b219c2b0800000000000000
+      internalID: -5563895296254768820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_22"
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1295
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13b738a04fe9950800000000000000
+      internalID: 6457867241688609223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_23"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1314
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d305f1fe34edc8e0800000000000000
+      internalID: -1671428927686114343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fd3a8de7993f530800000000000000
+      internalID: 3887619673430417213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_25"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1292
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea153fd0c48bf6530800000000000000
+      internalID: 3850498843216138670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_26"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1132
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3db42f3da104e0800000000000000
+      internalID: -2017140671374345719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_27"
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1195
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357967e2872fce30800000000000000
+      internalID: 4525879593712317746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_28"
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1270
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086a4d51dd5f84e40800000000000000
+      internalID: 5641028863184381568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_29"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1117
+        width: 149
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f9bf649d9d8ce20800000000000000
+      internalID: 3371183848308842308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_30"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1265
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947081cd4c5e625f0800000000000000
+      internalID: -781684851633289399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_31"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1239
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb8335ffc5f7140800000000000000
+      internalID: 4719593186190211845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_32"
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1242
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa772af9f1590f220800000000000000
+      internalID: 2517676154754856879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_33"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1157
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8903c6688e6430800000000000000
+      internalID: 3778107112350649448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_34"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1210
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f67801cc3aa6e0e0800000000000000
+      internalID: -2240916586656925967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_35"
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1217
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a7361f2fb003f20800000000000000
+      internalID: 3400230856724544056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b4aea190ecce70800000000000000
+      internalID: 9136924660332803551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_37"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 143
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b421d8bbc35d1b80800000000000000
+      internalID: -8422483593668778832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_38"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1198
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147b589ce26f02e0800000000000000
+      internalID: -2157396928179244010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_39"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1028
+        width: 142
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421485fee2f3b2940800000000000000
+      internalID: 5272377259583881508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_40"
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1189
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66b44e19149a71a0800000000000000
+      internalID: -6810968650841541009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_41"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1020
+        width: 145
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272095f967a3fb90800000000000000
+      internalID: -7209234504956762328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_42"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1162
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5583f7aed63fb30e0800000000000000
+      internalID: -2288968332176574379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_43"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1137
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160e41deb4b25100800000000000000
+      internalID: 95337273776539164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_44"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1076
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db8b417f2cada90800000000000000
+      internalID: -7288298680485364464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_45"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1024
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d7a1d931d00ae0800000000000000
+      internalID: -1585037022573635127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab298b27e66439350800000000000000
+      internalID: 6022234566909530810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_47"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 993
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd3baa54fe8cc50800000000000000
+      internalID: 6685856729327197113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_48"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1024
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59d0ab6f9a5b830800000000000000
+      internalID: 4086359114057094571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_49"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 986
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdf593323a228ed0800000000000000
+      internalID: -2413320055214965300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_50"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 905
+        width: 143
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55ed9e7060be86f0800000000000000
+      internalID: -680412565198740130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_51"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 943
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ac34e792d4e330800000000000000
+      internalID: 3739345140435428460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_52"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 860
+        width: 145
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8798ab962fb2140800000000000000
+      internalID: 4696113572378933413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_53"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 930
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84bc47ccda5b1f90800000000000000
+      internalID: -6981886893024824182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_54"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 855
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75226518ebb12ec40800000000000000
+      internalID: 5540020996646773335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_55"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 895
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878b89de06fa22a0800000000000000
+      internalID: -6761321346903603328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_56"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 850
+        width: 143
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1754397fdedb5fef0800000000000000
+      internalID: -74944989023222415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_57"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 792
+        width: 145
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3287becd7c14feb0800000000000000
+      internalID: -4687089985521221058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_58"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9fc8a5e67611e0800000000000000
+      internalID: -2227462236936364717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_59"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78427f0ccaff70310800000000000000
+      internalID: 1371345728994485383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_60"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 743
+        width: 137
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd9c23af555a920800000000000000
+      internalID: 3000899259794578740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_61"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 768
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d7fb1b90ef78c40800000000000000
+      internalID: 5514655586328739118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_62"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 757
+        width: 131
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d913a84f412d1020800000000000000
+      internalID: 2314042407943084501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_63"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 778
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea36c67addde1a80800000000000000
+      internalID: -8494107916808865054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_64"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 138
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405be174095356e0800000000000000
+      internalID: -1850037146293153723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_65"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 764
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e35039fd072a8a0800000000000000
+      internalID: -6295345223563919721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_66"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 748
+        width: 140
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f63b6f19ee6b20800000000000000
+      internalID: 3129695112221095350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_67"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 753
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac81237ecc9fd30800000000000000
+      internalID: 4465825798864554529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_68"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 613
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b7c281d6b98ec0800000000000000
+      internalID: -3564116619128489785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_69"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 638
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd7711232839e50800000000000000
+      internalID: 6814933812694736181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_70"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 624
+        width: 137
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3c2362662d6c40800000000000000
+      internalID: 5507100123356479291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_71"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 618
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec01c6e488f02a0800000000000000
+      internalID: -6769041844512698665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_72"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 678
+        width: 118
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6277f7da1e99d0800000000000000
+      internalID: -2765743606287143358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_73"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 638
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450d6fe110080d120800000000000000
+      internalID: 2436588140710252628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_74"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad25264ab71f870800000000000000
+      internalID: 8714882699893070556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_75"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 657
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0317d00ddada34970800000000000000
+      internalID: 8738018664060383536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_76"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 534
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235b23b9c6389560800000000000000
+      internalID: 7320661434213028652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_77"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da734c3312f00be20800000000000000
+      internalID: 3364205556922595245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_78"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 482
+        width: 150
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a26ac0640062f7e0800000000000000
+      internalID: -1733217334664207708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_79"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 486
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8cf476993688190800000000000000
+      internalID: -7960002830862923580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_80"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 527
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e882aa20d55892230800000000000000
+      internalID: 3614566810464692366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_81"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 499
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca13d20ad72b3880800000000000000
+      internalID: -8630260443621680442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_82"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 464
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef5f281842a0e20800000000000000
+      internalID: 3317504214178332264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_83"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 596
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59b9be43c4a1c60800000000000000
+      internalID: 7789622295665546671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_84"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 544
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cd239eba119fb90800000000000000
+      internalID: -7207710298580263833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_85"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 454
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a71992404032720800000000000000
+      internalID: 2820102207587842615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_86"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb715cc4c22dc60800000000000000
+      internalID: 7841378609441259117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_87"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 412
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb2d949f669e830800000000000000
+      internalID: 4100922156568984599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_88"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 423
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f623048820d64c0800000000000000
+      internalID: -4292772085598359753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_89"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 442
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caebaf13d96205f90800000000000000
+      internalID: -6967026166951919956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_90"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 351
+        width: 73
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7894fb3749cee120800000000000000
+      internalID: 2445112955494504574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_91"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 360
+        width: 129
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec5ce7ef86185ee0800000000000000
+      internalID: -1272242087405003537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_92"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 348
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156a6ee1365c4a9c0800000000000000
+      internalID: -3916788746394622383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_93"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 396
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a3d764b13c95b00800000000000000
+      internalID: 817899329258601013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_94"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 384
+        width: 127
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95253ebb48649fb00800000000000000
+      internalID: 862798339520025177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_95"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 338
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42612a6256313c40800000000000000
+      internalID: 5490229148337136205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_96"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a09771468d31f30800000000000000
+      internalID: 4545214373349100046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_97"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 390
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91acffad52b93dd50800000000000000
+      internalID: 6760918052503538201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_98"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 379
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed527c6f6df4d7d0800000000000000
+      internalID: -2894410005489754655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_99"
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 245
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7f265e9268db50800000000000000
+      internalID: 6618148084611252030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_100"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e48f6063700ac1f0800000000000000
+      internalID: -1024005469734206239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_101"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110d85b9b4889d90800000000000000
+      internalID: -7090771680145112808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_102"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 261
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4a54b075a7ba50800000000000000
+      internalID: 6536875287632301475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_103"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 284
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e43e8633b177eb0800000000000000
+      internalID: -4722275776657666470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_104"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 263
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742aa90c62b72470800000000000000
+      internalID: 8369854609579713659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_105"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 272
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d649315e28db80800000000000000
+      internalID: -8369888981079895700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_106"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 259
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdf4b85f9d202740800000000000000
+      internalID: 5125146538358930888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_107"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 295
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc56de2ed3247b0800000000000000
+      internalID: -5241558971451060370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_108"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 216
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1b736690a4fafe0800000000000000
+      internalID: -1175639573490322995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_109"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 264
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31df05ee0f9da210800000000000000
+      internalID: 1345906749975023933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_110"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 245
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f4fff3ff3950a0800000000000000
+      internalID: -6892407437509987590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_111"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90917594ebfbc7070800000000000000
+      internalID: 8105564253355186441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_112"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 188
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df163ece4512dd640800000000000000
+      internalID: 5106274201143304701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_113"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 166
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01240493adc9d02d0800000000000000
+      internalID: -3310817689970130416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_114"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 175
+        width: 27
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30032bd827adcd290800000000000000
+      internalID: -7864170663757336573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_115"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 175
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8963acafebc480800000000000000
+      internalID: -8877738715675784227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_116"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 202
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092bc9ca6b9cefd0800000000000000
+      internalID: -2311301625793533690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_117"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238d1fa41b00b6d0800000000000000
+      internalID: -2976867170226699486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_118"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 172
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd084dad09c9560800000000000000
+      internalID: 7321886363740069331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_119"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfe22aa195a982f0800000000000000
+      internalID: -970062199678373933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_120"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 210
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ab1fc518a30b80800000000000000
+      internalID: -8429709265884960418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_121"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 128
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f9567749c337d0800000000000000
+      internalID: -2939784822977334815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_122"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 201
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8acb3948083e76d0800000000000000
+      internalID: -2990891494287881590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_123"
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 158
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d6727ff7027cd00800000000000000
+      internalID: 992797976837975395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_124"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 130
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac167c7202898460800000000000000
+      internalID: 7244464422791814305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_125"
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 176
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e86edf6071d910800000000000000
+      internalID: 1860391746855823323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_126"
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 157
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be7a57596488bd0800000000000000
+      internalID: -2627772774832673997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_127"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc27f4558c74a69c0800000000000000
+      internalID: -3933252398804405555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_128"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed922fe9eb5d030800000000000000
+      internalID: 3518928273736851196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_129"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5925501c0659c0800000000000000
+      internalID: -3938947559801135862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_130"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 68
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67988872031651810800000000000000
+      internalID: 1735400090870778230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_131"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 87
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6989c5e11522ca360800000000000000
+      internalID: 7182153237546178710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_132"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b73d6dec323220800000000000000
+      internalID: 2464098936562366965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_133"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 113
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50ea1bd81b17a1b0800000000000000
+      internalID: -5645513814316490662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_134"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 99
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcaea6a58b7f6490800000000000000
+      internalID: -7750840619724002057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_135"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 87
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237d8e173a468f70800000000000000
+      internalID: 9189113690292319022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_136"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 119
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956164e4b8d5de400800000000000000
+      internalID: 355042798527190617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_137"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 166
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6144c056ec06f0800000000000000
+      internalID: -716945006094356632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_138"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f4e31f7afe0900800000000000000
+      internalID: 652734419716862068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_139"
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 166
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fcf1699f192f50800000000000000
+      internalID: 6857046651282717146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_140"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 95
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48007a450a21d090800000000000000
+      internalID: -8011576059903342518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_141"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 93
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb42e026fdf9f690800000000000000
+      internalID: -7567738465263924240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_142"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 84
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390d0e5248a83ffa0800000000000000
+      internalID: -5768114397555666797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_143"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 121
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4b83b8aa6724b0800000000000000
+      internalID: -5465282349991507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_144"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 44
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9a42e94cc7eda0800000000000000
+      internalID: -5915534967826637255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_145"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 92
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef52713ed650dfcf0800000000000000
+      internalID: -217011237524396546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_146"
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 70
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407555191b9c2f950800000000000000
+      internalID: 6481464578224248580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_147"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 79
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7610ab3e9e218070800000000000000
+      internalID: 8106812061383661181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_148"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 88
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b00db5d42f36040800000000000000
+      internalID: 4639818455188507532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_149"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd457273ce894920800000000000000
+      internalID: 2975065998944980422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_150"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 62
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daee2397996f8f530800000000000000
+      internalID: 3889129417258233517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_151"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c08f12d0f1bc370800000000000000
+      internalID: 8343796875898915868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_152"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 36
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0269544f3a569a430800000000000000
+      internalID: 3794675915888629280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_153"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 46
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82188caa686d48880800000000000000
+      internalID: -8609520713746317016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_154"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 41
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc35ce7501f5dd760800000000000000
+      internalID: 7484242679558853583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_155"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 35
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eb22dcab8f5e7f0800000000000000
+      internalID: -583787095485399456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_156"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 69
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cb84b6bdf15520800000000000000
+      internalID: 2689209413671831595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_157"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 58
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e3df0e130bbd80800000000000000
+      internalID: -8233984066067372589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_158"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 40
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d44555a3e0c7870800000000000000
+      internalID: 8681829825365953857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_159"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 35
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557b3caf6c2788bb0800000000000000
+      internalID: -4933567192848156843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_160"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 42
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1ee7bf05b49bc0800000000000000
+      internalID: -3777195108342031017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_161"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 40
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0121bb75d6e2858b0800000000000000
+      internalID: -5163325925622083056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_162"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 63
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c5d3fb9733dd20800000000000000
+      internalID: 3302044094743036354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_163"
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 79
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b818e19e9c25f0800000000000000
+      internalID: -780074285940557903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_164"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 16
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c486b60bd40380800000000000000
+      internalID: -9005832532955707015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_165"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 49
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78f44dfb8d14630800000000000000
+      internalID: 3909644269946636243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_166"
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 38
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b203188b802ff0800000000000000
+      internalID: -62896978232428368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_167"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 49
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553a6bc6189432e20800000000000000
+      internalID: 3324581770153075541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_168"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 44
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701c6729fad3ac70800000000000000
+      internalID: 8981262845550006399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_169"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 42
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc5ceaa10a28a30800000000000000
+      internalID: 4216108237633998695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_170"
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 58
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb05a168e3699b30800000000000000
+      internalID: 4294573569396247495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_171"
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 41
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f521446deb501ec0800000000000000
+      internalID: -3598275027121658377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_172"
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 38
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23992e7dc074d25e0800000000000000
+      internalID: -1932810544584943310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_173"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b4a2c2c80c3f40800000000000000
+      internalID: 5709448060181199325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_174"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 21
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa96197ebb31950800000000000000
+      internalID: 6418680497184550704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_175"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 28
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1ad9181c7ba3e10800000000000000
+      internalID: 2178255411518218731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_176"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 9
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab63aad0a7221500800000000000000
+      internalID: 365398091586825132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_177"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c339216fc2e0550800000000000000
+      internalID: 6128885578283039900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_178"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 14
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa2866b0cfc68a0800000000000000
+      internalID: -6310391851958227132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_179"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 33
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54939f230e0d8430800000000000000
+      internalID: 3786698268534346847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_180"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 19
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798fb6434fb017400800000000000000
+      internalID: 320050191999432855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_181"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140f352e2a6c6f2f0800000000000000
+      internalID: -939345069376016319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_182"
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 29
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a6121b17be91130800000000000000
+      internalID: 3538117855811824129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_183"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 19
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c920c199587f0510800000000000000
+      internalID: 1517563925539858885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_184"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 23
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f23a0fbff7b0d0800000000000000
+      internalID: -3406973397107542045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_185"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 23
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6009633607392e10800000000000000
+      internalID: 2173328794954825836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_186"
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 31
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed577ab7ef14990800000000000000
+      internalID: -7403356505376432542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_187"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e56d62b6ab6f70800000000000000
+      internalID: 9181615550594671523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_188"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15abe065d27a72a50800000000000000
+      internalID: 6496344800664402513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_189"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df20669cbbc8c4f80800000000000000
+      internalID: -8120961289890168067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_190"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494dc88ae75ade50800000000000000
+      internalID: 6834872049317267780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "N\xEDveis Estelares 08_191"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35d6a01e42442ab0800000000000000
+      internalID: -5033825580439120581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "N\xEDveis Estelares 08_0": -8051710445273684974
+      "N\xEDveis Estelares 08_1": -8894680710639332726
+      "N\xEDveis Estelares 08_10": 6842113218587605436
+      "N\xEDveis Estelares 08_100": -1024005469734206239
+      "N\xEDveis Estelares 08_101": -7090771680145112808
+      "N\xEDveis Estelares 08_102": 6536875287632301475
+      "N\xEDveis Estelares 08_103": -4722275776657666470
+      "N\xEDveis Estelares 08_104": 8369854609579713659
+      "N\xEDveis Estelares 08_105": -8369888981079895700
+      "N\xEDveis Estelares 08_106": 5125146538358930888
+      "N\xEDveis Estelares 08_107": -5241558971451060370
+      "N\xEDveis Estelares 08_108": -1175639573490322995
+      "N\xEDveis Estelares 08_109": 1345906749975023933
+      "N\xEDveis Estelares 08_11": -7626859158422534594
+      "N\xEDveis Estelares 08_110": -6892407437509987590
+      "N\xEDveis Estelares 08_111": 8105564253355186441
+      "N\xEDveis Estelares 08_112": 5106274201143304701
+      "N\xEDveis Estelares 08_113": -3310817689970130416
+      "N\xEDveis Estelares 08_114": -7864170663757336573
+      "N\xEDveis Estelares 08_115": -8877738715675784227
+      "N\xEDveis Estelares 08_116": -2311301625793533690
+      "N\xEDveis Estelares 08_117": -2976867170226699486
+      "N\xEDveis Estelares 08_118": 7321886363740069331
+      "N\xEDveis Estelares 08_119": -970062199678373933
+      "N\xEDveis Estelares 08_12": -1237517909845965626
+      "N\xEDveis Estelares 08_120": -8429709265884960418
+      "N\xEDveis Estelares 08_121": -2939784822977334815
+      "N\xEDveis Estelares 08_122": -2990891494287881590
+      "N\xEDveis Estelares 08_123": 992797976837975395
+      "N\xEDveis Estelares 08_124": 7244464422791814305
+      "N\xEDveis Estelares 08_125": 1860391746855823323
+      "N\xEDveis Estelares 08_126": -2627772774832673997
+      "N\xEDveis Estelares 08_127": -3933252398804405555
+      "N\xEDveis Estelares 08_128": 3518928273736851196
+      "N\xEDveis Estelares 08_129": -3938947559801135862
+      "N\xEDveis Estelares 08_13": -6236888961073664684
+      "N\xEDveis Estelares 08_130": 1735400090870778230
+      "N\xEDveis Estelares 08_131": 7182153237546178710
+      "N\xEDveis Estelares 08_132": 2464098936562366965
+      "N\xEDveis Estelares 08_133": -5645513814316490662
+      "N\xEDveis Estelares 08_134": -7750840619724002057
+      "N\xEDveis Estelares 08_135": 9189113690292319022
+      "N\xEDveis Estelares 08_136": 355042798527190617
+      "N\xEDveis Estelares 08_137": -716945006094356632
+      "N\xEDveis Estelares 08_138": 652734419716862068
+      "N\xEDveis Estelares 08_139": 6857046651282717146
+      "N\xEDveis Estelares 08_14": 2943443929627289076
+      "N\xEDveis Estelares 08_140": -8011576059903342518
+      "N\xEDveis Estelares 08_141": -7567738465263924240
+      "N\xEDveis Estelares 08_142": -5768114397555666797
+      "N\xEDveis Estelares 08_143": -5465282349991507228
+      "N\xEDveis Estelares 08_144": -5915534967826637255
+      "N\xEDveis Estelares 08_145": -217011237524396546
+      "N\xEDveis Estelares 08_146": 6481464578224248580
+      "N\xEDveis Estelares 08_147": 8106812061383661181
+      "N\xEDveis Estelares 08_148": 4639818455188507532
+      "N\xEDveis Estelares 08_149": 2975065998944980422
+      "N\xEDveis Estelares 08_15": 2806980274751306820
+      "N\xEDveis Estelares 08_150": 3889129417258233517
+      "N\xEDveis Estelares 08_151": 8343796875898915868
+      "N\xEDveis Estelares 08_152": 3794675915888629280
+      "N\xEDveis Estelares 08_153": -8609520713746317016
+      "N\xEDveis Estelares 08_154": 7484242679558853583
+      "N\xEDveis Estelares 08_155": -583787095485399456
+      "N\xEDveis Estelares 08_156": 2689209413671831595
+      "N\xEDveis Estelares 08_157": -8233984066067372589
+      "N\xEDveis Estelares 08_158": 8681829825365953857
+      "N\xEDveis Estelares 08_159": -4933567192848156843
+      "N\xEDveis Estelares 08_16": 9092342873824422490
+      "N\xEDveis Estelares 08_160": -3777195108342031017
+      "N\xEDveis Estelares 08_161": -5163325925622083056
+      "N\xEDveis Estelares 08_162": 3302044094743036354
+      "N\xEDveis Estelares 08_163": -780074285940557903
+      "N\xEDveis Estelares 08_164": -9005832532955707015
+      "N\xEDveis Estelares 08_165": 3909644269946636243
+      "N\xEDveis Estelares 08_166": -62896978232428368
+      "N\xEDveis Estelares 08_167": 3324581770153075541
+      "N\xEDveis Estelares 08_168": 8981262845550006399
+      "N\xEDveis Estelares 08_169": 4216108237633998695
+      "N\xEDveis Estelares 08_17": -7546765464418465749
+      "N\xEDveis Estelares 08_170": 4294573569396247495
+      "N\xEDveis Estelares 08_171": -3598275027121658377
+      "N\xEDveis Estelares 08_172": -1932810544584943310
+      "N\xEDveis Estelares 08_173": 5709448060181199325
+      "N\xEDveis Estelares 08_174": 6418680497184550704
+      "N\xEDveis Estelares 08_175": 2178255411518218731
+      "N\xEDveis Estelares 08_176": 365398091586825132
+      "N\xEDveis Estelares 08_177": 6128885578283039900
+      "N\xEDveis Estelares 08_178": -6310391851958227132
+      "N\xEDveis Estelares 08_179": 3786698268534346847
+      "N\xEDveis Estelares 08_18": -7404295032344699488
+      "N\xEDveis Estelares 08_180": 320050191999432855
+      "N\xEDveis Estelares 08_181": -939345069376016319
+      "N\xEDveis Estelares 08_182": 3538117855811824129
+      "N\xEDveis Estelares 08_183": 1517563925539858885
+      "N\xEDveis Estelares 08_184": -3406973397107542045
+      "N\xEDveis Estelares 08_185": 2173328794954825836
+      "N\xEDveis Estelares 08_186": -7403356505376432542
+      "N\xEDveis Estelares 08_187": 9181615550594671523
+      "N\xEDveis Estelares 08_188": 6496344800664402513
+      "N\xEDveis Estelares 08_189": -8120961289890168067
+      "N\xEDveis Estelares 08_19": 6354965914928200233
+      "N\xEDveis Estelares 08_190": 6834872049317267780
+      "N\xEDveis Estelares 08_191": -5033825580439120581
+      "N\xEDveis Estelares 08_2": -213154096310258300
+      "N\xEDveis Estelares 08_20": 8432990062671442499
+      "N\xEDveis Estelares 08_21": -5563895296254768820
+      "N\xEDveis Estelares 08_22": 6457867241688609223
+      "N\xEDveis Estelares 08_23": -1671428927686114343
+      "N\xEDveis Estelares 08_24": 3887619673430417213
+      "N\xEDveis Estelares 08_25": 3850498843216138670
+      "N\xEDveis Estelares 08_26": -2017140671374345719
+      "N\xEDveis Estelares 08_27": 4525879593712317746
+      "N\xEDveis Estelares 08_28": 5641028863184381568
+      "N\xEDveis Estelares 08_29": 3371183848308842308
+      "N\xEDveis Estelares 08_3": -2950813420268841169
+      "N\xEDveis Estelares 08_30": -781684851633289399
+      "N\xEDveis Estelares 08_31": 4719593186190211845
+      "N\xEDveis Estelares 08_32": 2517676154754856879
+      "N\xEDveis Estelares 08_33": 3778107112350649448
+      "N\xEDveis Estelares 08_34": -2240916586656925967
+      "N\xEDveis Estelares 08_35": 3400230856724544056
+      "N\xEDveis Estelares 08_36": 9136924660332803551
+      "N\xEDveis Estelares 08_37": -8422483593668778832
+      "N\xEDveis Estelares 08_38": -2157396928179244010
+      "N\xEDveis Estelares 08_39": 5272377259583881508
+      "N\xEDveis Estelares 08_4": -5074238585716311785
+      "N\xEDveis Estelares 08_40": -6810968650841541009
+      "N\xEDveis Estelares 08_41": -7209234504956762328
+      "N\xEDveis Estelares 08_42": -2288968332176574379
+      "N\xEDveis Estelares 08_43": 95337273776539164
+      "N\xEDveis Estelares 08_44": -7288298680485364464
+      "N\xEDveis Estelares 08_45": -1585037022573635127
+      "N\xEDveis Estelares 08_46": 6022234566909530810
+      "N\xEDveis Estelares 08_47": 6685856729327197113
+      "N\xEDveis Estelares 08_48": 4086359114057094571
+      "N\xEDveis Estelares 08_49": -2413320055214965300
+      "N\xEDveis Estelares 08_5": 797857409583961899
+      "N\xEDveis Estelares 08_50": -680412565198740130
+      "N\xEDveis Estelares 08_51": 3739345140435428460
+      "N\xEDveis Estelares 08_52": 4696113572378933413
+      "N\xEDveis Estelares 08_53": -6981886893024824182
+      "N\xEDveis Estelares 08_54": 5540020996646773335
+      "N\xEDveis Estelares 08_55": -6761321346903603328
+      "N\xEDveis Estelares 08_56": -74944989023222415
+      "N\xEDveis Estelares 08_57": -4687089985521221058
+      "N\xEDveis Estelares 08_58": -2227462236936364717
+      "N\xEDveis Estelares 08_59": 1371345728994485383
+      "N\xEDveis Estelares 08_6": -5683266047271178651
+      "N\xEDveis Estelares 08_60": 3000899259794578740
+      "N\xEDveis Estelares 08_61": 5514655586328739118
+      "N\xEDveis Estelares 08_62": 2314042407943084501
+      "N\xEDveis Estelares 08_63": -8494107916808865054
+      "N\xEDveis Estelares 08_64": -1850037146293153723
+      "N\xEDveis Estelares 08_65": -6295345223563919721
+      "N\xEDveis Estelares 08_66": 3129695112221095350
+      "N\xEDveis Estelares 08_67": 4465825798864554529
+      "N\xEDveis Estelares 08_68": -3564116619128489785
+      "N\xEDveis Estelares 08_69": 6814933812694736181
+      "N\xEDveis Estelares 08_7": -1860078631203069311
+      "N\xEDveis Estelares 08_70": 5507100123356479291
+      "N\xEDveis Estelares 08_71": -6769041844512698665
+      "N\xEDveis Estelares 08_72": -2765743606287143358
+      "N\xEDveis Estelares 08_73": 2436588140710252628
+      "N\xEDveis Estelares 08_74": 8714882699893070556
+      "N\xEDveis Estelares 08_75": 8738018664060383536
+      "N\xEDveis Estelares 08_76": 7320661434213028652
+      "N\xEDveis Estelares 08_77": 3364205556922595245
+      "N\xEDveis Estelares 08_78": -1733217334664207708
+      "N\xEDveis Estelares 08_79": -7960002830862923580
+      "N\xEDveis Estelares 08_8": 8045186484627926020
+      "N\xEDveis Estelares 08_80": 3614566810464692366
+      "N\xEDveis Estelares 08_81": -8630260443621680442
+      "N\xEDveis Estelares 08_82": 3317504214178332264
+      "N\xEDveis Estelares 08_83": 7789622295665546671
+      "N\xEDveis Estelares 08_84": -7207710298580263833
+      "N\xEDveis Estelares 08_85": 2820102207587842615
+      "N\xEDveis Estelares 08_86": 7841378609441259117
+      "N\xEDveis Estelares 08_87": 4100922156568984599
+      "N\xEDveis Estelares 08_88": -4292772085598359753
+      "N\xEDveis Estelares 08_89": -6967026166951919956
+      "N\xEDveis Estelares 08_9": -3885184580476675901
+      "N\xEDveis Estelares 08_90": 2445112955494504574
+      "N\xEDveis Estelares 08_91": -1272242087405003537
+      "N\xEDveis Estelares 08_92": -3916788746394622383
+      "N\xEDveis Estelares 08_93": 817899329258601013
+      "N\xEDveis Estelares 08_94": 862798339520025177
+      "N\xEDveis Estelares 08_95": 5490229148337136205
+      "N\xEDveis Estelares 08_96": 4545214373349100046
+      "N\xEDveis Estelares 08_97": 6760918052503538201
+      "N\xEDveis Estelares 08_98": -2894410005489754655
+      "N\xEDveis Estelares 08_99": 6618148084611252030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

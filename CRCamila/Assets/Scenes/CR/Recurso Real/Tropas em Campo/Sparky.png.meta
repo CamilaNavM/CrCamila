@@ -1,0 +1,6937 @@
+fileFormatVersion: 2
+guid: ac174b784fc40fa43bc59e1a800757b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2186602288099788976
+    second: Sparky_0
+  - first:
+      213: -6332279328438797743
+    second: Sparky_1
+  - first:
+      213: -759746894529197314
+    second: Sparky_2
+  - first:
+      213: -1188524326393913084
+    second: Sparky_3
+  - first:
+      213: -5413129721885712369
+    second: Sparky_4
+  - first:
+      213: -7147350226403751897
+    second: Sparky_5
+  - first:
+      213: -6505872375558811361
+    second: Sparky_6
+  - first:
+      213: -5324053705525830843
+    second: Sparky_7
+  - first:
+      213: -3498323705760346214
+    second: Sparky_8
+  - first:
+      213: 5768657865564630449
+    second: Sparky_9
+  - first:
+      213: -6120526755652291407
+    second: Sparky_10
+  - first:
+      213: 8060666980060101507
+    second: Sparky_11
+  - first:
+      213: 8156730502101421659
+    second: Sparky_12
+  - first:
+      213: -5884483555139801966
+    second: Sparky_13
+  - first:
+      213: -5754407497173196975
+    second: Sparky_14
+  - first:
+      213: -3001334535558414825
+    second: Sparky_15
+  - first:
+      213: -3787917634231141862
+    second: Sparky_16
+  - first:
+      213: -5934945682474460731
+    second: Sparky_17
+  - first:
+      213: -8942500277358613807
+    second: Sparky_18
+  - first:
+      213: -9145541999700455916
+    second: Sparky_19
+  - first:
+      213: 3141053374629930091
+    second: Sparky_20
+  - first:
+      213: 6443331852047294857
+    second: Sparky_21
+  - first:
+      213: -7596981614795374457
+    second: Sparky_22
+  - first:
+      213: 8910727504360008649
+    second: Sparky_23
+  - first:
+      213: 8008661699028103356
+    second: Sparky_24
+  - first:
+      213: 5389890109582445712
+    second: Sparky_25
+  - first:
+      213: 7541406920058474053
+    second: Sparky_26
+  - first:
+      213: -8846851099155987441
+    second: Sparky_27
+  - first:
+      213: -7995250458836038604
+    second: Sparky_28
+  - first:
+      213: -5033944992327482962
+    second: Sparky_29
+  - first:
+      213: 3627206860853557110
+    second: Sparky_30
+  - first:
+      213: 4708122167388769637
+    second: Sparky_31
+  - first:
+      213: -2271918768938828623
+    second: Sparky_32
+  - first:
+      213: -8672882621775335865
+    second: Sparky_33
+  - first:
+      213: 806892180057875779
+    second: Sparky_34
+  - first:
+      213: 8430310358050448542
+    second: Sparky_35
+  - first:
+      213: -144948523189244406
+    second: Sparky_36
+  - first:
+      213: -3449880965569709917
+    second: Sparky_37
+  - first:
+      213: -691528403037716800
+    second: Sparky_38
+  - first:
+      213: 1773129555582612057
+    second: Sparky_39
+  - first:
+      213: 4482510391566075749
+    second: Sparky_40
+  - first:
+      213: -6913267147318521914
+    second: Sparky_41
+  - first:
+      213: 7826421760661714695
+    second: Sparky_42
+  - first:
+      213: 6346452000522074019
+    second: Sparky_43
+  - first:
+      213: -165330828306131086
+    second: Sparky_44
+  - first:
+      213: 9161357370238860365
+    second: Sparky_45
+  - first:
+      213: -7580983364409013380
+    second: Sparky_46
+  - first:
+      213: -4548328344540211434
+    second: Sparky_47
+  - first:
+      213: 7263662201915718888
+    second: Sparky_48
+  - first:
+      213: -2432049288648091709
+    second: Sparky_49
+  - first:
+      213: 4574505913357400546
+    second: Sparky_50
+  - first:
+      213: 4244511350739998188
+    second: Sparky_51
+  - first:
+      213: -4651472632119849033
+    second: Sparky_52
+  - first:
+      213: -6954743047760052408
+    second: Sparky_53
+  - first:
+      213: 7737899088158315917
+    second: Sparky_54
+  - first:
+      213: 4199085657955369756
+    second: Sparky_55
+  - first:
+      213: -6856768603973413672
+    second: Sparky_56
+  - first:
+      213: -2610608080374979534
+    second: Sparky_57
+  - first:
+      213: -3026518748022569023
+    second: Sparky_58
+  - first:
+      213: -110682352375519218
+    second: Sparky_59
+  - first:
+      213: -4991337473185337515
+    second: Sparky_60
+  - first:
+      213: 6539409054277382067
+    second: Sparky_61
+  - first:
+      213: 7903795545328401530
+    second: Sparky_62
+  - first:
+      213: -1918101105781430437
+    second: Sparky_63
+  - first:
+      213: 1877142110582796232
+    second: Sparky_64
+  - first:
+      213: 6677257428304060349
+    second: Sparky_65
+  - first:
+      213: 4113163663922288623
+    second: Sparky_66
+  - first:
+      213: -3970256837750777704
+    second: Sparky_67
+  - first:
+      213: -6664251696071418541
+    second: Sparky_68
+  - first:
+      213: -7564878918809062366
+    second: Sparky_69
+  - first:
+      213: 7064270408078599511
+    second: Sparky_70
+  - first:
+      213: -1157324672569124510
+    second: Sparky_71
+  - first:
+      213: -7378696716993503522
+    second: Sparky_72
+  - first:
+      213: -3124242366876701411
+    second: Sparky_73
+  - first:
+      213: -2880642415172130099
+    second: Sparky_74
+  - first:
+      213: -7032261721119984137
+    second: Sparky_75
+  - first:
+      213: 2721169667328332335
+    second: Sparky_76
+  - first:
+      213: -5482732897270058811
+    second: Sparky_77
+  - first:
+      213: 3198859330837479689
+    second: Sparky_78
+  - first:
+      213: -675838955112673447
+    second: Sparky_79
+  - first:
+      213: 8190574931997376400
+    second: Sparky_80
+  - first:
+      213: 2469533709568781564
+    second: Sparky_81
+  - first:
+      213: -1997441919317972747
+    second: Sparky_82
+  - first:
+      213: 7794305787524037797
+    second: Sparky_83
+  - first:
+      213: -5166622194826465838
+    second: Sparky_84
+  - first:
+      213: 7770011589258433793
+    second: Sparky_85
+  - first:
+      213: 441347507081048531
+    second: Sparky_86
+  - first:
+      213: 8766329928525329090
+    second: Sparky_87
+  - first:
+      213: 3039690504238901219
+    second: Sparky_88
+  - first:
+      213: -4342320675689184112
+    second: Sparky_89
+  - first:
+      213: -84722095962116826
+    second: Sparky_90
+  - first:
+      213: -7837809205228961617
+    second: Sparky_91
+  - first:
+      213: 3878446583831456385
+    second: Sparky_92
+  - first:
+      213: 7387044510929030160
+    second: Sparky_93
+  - first:
+      213: -472393992528345018
+    second: Sparky_94
+  - first:
+      213: -1866784094571611767
+    second: Sparky_95
+  - first:
+      213: 8965853024693433016
+    second: Sparky_96
+  - first:
+      213: 8355754118024042085
+    second: Sparky_97
+  - first:
+      213: 673840113486025438
+    second: Sparky_98
+  - first:
+      213: -4388137682800810668
+    second: Sparky_99
+  - first:
+      213: 6487905807354236936
+    second: Sparky_100
+  - first:
+      213: 4426300484917648063
+    second: Sparky_101
+  - first:
+      213: 1123593332909228449
+    second: Sparky_102
+  - first:
+      213: 5491059020766908920
+    second: Sparky_103
+  - first:
+      213: 8490919233493855409
+    second: Sparky_104
+  - first:
+      213: -2415548882333001692
+    second: Sparky_105
+  - first:
+      213: -7125919260348121647
+    second: Sparky_106
+  - first:
+      213: 233012207408891072
+    second: Sparky_107
+  - first:
+      213: -7765129666125156530
+    second: Sparky_108
+  - first:
+      213: -8706949362034054800
+    second: Sparky_109
+  - first:
+      213: -6409532871288470559
+    second: Sparky_110
+  - first:
+      213: 8544151751861734901
+    second: Sparky_111
+  - first:
+      213: 3057987254991237039
+    second: Sparky_112
+  - first:
+      213: 8270503733996649791
+    second: Sparky_113
+  - first:
+      213: -5968086914165916314
+    second: Sparky_114
+  - first:
+      213: 4875490183929420366
+    second: Sparky_115
+  - first:
+      213: 4011346166845715709
+    second: Sparky_116
+  - first:
+      213: -224153828638771494
+    second: Sparky_117
+  - first:
+      213: 8037401001673345811
+    second: Sparky_118
+  - first:
+      213: -5078600917255604953
+    second: Sparky_119
+  - first:
+      213: 5887724345526722199
+    second: Sparky_120
+  - first:
+      213: -7333204143303458562
+    second: Sparky_121
+  - first:
+      213: 8686351063036241173
+    second: Sparky_122
+  - first:
+      213: 4004256508865941781
+    second: Sparky_123
+  - first:
+      213: 102660953273260381
+    second: Sparky_124
+  - first:
+      213: 4608328592207662587
+    second: Sparky_125
+  - first:
+      213: -1046426611673883650
+    second: Sparky_126
+  - first:
+      213: 683560730215273545
+    second: Sparky_127
+  - first:
+      213: -9192294692305493396
+    second: Sparky_128
+  - first:
+      213: -2994889108306851661
+    second: Sparky_129
+  - first:
+      213: -8299571950623149369
+    second: Sparky_130
+  - first:
+      213: -7022778750943263243
+    second: Sparky_131
+  - first:
+      213: 187440948945935390
+    second: Sparky_132
+  - first:
+      213: -7816277387481656506
+    second: Sparky_133
+  - first:
+      213: 8242536640047067010
+    second: Sparky_134
+  - first:
+      213: 8060406319302489906
+    second: Sparky_135
+  - first:
+      213: 6296291636323352384
+    second: Sparky_136
+  - first:
+      213: 3803153201053453570
+    second: Sparky_137
+  - first:
+      213: 7335444730242686391
+    second: Sparky_138
+  - first:
+      213: 2198131503141572020
+    second: Sparky_139
+  - first:
+      213: 3870607037928836927
+    second: Sparky_140
+  - first:
+      213: 4325504846502609392
+    second: Sparky_141
+  - first:
+      213: -3592392060101655273
+    second: Sparky_142
+  - first:
+      213: 2769273919717840999
+    second: Sparky_143
+  - first:
+      213: -5296148764637344826
+    second: Sparky_144
+  - first:
+      213: -7136612099622163723
+    second: Sparky_145
+  - first:
+      213: -8331124398832783159
+    second: Sparky_146
+  - first:
+      213: 6570694689512909870
+    second: Sparky_147
+  - first:
+      213: 2378943107375269978
+    second: Sparky_148
+  - first:
+      213: 3268878566887510257
+    second: Sparky_149
+  - first:
+      213: -2094327192806298365
+    second: Sparky_150
+  - first:
+      213: -8433697966172482284
+    second: Sparky_151
+  - first:
+      213: 3558849783065591658
+    second: Sparky_152
+  - first:
+      213: 9117024236442041879
+    second: Sparky_153
+  - first:
+      213: 3723428376324867705
+    second: Sparky_154
+  - first:
+      213: 3038376049962560043
+    second: Sparky_155
+  - first:
+      213: -2387531901872247024
+    second: Sparky_156
+  - first:
+      213: -6591910762979972631
+    second: Sparky_157
+  - first:
+      213: 7269608079171490879
+    second: Sparky_158
+  - first:
+      213: -5584073509575135216
+    second: Sparky_159
+  - first:
+      213: 4539630681896844761
+    second: Sparky_160
+  - first:
+      213: -2945005101434830555
+    second: Sparky_161
+  - first:
+      213: 7469238714937206909
+    second: Sparky_162
+  - first:
+      213: -3016321612222124200
+    second: Sparky_163
+  - first:
+      213: 3197140299221767468
+    second: Sparky_164
+  - first:
+      213: 5450677907225798699
+    second: Sparky_165
+  - first:
+      213: 7622029516640271603
+    second: Sparky_166
+  - first:
+      213: -8588228649959574161
+    second: Sparky_167
+  - first:
+      213: 5689485639760304331
+    second: Sparky_168
+  - first:
+      213: 8918574282693995535
+    second: Sparky_169
+  - first:
+      213: -4321962035111368400
+    second: Sparky_170
+  - first:
+      213: 4372707765041685691
+    second: Sparky_171
+  - first:
+      213: -5346253148592330910
+    second: Sparky_172
+  - first:
+      213: 5455537914437838370
+    second: Sparky_173
+  - first:
+      213: -90280102668044736
+    second: Sparky_174
+  - first:
+      213: -4810131929155316207
+    second: Sparky_175
+  - first:
+      213: -5877943285160602369
+    second: Sparky_176
+  - first:
+      213: -5633481398906804663
+    second: Sparky_177
+  - first:
+      213: -4976279938731044252
+    second: Sparky_178
+  - first:
+      213: -7117497412823427326
+    second: Sparky_179
+  - first:
+      213: 3063273829920756732
+    second: Sparky_180
+  - first:
+      213: -3754737119994823811
+    second: Sparky_181
+  - first:
+      213: 9063912570881360964
+    second: Sparky_182
+  - first:
+      213: 64839918716169669
+    second: Sparky_183
+  - first:
+      213: 6327482801547633898
+    second: Sparky_184
+  - first:
+      213: -1032637824515636053
+    second: Sparky_185
+  - first:
+      213: -7038841863817160830
+    second: Sparky_186
+  - first:
+      213: 4537736036320290781
+    second: Sparky_187
+  - first:
+      213: -7574446152449811680
+    second: Sparky_188
+  - first:
+      213: 6150680096794708997
+    second: Sparky_189
+  - first:
+      213: -1664413366556475281
+    second: Sparky_190
+  - first:
+      213: 1457415818988094306
+    second: Sparky_191
+  - first:
+      213: 6332218104483155476
+    second: Sparky_192
+  - first:
+      213: 1001812088496974934
+    second: Sparky_193
+  - first:
+      213: 687484384692716176
+    second: Sparky_194
+  - first:
+      213: 6302481406144511681
+    second: Sparky_195
+  - first:
+      213: 4781045374367347782
+    second: Sparky_196
+  - first:
+      213: -4103909095081917430
+    second: Sparky_197
+  - first:
+      213: -3200422667672013539
+    second: Sparky_198
+  - first:
+      213: -5781467814851048727
+    second: Sparky_199
+  - first:
+      213: 3450909560740738887
+    second: Sparky_200
+  - first:
+      213: -8387576631033064489
+    second: Sparky_201
+  - first:
+      213: -1654384256152742276
+    second: Sparky_202
+  - first:
+      213: 7055057462631417704
+    second: Sparky_203
+  - first:
+      213: -6045552246063131719
+    second: Sparky_204
+  - first:
+      213: -5627329495388506002
+    second: Sparky_205
+  - first:
+      213: 2062813898483926818
+    second: Sparky_206
+  - first:
+      213: -7711005799883439646
+    second: Sparky_207
+  - first:
+      213: 8820382393021702665
+    second: Sparky_208
+  - first:
+      213: -6964386402301326576
+    second: Sparky_209
+  - first:
+      213: -9169511085180979656
+    second: Sparky_210
+  - first:
+      213: -1864654039596987776
+    second: Sparky_211
+  - first:
+      213: 5337141825161446510
+    second: Sparky_212
+  - first:
+      213: -2701666365104721660
+    second: Sparky_213
+  - first:
+      213: -3950166923025832005
+    second: Sparky_214
+  - first:
+      213: 8961377895799333907
+    second: Sparky_215
+  - first:
+      213: 116625505409153680
+    second: Sparky_216
+  - first:
+      213: 3339071202966937080
+    second: Sparky_217
+  - first:
+      213: 5742978076123169741
+    second: Sparky_218
+  - first:
+      213: -5599394672340981373
+    second: Sparky_219
+  - first:
+      213: 8058146173530444364
+    second: Sparky_220
+  - first:
+      213: -5960843561032802248
+    second: Sparky_221
+  - first:
+      213: 5811493836716142635
+    second: Sparky_222
+  - first:
+      213: 4703965046134566208
+    second: Sparky_223
+  - first:
+      213: 7866821849617424866
+    second: Sparky_224
+  - first:
+      213: 7996381164747270670
+    second: Sparky_225
+  - first:
+      213: 8930575925501404219
+    second: Sparky_226
+  - first:
+      213: 4899926127262298352
+    second: Sparky_227
+  - first:
+      213: -1348189639050192097
+    second: Sparky_228
+  - first:
+      213: 4820211156281115094
+    second: Sparky_229
+  - first:
+      213: 111425952085102240
+    second: Sparky_230
+  - first:
+      213: 7139774210499440969
+    second: Sparky_231
+  - first:
+      213: 1959871086210621829
+    second: Sparky_232
+  - first:
+      213: 3477046398300863472
+    second: Sparky_233
+  - first:
+      213: -1851243040131139861
+    second: Sparky_234
+  - first:
+      213: -5876157239073822140
+    second: Sparky_235
+  - first:
+      213: -283691493663803086
+    second: Sparky_236
+  - first:
+      213: 5619973684285091747
+    second: Sparky_237
+  - first:
+      213: 3031306427071303208
+    second: Sparky_238
+  - first:
+      213: 4211150911878996185
+    second: Sparky_239
+  - first:
+      213: 5968783033120828813
+    second: Sparky_240
+  - first:
+      213: 3444398470716445522
+    second: Sparky_241
+  - first:
+      213: -2915926295551376964
+    second: Sparky_242
+  - first:
+      213: -8696725844579635602
+    second: Sparky_243
+  - first:
+      213: 3302003203028794034
+    second: Sparky_244
+  - first:
+      213: -5026335967873110729
+    second: Sparky_245
+  - first:
+      213: 1000700073445806692
+    second: Sparky_246
+  - first:
+      213: -7872106140532271984
+    second: Sparky_247
+  - first:
+      213: 5629590241779704402
+    second: Sparky_248
+  - first:
+      213: -7587999285860005862
+    second: Sparky_249
+  - first:
+      213: -8888448754464879547
+    second: Sparky_250
+  - first:
+      213: 1193260951186211271
+    second: Sparky_251
+  - first:
+      213: -656836665569499760
+    second: Sparky_252
+  - first:
+      213: -1434791952454449186
+    second: Sparky_253
+  - first:
+      213: -3328074712362890448
+    second: Sparky_254
+  - first:
+      213: -3709823769514473232
+    second: Sparky_255
+  - first:
+      213: -7423576153356603447
+    second: Sparky_256
+  - first:
+      213: -7972623241813311400
+    second: Sparky_257
+  - first:
+      213: -571745277227103961
+    second: Sparky_258
+  - first:
+      213: -4951934648823394771
+    second: Sparky_259
+  - first:
+      213: -6010750315389758953
+    second: Sparky_260
+  - first:
+      213: -7856744685983945010
+    second: Sparky_261
+  - first:
+      213: 1204488333987435952
+    second: Sparky_262
+  - first:
+      213: -1085600245875142712
+    second: Sparky_263
+  - first:
+      213: -3588891777876427415
+    second: Sparky_264
+  - first:
+      213: -7644435155655923287
+    second: Sparky_265
+  - first:
+      213: 1020224818838946845
+    second: Sparky_266
+  - first:
+      213: -3609538556229990596
+    second: Sparky_267
+  - first:
+      213: 8500408318789825367
+    second: Sparky_268
+  - first:
+      213: 2194844910585079501
+    second: Sparky_269
+  - first:
+      213: 3784979711003918038
+    second: Sparky_270
+  - first:
+      213: -2257825324866887132
+    second: Sparky_271
+  - first:
+      213: -7631669527985333973
+    second: Sparky_272
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sparky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88e37223f585e10800000000000000
+      internalID: 2186602288099788976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 732
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a3bd920893f18a0800000000000000
+      internalID: -6332279328438797743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 656
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa81688936d475f0800000000000000
+      internalID: -759746894529197314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 735
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40161661c63818fe0800000000000000
+      internalID: -1188524326393913084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 658
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a4eba233b0e4b0800000000000000
+      internalID: -5413129721885712369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 654
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72885ed56d28fcc90800000000000000
+      internalID: -7147350226403751897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 654
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115ac44b8f76b5a0800000000000000
+      internalID: -6505872375558811361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 657
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd705ec592d16b0800000000000000
+      internalID: -5324053705525830843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 705
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f83d0ef15737fc0800000000000000
+      internalID: -3498323705760346214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2ebbd3c36e0050800000000000000
+      internalID: 5768657865564630449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 615
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4321bf7558f0ba0800000000000000
+      internalID: -6120526755652291407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 608
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf33f39ed3ddf60800000000000000
+      internalID: 8060666980060101507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e495aec27823170800000000000000
+      internalID: 8156730502101421659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ca349426d165ea0800000000000000
+      internalID: -5884483555139801966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 634
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f95269edc3420b0800000000000000
+      internalID: -5754407497173196975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ebde3442e1956d0800000000000000
+      internalID: -3001334535558414825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 572
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af63d1bfc9e6bc0800000000000000
+      internalID: -3787917634231141862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 571
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91fd2b856d2ada0800000000000000
+      internalID: -5934945682474460731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 599
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da253c806bd5e380800000000000000
+      internalID: -8942500277358613807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 576
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4075a102841180800000000000000
+      internalID: -9145541999700455916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 613
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64eb57f663479b20800000000000000
+      internalID: 3141053374629930091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 598
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9812d336e205b6950800000000000000
+      internalID: 6443331852047294857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c2fcc879129690800000000000000
+      internalID: -7596981614795374457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6ea3447349ab70800000000000000
+      internalID: 8910727504360008649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 549
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b8d0326b742f60800000000000000
+      internalID: 8008661699028103356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 536
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8d007f7cbcca40800000000000000
+      internalID: 5389890109582445712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 501
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e02c043a578a860800000000000000
+      internalID: 7541406920058474053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 519
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0488064ccba93580800000000000000
+      internalID: -8846851099155987441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 494
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8cce711a2b0190800000000000000
+      internalID: -7995250458836038604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 547
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c67153b5d32ab0800000000000000
+      internalID: -5033944992327482962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 484
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67739041c6d665230800000000000000
+      internalID: 3627206860853557110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 521
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d8952aa2c965140800000000000000
+      internalID: 4708122167388769637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 556
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcbbd2bae58870e0800000000000000
+      internalID: -2271918768938828623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_33
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 518
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2c66d43bb3a780800000000000000
+      internalID: -8672882621775335865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_34
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 564
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e364a928a23b00800000000000000
+      internalID: 806892180057875779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 434
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a4edda9a7ef470800000000000000
+      internalID: 8430310358050448542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 457
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e669c061a0dfdf0800000000000000
+      internalID: -144948523189244406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 534
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f5d14a8f8f10d0800000000000000
+      internalID: -3449880965569709917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 526
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef7d0d4923766f0800000000000000
+      internalID: -691528403037716800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9527f35bfeb6b9810800000000000000
+      internalID: 1773129555582612057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 491
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670b47a373153e30800000000000000
+      internalID: 4482510391566075749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 472
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf83b658242f00a0800000000000000
+      internalID: -6913267147318521914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 416
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f0aa00290d9c60800000000000000
+      internalID: 7826421760661714695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 408
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a77f233870231850800000000000000
+      internalID: 6346452000522074019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_44
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 419
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2775464dc70a4bdf0800000000000000
+      internalID: -165330828306131086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_45
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 438
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7e714dfda32f70800000000000000
+      internalID: 9161357370238860365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_46
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 480
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b414cbbcfeac690800000000000000
+      internalID: -7580983364409013380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 445
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61717ddf77711e0c0800000000000000
+      internalID: -4548328344540211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 410
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec3e91c946bdc460800000000000000
+      internalID: 7263662201915718888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 370
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c793e9be00af3ed0800000000000000
+      internalID: -2432049288648091709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 455
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9779434e8eb7f30800000000000000
+      internalID: 4574505913357400546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_51
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 377
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce598f9c59887ea30800000000000000
+      internalID: 4244511350739998188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf8b002946a27fb0800000000000000
+      internalID: -4651472632119849033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 347
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ff42ebb0acb7f90800000000000000
+      internalID: -6954743047760052408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 352
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85de79393a826b60800000000000000
+      internalID: 7737899088158315917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 363
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130edf7826264a30800000000000000
+      internalID: 4199085657955369756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 425
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d41d1d884dd7d0a0800000000000000
+      internalID: -6856768603973413672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 359
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2342c7158c145cbd0800000000000000
+      internalID: -2610608080374979534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 380
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c70e0edb35aff5d0800000000000000
+      internalID: -3026518748022569023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 321
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a0c7acf6c67ef0800000000000000
+      internalID: -110682352375519218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 374
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f21bc63053bbab0800000000000000
+      internalID: -4991337473185337515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_61
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 331
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf2d2933e5a0ca50800000000000000
+      internalID: 6539409054277382067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_62
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 329
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c3d902c2cefad60800000000000000
+      internalID: 7903795545328401530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 315
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572d92f4398165e0800000000000000
+      internalID: -1918101105781430437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe636ddc2fc0a10800000000000000
+      internalID: 1877142110582796232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 326
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd6efd0426aac50800000000000000
+      internalID: 6677257428304060349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_66
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 327
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d1235f84e41930800000000000000
+      internalID: 4113163663922288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989ccef070d6e8c0800000000000000
+      internalID: -3970256837750777704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_68
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 347
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d5ed12462d383a0800000000000000
+      internalID: -6664251696071418541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_69
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 333
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2247b8b24b6240790800000000000000
+      internalID: -7564878918809062366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 317
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75524de0284590260800000000000000
+      internalID: 7064270408078599511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_71
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 339
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d8b1975b50ffe0800000000000000
+      internalID: -1157324672569124510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_72
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 319
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eded24e0e6a999990800000000000000
+      internalID: -7378696716993503522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 288
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1da61ace1674a4d0800000000000000
+      internalID: -3124242366876701411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_74
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 343
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaedb65cf6e508d0800000000000000
+      internalID: -2880642415172130099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5f0112933686e90800000000000000
+      internalID: -7032261721119984137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 287
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225ca2256983c520800000000000000
+      internalID: 2721169667328332335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0bedb8a7b69e3b0800000000000000
+      internalID: -5482732897270058811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 285
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9010305fc91a46c20800000000000000
+      internalID: 3198859330837479689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 311
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f43231d00fe96f0800000000000000
+      internalID: -675838955112673447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f3cef4184caa170800000000000000
+      internalID: 8190574931997376400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 301
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc23bf13db854220800000000000000
+      internalID: 2469533709568781564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 287
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e3934829a744e0800000000000000
+      internalID: -1997441919317972747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 307
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac342851dfea2c60800000000000000
+      internalID: 7794305787524037797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_84
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 291
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd28bcdc787c48b0800000000000000
+      internalID: -5166622194826465838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105da668f50a4db60800000000000000
+      internalID: 7770011589258433793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f116283bff1600800000000000000
+      internalID: 441347507081048531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 312
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b0adbf9248a970800000000000000
+      internalID: 8766329928525329090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a94c98662f2a20800000000000000
+      internalID: 3039690504238901219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 291
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09446b02a5afcb3c0800000000000000
+      internalID: -4342320675689184112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_90
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 314
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d2d8dd3b103def0800000000000000
+      internalID: -84722095962116826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_91
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 299
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08a09ed028a3390800000000000000
+      internalID: -7837809205228961617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_92
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 305
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ae99d7e9203d530800000000000000
+      internalID: 3878446583831456385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8ced28dd048660800000000000000
+      internalID: 7387044510929030160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 258
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c159aa28b179f0800000000000000
+      internalID: -472393992528345018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 269
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989b5b2b1c9d716e0800000000000000
+      internalID: -1866784094571611767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_96
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 252
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2b635a2db1d6c70800000000000000
+      internalID: 8965853024693433016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_97
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 262
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669453891a95f370800000000000000
+      internalID: 8355754118024042085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 273
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed25eb75306f95900800000000000000
+      internalID: 673840113486025438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_99
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 268
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e62fd6043a13c0800000000000000
+      internalID: -4388137682800810668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_100
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 252
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8001b8715fba90a50800000000000000
+      internalID: 6487905807354236936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_101
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 274
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbad7a8e6d06d6d30800000000000000
+      internalID: 4426300484917648063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_102
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 257
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14d08ee2ec79f00800000000000000
+      internalID: 1123593332909228449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_103
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 262
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f114852619243c40800000000000000
+      internalID: 5491059020766908920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 253
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bceee85e0ec5d570800000000000000
+      internalID: 8490919233493855409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_105
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 251
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42813f2f61f3a7ed0800000000000000
+      internalID: -2415548882333001692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf5dcff26ab1d90800000000000000
+      internalID: -7125919260348121647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_107
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4cfea3e53db3300800000000000000
+      internalID: 233012207408891072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 278
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f23c7c5b7bc3490800000000000000
+      internalID: -7765129666125156530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_109
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 269
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07965a6cfa3ba2780800000000000000
+      internalID: -8706949362034054800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_110
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 254
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e349ae00d3cc07a0800000000000000
+      internalID: -6409532871288470559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_111
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 265
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd00ccdfbce29670800000000000000
+      internalID: 8544151751861734901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 229
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafac6dd437207a20800000000000000
+      internalID: 3057987254991237039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_113
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d796ab35bb6c270800000000000000
+      internalID: 8270503733996649791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dbb7462981d2da0800000000000000
+      internalID: -5968086914165916314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 194
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5407ad7839a340800000000000000
+      internalID: 4875490183929420366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_116
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 222
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4b6f1f51a2ba730800000000000000
+      internalID: 4011346166845715709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_117
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 232
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad631fcc745a3ecf0800000000000000
+      internalID: -224153828638771494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 205
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bcb1680a59a8f60800000000000000
+      internalID: 8037401001673345811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_119
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 239
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725b1039f5f2589b0800000000000000
+      internalID: -5078600917255604953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_120
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 221
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e1a86091665b150800000000000000
+      internalID: 5887724345526722199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef089f44fa93b3a90800000000000000
+      internalID: -7333204143303458562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_122
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 243
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ac92054e1c8870800000000000000
+      internalID: 8686351063036241173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 219
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5111080541af19730800000000000000
+      internalID: 4004256508865941781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 215
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d724d799bc6100800000000000000
+      internalID: 102660953273260381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_125
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 234
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd40da407214ff30800000000000000
+      internalID: 4608328592207662587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_126
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 235
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb99a77a885a71f0800000000000000
+      internalID: -1046426611673883650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_127
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 234
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94453eaccde7c7900800000000000000
+      internalID: 683560730215273545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_128
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 218
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622c622ea86e6080800000000000000
+      internalID: -9192294692305493396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_129
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 230
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80fad39340076d0800000000000000
+      internalID: -2994889108306851661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2bf4fa84ff1dc80800000000000000
+      internalID: -8299571950623149369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_131
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 179
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58ddd2fe31a8e90800000000000000
+      internalID: -7022778750943263243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_132
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 182
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd84acc8ce99200800000000000000
+      internalID: 187440948945935390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_133
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 215
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643dc35e021078390800000000000000
+      internalID: -7816277387481656506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_134
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 183
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa52e376f536270800000000000000
+      internalID: 8242536640047067010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_135
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 195
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237b65f67d05cdf60800000000000000
+      internalID: 8060406319302489906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 197
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff05152ebe06750800000000000000
+      internalID: 6296291636323352384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 206
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4e27bfa387c430800000000000000
+      internalID: 3803153201053453570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_138
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd50a70e1cbcc560800000000000000
+      internalID: 7335444730242686391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_139
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 186
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4956b4f4518e10800000000000000
+      internalID: 2198131503141572020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_140
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 207
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f00e8f79827b530800000000000000
+      internalID: 3870607037928836927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_141
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 191
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c40a8db7470c30800000000000000
+      internalID: 4325504846502609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_142
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 153
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71505b36472452ec0800000000000000
+      internalID: -3592392060101655273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 201
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768198e25ff6e6620800000000000000
+      internalID: 2769273919717840999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_144
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 196
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbca2e32cc4086b0800000000000000
+      internalID: -5296148764637344826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_145
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 210
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa24465b19a5fc90800000000000000
+      internalID: -7136612099622163723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_146
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 195
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c07bfbdf76e16c80800000000000000
+      internalID: -8331124398832783159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_147
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 187
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c66ffc10ccf2b50800000000000000
+      internalID: 6570694689512909870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_148
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 202
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5887f7e624b30120800000000000000
+      internalID: 2378943107375269978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_149
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 157
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d731ccb36d5d20800000000000000
+      internalID: 3268878566887510257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_150
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de65da3847fe2e0800000000000000
+      internalID: -2094327192806298365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_151
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 163
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415da57226c75fa80800000000000000
+      internalID: -8433697966172482284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_152
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb998a503936130800000000000000
+      internalID: 3558849783065591658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_153
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e31cd2d3d268e70800000000000000
+      internalID: 9117024236442041879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_154
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 159
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976047571664ca330800000000000000
+      internalID: 3723428376324867705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_155
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 173
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa2106bea7a2a20800000000000000
+      internalID: 3038376049962560043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_156
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 163
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fedfa8268cdded0800000000000000
+      internalID: -2387531901872247024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_157
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 189
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e921852614d484a0800000000000000
+      internalID: -6591910762979972631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_158
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 143
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34935f2806d2e460800000000000000
+      internalID: 7269608079171490879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_159
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 178
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010fa1e8ab26182b0800000000000000
+      internalID: -5584073509575135216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_160
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 168
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddfced9d02000f30800000000000000
+      internalID: 4539630681896844761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_161
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 153
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521834ba67d3127d0800000000000000
+      internalID: -2945005101434830555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_162
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d786d6a990118a760800000000000000
+      internalID: 7469238714937206909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_163
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 168
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85faa2f897fd326d0800000000000000
+      internalID: -3016321612222124200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_164
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c251338b9268e5c20800000000000000
+      internalID: 3197140299221767468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_165
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 148
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28634d7da2b4ab40800000000000000
+      internalID: 5450677907225798699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_166
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 140
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb2ee4673e6c960800000000000000
+      internalID: 7622029516640271603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_167
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b3559b8b70d880800000000000000
+      internalID: -8588228649959574161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_168
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 146
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc859909b0d15fe40800000000000000
+      internalID: 5689485639760304331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_169
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 135
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ce8e6be0425cb70800000000000000
+      internalID: 8918574282693995535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_170
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 157
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03966748d6e4504c0800000000000000
+      internalID: -4321962035111368400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_171
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 159
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e6e17b8afeac30800000000000000
+      internalID: 4372707765041685691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_172
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 138
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26727d6461b4ec5b0800000000000000
+      internalID: -5346253148592330910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_173
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 153
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2262eb814d6f5bb40800000000000000
+      internalID: 5455537914437838370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_174
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 153
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467f2699b24fbef0800000000000000
+      internalID: -90280102668044736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_175
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 149
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116deefde7afe3db0800000000000000
+      internalID: -4810131929155316207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff41c1e89b95d6ea0800000000000000
+      internalID: -5877943285160602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_177
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a361e38ad1d1b0800000000000000
+      internalID: -5633481398906804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 128
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462980dd2c3b0fab0800000000000000
+      internalID: -4976279938731044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_179
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207d5ea20d1993d90800000000000000
+      internalID: -7117497412823427326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_180
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 132
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf35d22815fe28a20800000000000000
+      internalID: 3063273829920756732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_181
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 126
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b3cb99b7e74ebc0800000000000000
+      internalID: -3754737119994823811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_182
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 125
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c496e57c79cd70800000000000000
+      internalID: 9063912570881360964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_183
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 134
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda752009b56e000800000000000000
+      internalID: 64839918716169669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_184
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 118
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e3a4651cbfc750800000000000000
+      internalID: 6327482801547633898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_185
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 128
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40d18ae555ba1f0800000000000000
+      internalID: -1032637824515636053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_186
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 126
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28797054e92015e90800000000000000
+      internalID: -7038841863817160830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_187
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 116
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72c5112e649fe30800000000000000
+      internalID: 4537736036320290781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_188
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 115
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b97e00b5922e690800000000000000
+      internalID: -7574446152449811680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_189
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 131
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c8388d5fa9b5550800000000000000
+      internalID: 6150680096794708997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_190
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 91
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f604dfe8cd0d6e8e0800000000000000
+      internalID: -1664413366556475281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_191
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26302d437f7c93410800000000000000
+      internalID: 1457415818988094306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_192
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e040601de80e750800000000000000
+      internalID: 6332218104483155476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_193
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 86
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ced8269c627ed00800000000000000
+      internalID: 1001812088496974934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_194
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 111
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092cc3ac76f6a8900800000000000000
+      internalID: 687484384692716176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_195
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 128
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7fb86279e67750800000000000000
+      internalID: 6302481406144511681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b03adf6fa95240800000000000000
+      internalID: 4781045374367347782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_197
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 84
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c525eb6cfb07c0800000000000000
+      internalID: -4103909095081917430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_198
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 102
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d153d425a80d593d0800000000000000
+      internalID: -3200422667672013539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_199
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 100
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea037767a914cfa0800000000000000
+      internalID: -5781467814851048727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_200
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 95
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74773f736f714ef20800000000000000
+      internalID: 3450909560740738887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_201
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 99
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d318ec4e77599b80800000000000000
+      internalID: -8387576631033064489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76540ac8427a09e0800000000000000
+      internalID: -1654384256152742276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_203
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674d1a026998e160800000000000000
+      internalID: 7055057462631417704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 105
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3975e4342e91ca0800000000000000
+      internalID: -6045552246063131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e683a4983a5b7e1b0800000000000000
+      internalID: -5627329495388506002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_206
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 60
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278fd8bf4690ac10800000000000000
+      internalID: 2062813898483926818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_207
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 60
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e188f464110df490800000000000000
+      internalID: -7711005799883439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_208
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 87
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022b27dd0b486a70800000000000000
+      internalID: 8820382393021702665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_209
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 88
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc44c4777895f90800000000000000
+      internalID: -6964386402301326576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_210
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 54
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f7cb004a5fb080800000000000000
+      internalID: -9169511085180979656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_211
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 54
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a03d4c70b6f16e0800000000000000
+      internalID: -1864654039596987776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_212
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 101
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c0ac6636511a40800000000000000
+      internalID: 5337141825161446510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_213
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 52
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ff4641c0c18ad0800000000000000
+      internalID: -2701666365104721660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_214
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 76
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72c85cc103e29c0800000000000000
+      internalID: -3950166923025832005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_215
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 70
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314282187b53d5c70800000000000000
+      internalID: 8961377895799333907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_216
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ab9ad77465e9100800000000000000
+      internalID: 116625505409153680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_217
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 38
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd94946193c65e20800000000000000
+      internalID: 3339071202966937080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_218
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 69
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38d24f12823bf40800000000000000
+      internalID: 5742978076123169741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_219
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 96
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a6ed5634fa42b0800000000000000
+      internalID: -5599394672340981373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_220
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42947d304944df60800000000000000
+      internalID: 8058146173530444364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_221
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 36
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83027f6fc54d64da0800000000000000
+      internalID: -5960843561032802248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_222
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 36
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2076d79ad296a050800000000000000
+      internalID: 5811493836716142635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_223
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 35
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d64ba6947d74140800000000000000
+      internalID: 4703965046134566208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_224
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 35
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e16ab1cac09c2d60800000000000000
+      internalID: 7866821849617424866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa26d7d4ad8fe60800000000000000
+      internalID: 7996381164747270670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_226
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 31
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34aa2fec77cfeb70800000000000000
+      internalID: 8930575925501404219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_227
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ff111ad8000440800000000000000
+      internalID: 4899926127262298352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_228
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 56
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b1d829aa44a4de0800000000000000
+      internalID: -1348189639050192097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_229
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 56
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c2801284d4e240800000000000000
+      internalID: 4820211156281115094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_230
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 52
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aecac4205ddb8100800000000000000
+      internalID: 111425952085102240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_231
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 50
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417059f0d2951360800000000000000
+      internalID: 7139774210499440969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_232
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 50
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581a42b7e5cd23b10800000000000000
+      internalID: 1959871086210621829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_233
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 32
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb364ee643f04030800000000000000
+      internalID: 3477046398300863472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 73
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b11863401f46e0800000000000000
+      internalID: -1851243040131139861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_235
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 75
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a2aa0df12b37ea0800000000000000
+      internalID: -5876157239073822140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_236
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 29
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397e5ee610201cf0800000000000000
+      internalID: -283691493663803086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af2bda3a482efd40800000000000000
+      internalID: 5619973684285091747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_238
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e81f6822d511a20800000000000000
+      internalID: 3031306427071303208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_239
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 29
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02c165173017a30800000000000000
+      internalID: 4211150911878996185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_240
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 33
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dab8e6b8065d250800000000000000
+      internalID: 5968783033120828813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_241
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 20
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d3ffe826fccf20800000000000000
+      internalID: 3444398470716445522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_242
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb18072cb7c8887d0800000000000000
+      internalID: -2915926295551376964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_243
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 25
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2fdcebe50f4780800000000000000
+      internalID: -8696725844579635602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_244
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 38
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2babbbb1b6213dd20800000000000000
+      internalID: 3302003203028794034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_245
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6721611ede3ab0800000000000000
+      internalID: -5026335967873110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_246
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 16
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d1743a6333ed00800000000000000
+      internalID: 1000700073445806692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_247
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 52
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09417636c29a0c290800000000000000
+      internalID: -7872106140532271984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_248
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 52
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e8408f72502e40800000000000000
+      internalID: 5629590241779704402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_249
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 29
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18856a3ad202b690800000000000000
+      internalID: -7587999285860005862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_250
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8bd963f2e5a480800000000000000
+      internalID: -8888448754464879547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_251
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c18ccf43805f8010800000000000000
+      internalID: 1193260951186211271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_252
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 13
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952741688272e6f0800000000000000
+      internalID: -656836665569499760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70d533258961ce0800000000000000
+      internalID: -1434791952454449186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_254
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b46a79ead40d1d0800000000000000
+      internalID: -3328074712362890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_255
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f80ac6efee048cc0800000000000000
+      internalID: -3709823769514473232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_256
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6e1002d82af890800000000000000
+      internalID: -7423576153356603447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_257
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850c1bff66d8b5190800000000000000
+      internalID: -7972623241813311400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_258
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7290fd813b0c018f0800000000000000
+      internalID: -571745277227103961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_259
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ecee16ca1374bb0800000000000000
+      internalID: -4951934648823394771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_260
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71250a93f66859ca0800000000000000
+      internalID: -6010750315389758953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_261
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece2dfcb55c37f290800000000000000
+      internalID: -7856744685983945010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_262
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 4
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55c6312c337b010800000000000000
+      internalID: 1204488333987435952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_263
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf0980045c2fe0f0800000000000000
+      internalID: -1085600245875142712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_264
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 10
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfa5a51f1b13ec0800000000000000
+      internalID: -3588891777876427415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_265
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ee965ab289e590800000000000000
+      internalID: -7644435155655923287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_266
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14ceed3111982e00800000000000000
+      internalID: 1020224818838946845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_267
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37c5d8aec758edc0800000000000000
+      internalID: -3609538556229990596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_268
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533e3f245487f570800000000000000
+      internalID: 8500408318789825367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_269
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc66f7041d7a57e10800000000000000
+      internalID: 2194844910585079501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_270
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 10
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6def2745ef2f68430800000000000000
+      internalID: 3784979711003918038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_271
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 10
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422ad6a54d79aa0e0800000000000000
+      internalID: -2257825324866887132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparky_272
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29d245affcd61690800000000000000
+      internalID: -7631669527985333973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sparky_0: 2186602288099788976
+      Sparky_1: -6332279328438797743
+      Sparky_10: -6120526755652291407
+      Sparky_100: 6487905807354236936
+      Sparky_101: 4426300484917648063
+      Sparky_102: 1123593332909228449
+      Sparky_103: 5491059020766908920
+      Sparky_104: 8490919233493855409
+      Sparky_105: -2415548882333001692
+      Sparky_106: -7125919260348121647
+      Sparky_107: 233012207408891072
+      Sparky_108: -7765129666125156530
+      Sparky_109: -8706949362034054800
+      Sparky_11: 8060666980060101507
+      Sparky_110: -6409532871288470559
+      Sparky_111: 8544151751861734901
+      Sparky_112: 3057987254991237039
+      Sparky_113: 8270503733996649791
+      Sparky_114: -5968086914165916314
+      Sparky_115: 4875490183929420366
+      Sparky_116: 4011346166845715709
+      Sparky_117: -224153828638771494
+      Sparky_118: 8037401001673345811
+      Sparky_119: -5078600917255604953
+      Sparky_12: 8156730502101421659
+      Sparky_120: 5887724345526722199
+      Sparky_121: -7333204143303458562
+      Sparky_122: 8686351063036241173
+      Sparky_123: 4004256508865941781
+      Sparky_124: 102660953273260381
+      Sparky_125: 4608328592207662587
+      Sparky_126: -1046426611673883650
+      Sparky_127: 683560730215273545
+      Sparky_128: -9192294692305493396
+      Sparky_129: -2994889108306851661
+      Sparky_13: -5884483555139801966
+      Sparky_130: -8299571950623149369
+      Sparky_131: -7022778750943263243
+      Sparky_132: 187440948945935390
+      Sparky_133: -7816277387481656506
+      Sparky_134: 8242536640047067010
+      Sparky_135: 8060406319302489906
+      Sparky_136: 6296291636323352384
+      Sparky_137: 3803153201053453570
+      Sparky_138: 7335444730242686391
+      Sparky_139: 2198131503141572020
+      Sparky_14: -5754407497173196975
+      Sparky_140: 3870607037928836927
+      Sparky_141: 4325504846502609392
+      Sparky_142: -3592392060101655273
+      Sparky_143: 2769273919717840999
+      Sparky_144: -5296148764637344826
+      Sparky_145: -7136612099622163723
+      Sparky_146: -8331124398832783159
+      Sparky_147: 6570694689512909870
+      Sparky_148: 2378943107375269978
+      Sparky_149: 3268878566887510257
+      Sparky_15: -3001334535558414825
+      Sparky_150: -2094327192806298365
+      Sparky_151: -8433697966172482284
+      Sparky_152: 3558849783065591658
+      Sparky_153: 9117024236442041879
+      Sparky_154: 3723428376324867705
+      Sparky_155: 3038376049962560043
+      Sparky_156: -2387531901872247024
+      Sparky_157: -6591910762979972631
+      Sparky_158: 7269608079171490879
+      Sparky_159: -5584073509575135216
+      Sparky_16: -3787917634231141862
+      Sparky_160: 4539630681896844761
+      Sparky_161: -2945005101434830555
+      Sparky_162: 7469238714937206909
+      Sparky_163: -3016321612222124200
+      Sparky_164: 3197140299221767468
+      Sparky_165: 5450677907225798699
+      Sparky_166: 7622029516640271603
+      Sparky_167: -8588228649959574161
+      Sparky_168: 5689485639760304331
+      Sparky_169: 8918574282693995535
+      Sparky_17: -5934945682474460731
+      Sparky_170: -4321962035111368400
+      Sparky_171: 4372707765041685691
+      Sparky_172: -5346253148592330910
+      Sparky_173: 5455537914437838370
+      Sparky_174: -90280102668044736
+      Sparky_175: -4810131929155316207
+      Sparky_176: -5877943285160602369
+      Sparky_177: -5633481398906804663
+      Sparky_178: -4976279938731044252
+      Sparky_179: -7117497412823427326
+      Sparky_18: -8942500277358613807
+      Sparky_180: 3063273829920756732
+      Sparky_181: -3754737119994823811
+      Sparky_182: 9063912570881360964
+      Sparky_183: 64839918716169669
+      Sparky_184: 6327482801547633898
+      Sparky_185: -1032637824515636053
+      Sparky_186: -7038841863817160830
+      Sparky_187: 4537736036320290781
+      Sparky_188: -7574446152449811680
+      Sparky_189: 6150680096794708997
+      Sparky_19: -9145541999700455916
+      Sparky_190: -1664413366556475281
+      Sparky_191: 1457415818988094306
+      Sparky_192: 6332218104483155476
+      Sparky_193: 1001812088496974934
+      Sparky_194: 687484384692716176
+      Sparky_195: 6302481406144511681
+      Sparky_196: 4781045374367347782
+      Sparky_197: -4103909095081917430
+      Sparky_198: -3200422667672013539
+      Sparky_199: -5781467814851048727
+      Sparky_2: -759746894529197314
+      Sparky_20: 3141053374629930091
+      Sparky_200: 3450909560740738887
+      Sparky_201: -8387576631033064489
+      Sparky_202: -1654384256152742276
+      Sparky_203: 7055057462631417704
+      Sparky_204: -6045552246063131719
+      Sparky_205: -5627329495388506002
+      Sparky_206: 2062813898483926818
+      Sparky_207: -7711005799883439646
+      Sparky_208: 8820382393021702665
+      Sparky_209: -6964386402301326576
+      Sparky_21: 6443331852047294857
+      Sparky_210: -9169511085180979656
+      Sparky_211: -1864654039596987776
+      Sparky_212: 5337141825161446510
+      Sparky_213: -2701666365104721660
+      Sparky_214: -3950166923025832005
+      Sparky_215: 8961377895799333907
+      Sparky_216: 116625505409153680
+      Sparky_217: 3339071202966937080
+      Sparky_218: 5742978076123169741
+      Sparky_219: -5599394672340981373
+      Sparky_22: -7596981614795374457
+      Sparky_220: 8058146173530444364
+      Sparky_221: -5960843561032802248
+      Sparky_222: 5811493836716142635
+      Sparky_223: 4703965046134566208
+      Sparky_224: 7866821849617424866
+      Sparky_225: 7996381164747270670
+      Sparky_226: 8930575925501404219
+      Sparky_227: 4899926127262298352
+      Sparky_228: -1348189639050192097
+      Sparky_229: 4820211156281115094
+      Sparky_23: 8910727504360008649
+      Sparky_230: 111425952085102240
+      Sparky_231: 7139774210499440969
+      Sparky_232: 1959871086210621829
+      Sparky_233: 3477046398300863472
+      Sparky_234: -1851243040131139861
+      Sparky_235: -5876157239073822140
+      Sparky_236: -283691493663803086
+      Sparky_237: 5619973684285091747
+      Sparky_238: 3031306427071303208
+      Sparky_239: 4211150911878996185
+      Sparky_24: 8008661699028103356
+      Sparky_240: 5968783033120828813
+      Sparky_241: 3444398470716445522
+      Sparky_242: -2915926295551376964
+      Sparky_243: -8696725844579635602
+      Sparky_244: 3302003203028794034
+      Sparky_245: -5026335967873110729
+      Sparky_246: 1000700073445806692
+      Sparky_247: -7872106140532271984
+      Sparky_248: 5629590241779704402
+      Sparky_249: -7587999285860005862
+      Sparky_25: 5389890109582445712
+      Sparky_250: -8888448754464879547
+      Sparky_251: 1193260951186211271
+      Sparky_252: -656836665569499760
+      Sparky_253: -1434791952454449186
+      Sparky_254: -3328074712362890448
+      Sparky_255: -3709823769514473232
+      Sparky_256: -7423576153356603447
+      Sparky_257: -7972623241813311400
+      Sparky_258: -571745277227103961
+      Sparky_259: -4951934648823394771
+      Sparky_26: 7541406920058474053
+      Sparky_260: -6010750315389758953
+      Sparky_261: -7856744685983945010
+      Sparky_262: 1204488333987435952
+      Sparky_263: -1085600245875142712
+      Sparky_264: -3588891777876427415
+      Sparky_265: -7644435155655923287
+      Sparky_266: 1020224818838946845
+      Sparky_267: -3609538556229990596
+      Sparky_268: 8500408318789825367
+      Sparky_269: 2194844910585079501
+      Sparky_27: -8846851099155987441
+      Sparky_270: 3784979711003918038
+      Sparky_271: -2257825324866887132
+      Sparky_272: -7631669527985333973
+      Sparky_28: -7995250458836038604
+      Sparky_29: -5033944992327482962
+      Sparky_3: -1188524326393913084
+      Sparky_30: 3627206860853557110
+      Sparky_31: 4708122167388769637
+      Sparky_32: -2271918768938828623
+      Sparky_33: -8672882621775335865
+      Sparky_34: 806892180057875779
+      Sparky_35: 8430310358050448542
+      Sparky_36: -144948523189244406
+      Sparky_37: -3449880965569709917
+      Sparky_38: -691528403037716800
+      Sparky_39: 1773129555582612057
+      Sparky_4: -5413129721885712369
+      Sparky_40: 4482510391566075749
+      Sparky_41: -6913267147318521914
+      Sparky_42: 7826421760661714695
+      Sparky_43: 6346452000522074019
+      Sparky_44: -165330828306131086
+      Sparky_45: 9161357370238860365
+      Sparky_46: -7580983364409013380
+      Sparky_47: -4548328344540211434
+      Sparky_48: 7263662201915718888
+      Sparky_49: -2432049288648091709
+      Sparky_5: -7147350226403751897
+      Sparky_50: 4574505913357400546
+      Sparky_51: 4244511350739998188
+      Sparky_52: -4651472632119849033
+      Sparky_53: -6954743047760052408
+      Sparky_54: 7737899088158315917
+      Sparky_55: 4199085657955369756
+      Sparky_56: -6856768603973413672
+      Sparky_57: -2610608080374979534
+      Sparky_58: -3026518748022569023
+      Sparky_59: -110682352375519218
+      Sparky_6: -6505872375558811361
+      Sparky_60: -4991337473185337515
+      Sparky_61: 6539409054277382067
+      Sparky_62: 7903795545328401530
+      Sparky_63: -1918101105781430437
+      Sparky_64: 1877142110582796232
+      Sparky_65: 6677257428304060349
+      Sparky_66: 4113163663922288623
+      Sparky_67: -3970256837750777704
+      Sparky_68: -6664251696071418541
+      Sparky_69: -7564878918809062366
+      Sparky_7: -5324053705525830843
+      Sparky_70: 7064270408078599511
+      Sparky_71: -1157324672569124510
+      Sparky_72: -7378696716993503522
+      Sparky_73: -3124242366876701411
+      Sparky_74: -2880642415172130099
+      Sparky_75: -7032261721119984137
+      Sparky_76: 2721169667328332335
+      Sparky_77: -5482732897270058811
+      Sparky_78: 3198859330837479689
+      Sparky_79: -675838955112673447
+      Sparky_8: -3498323705760346214
+      Sparky_80: 8190574931997376400
+      Sparky_81: 2469533709568781564
+      Sparky_82: -1997441919317972747
+      Sparky_83: 7794305787524037797
+      Sparky_84: -5166622194826465838
+      Sparky_85: 7770011589258433793
+      Sparky_86: 441347507081048531
+      Sparky_87: 8766329928525329090
+      Sparky_88: 3039690504238901219
+      Sparky_89: -4342320675689184112
+      Sparky_9: 5768657865564630449
+      Sparky_90: -84722095962116826
+      Sparky_91: -7837809205228961617
+      Sparky_92: 3878446583831456385
+      Sparky_93: 7387044510929030160
+      Sparky_94: -472393992528345018
+      Sparky_95: -1866784094571611767
+      Sparky_96: 8965853024693433016
+      Sparky_97: 8355754118024042085
+      Sparky_98: 673840113486025438
+      Sparky_99: -4388137682800810668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

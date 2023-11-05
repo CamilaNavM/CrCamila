@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 8bf2d145ff3eb6e4b8c1e00f6a904560
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2580942813197553433
+    second: Icone de Missao_0
+  - first:
+      213: -2857012210007367433
+    second: Icone de Missao_1
+  - first:
+      213: 3828806271823351996
+    second: Icone de Missao_2
+  - first:
+      213: -1767125976562549687
+    second: Icone de Missao_3
+  - first:
+      213: -349668006803817168
+    second: Icone de Missao_4
+  - first:
+      213: -1806825104287693485
+    second: Icone de Missao_5
+  - first:
+      213: 5694675223343081079
+    second: Icone de Missao_6
+  - first:
+      213: -748987686379973472
+    second: Icone de Missao_7
+  - first:
+      213: 7224204899634866537
+    second: Icone de Missao_8
+  - first:
+      213: -8622914490412316491
+    second: Icone de Missao_9
+  - first:
+      213: 8783272664111654450
+    second: Icone de Missao_10
+  - first:
+      213: -609650804770106594
+    second: Icone de Missao_11
+  - first:
+      213: 4149703862367044763
+    second: Icone de Missao_12
+  - first:
+      213: -8014756397077048624
+    second: Icone de Missao_13
+  - first:
+      213: -5953815397035685592
+    second: Icone de Missao_14
+  - first:
+      213: -1777049081798830067
+    second: Icone de Missao_15
+  - first:
+      213: -7771133484507618040
+    second: Icone de Missao_16
+  - first:
+      213: 2064458926821342977
+    second: Icone de Missao_17
+  - first:
+      213: -6319144042079825111
+    second: Icone de Missao_18
+  - first:
+      213: 8891962539715536038
+    second: Icone de Missao_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icone de Missao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 530
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fcc3e60d951d320800000000000000
+      internalID: 2580942813197553433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 528
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ae87388ad958d0800000000000000
+      internalID: -2857012210007367433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 550
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb091d1b407a22530800000000000000
+      internalID: 3828806271823351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 492
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cbf957948e977e0800000000000000
+      internalID: -1767125976562549687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03db329eccab52bf0800000000000000
+      internalID: -349668006803817168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558caff32edce6e0800000000000000
+      internalID: -1806825104287693485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7762596a1fc870f40800000000000000
+      internalID: 5694675223343081079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 412
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a41e24eaaf0b95f0800000000000000
+      internalID: -748987686379973472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 368
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696f5ba418814460800000000000000
+      internalID: 7224204899634866537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 379
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c76605f0455880800000000000000
+      internalID: -8622914490412316491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23626c5c3f374e970800000000000000
+      internalID: 8783272664111654450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 331
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1395a8b2d51a87f0800000000000000
+      internalID: -609650804770106594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 321
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94447f3da5b69930800000000000000
+      internalID: 4149703862367044763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2dee6558dd5c090800000000000000
+      internalID: -8014756397077048624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 271
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cf69e07ccf5da0800000000000000
+      internalID: -5953815397035685592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0852fa7647a657e0800000000000000
+      internalID: -1777049081798830067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a7c1e443672490800000000000000
+      internalID: -7771133484507618040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 130
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff19ab47e66ac10800000000000000
+      internalID: 2064458926821342977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9235e4759f3ed48a0800000000000000
+      internalID: -6319144042079825111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icone de Missao_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a423d771d8966b70800000000000000
+      internalID: 8891962539715536038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icone de Missao_0: 2580942813197553433
+      Icone de Missao_1: -2857012210007367433
+      Icone de Missao_10: 8783272664111654450
+      Icone de Missao_11: -609650804770106594
+      Icone de Missao_12: 4149703862367044763
+      Icone de Missao_13: -8014756397077048624
+      Icone de Missao_14: -5953815397035685592
+      Icone de Missao_15: -1777049081798830067
+      Icone de Missao_16: -7771133484507618040
+      Icone de Missao_17: 2064458926821342977
+      Icone de Missao_18: -6319144042079825111
+      Icone de Missao_19: 8891962539715536038
+      Icone de Missao_2: 3828806271823351996
+      Icone de Missao_3: -1767125976562549687
+      Icone de Missao_4: -349668006803817168
+      Icone de Missao_5: -1806825104287693485
+      Icone de Missao_6: 5694675223343081079
+      Icone de Missao_7: -748987686379973472
+      Icone de Missao_8: 7224204899634866537
+      Icone de Missao_9: -8622914490412316491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

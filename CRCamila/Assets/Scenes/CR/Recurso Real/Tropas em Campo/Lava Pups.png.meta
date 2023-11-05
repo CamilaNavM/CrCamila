@@ -1,0 +1,4187 @@
+fileFormatVersion: 2
+guid: 81d67f85448a0b34fb11719c70aa40df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8436647630536842792
+    second: Lava Pups_0
+  - first:
+      213: -7476922025293000026
+    second: Lava Pups_1
+  - first:
+      213: -6706397460987930809
+    second: Lava Pups_2
+  - first:
+      213: -4564040428633749680
+    second: Lava Pups_3
+  - first:
+      213: -8473415551993664514
+    second: Lava Pups_4
+  - first:
+      213: -4414058610501957428
+    second: Lava Pups_5
+  - first:
+      213: 3460986202831227537
+    second: Lava Pups_6
+  - first:
+      213: 7840775124134315009
+    second: Lava Pups_7
+  - first:
+      213: -9127985956701753656
+    second: Lava Pups_8
+  - first:
+      213: -839194432032065522
+    second: Lava Pups_9
+  - first:
+      213: 3915225058691429732
+    second: Lava Pups_10
+  - first:
+      213: -9020794927211742550
+    second: Lava Pups_11
+  - first:
+      213: -3258240077839084957
+    second: Lava Pups_12
+  - first:
+      213: 2302864131710665224
+    second: Lava Pups_13
+  - first:
+      213: 4178228570921342123
+    second: Lava Pups_14
+  - first:
+      213: -547533600411781905
+    second: Lava Pups_15
+  - first:
+      213: 7377077841262743018
+    second: Lava Pups_16
+  - first:
+      213: -6455571037641431520
+    second: Lava Pups_17
+  - first:
+      213: -3830169057513966098
+    second: Lava Pups_18
+  - first:
+      213: 8139236658096146721
+    second: Lava Pups_19
+  - first:
+      213: -346821046889850984
+    second: Lava Pups_20
+  - first:
+      213: -1204481624066582787
+    second: Lava Pups_21
+  - first:
+      213: -6489101103808163535
+    second: Lava Pups_22
+  - first:
+      213: 1509603703105715270
+    second: Lava Pups_23
+  - first:
+      213: 8612968679298816432
+    second: Lava Pups_24
+  - first:
+      213: -5576598274119687555
+    second: Lava Pups_25
+  - first:
+      213: 293067060161017392
+    second: Lava Pups_26
+  - first:
+      213: 1496103103478065611
+    second: Lava Pups_27
+  - first:
+      213: -2089869831491030211
+    second: Lava Pups_28
+  - first:
+      213: -5095814805767920183
+    second: Lava Pups_29
+  - first:
+      213: -3530426677264929351
+    second: Lava Pups_30
+  - first:
+      213: -6281193536589877655
+    second: Lava Pups_31
+  - first:
+      213: 4445549605306697893
+    second: Lava Pups_32
+  - first:
+      213: 4748222596676142050
+    second: Lava Pups_33
+  - first:
+      213: 5340792475331097298
+    second: Lava Pups_34
+  - first:
+      213: -4228974824116164580
+    second: Lava Pups_35
+  - first:
+      213: -2382885489998361933
+    second: Lava Pups_36
+  - first:
+      213: -7294944669906719511
+    second: Lava Pups_37
+  - first:
+      213: -6414085120775224328
+    second: Lava Pups_38
+  - first:
+      213: 5810536541660260048
+    second: Lava Pups_39
+  - first:
+      213: -2531456346929294244
+    second: Lava Pups_40
+  - first:
+      213: 3352125452089419650
+    second: Lava Pups_41
+  - first:
+      213: -2735481035719643460
+    second: Lava Pups_42
+  - first:
+      213: 3039725441234009043
+    second: Lava Pups_43
+  - first:
+      213: -8422953293365568099
+    second: Lava Pups_44
+  - first:
+      213: -2216745186638215517
+    second: Lava Pups_45
+  - first:
+      213: 1467438985468334173
+    second: Lava Pups_46
+  - first:
+      213: 3552847230189129503
+    second: Lava Pups_47
+  - first:
+      213: -412095105215889512
+    second: Lava Pups_48
+  - first:
+      213: -968855924839834545
+    second: Lava Pups_49
+  - first:
+      213: 3413756000638980397
+    second: Lava Pups_50
+  - first:
+      213: 2861844524063107624
+    second: Lava Pups_51
+  - first:
+      213: -8162370066295649385
+    second: Lava Pups_52
+  - first:
+      213: -8841892293820520006
+    second: Lava Pups_53
+  - first:
+      213: 8972519360165174937
+    second: Lava Pups_54
+  - first:
+      213: 2082828082372099755
+    second: Lava Pups_55
+  - first:
+      213: -2582185949854127744
+    second: Lava Pups_56
+  - first:
+      213: -4533066070313761183
+    second: Lava Pups_57
+  - first:
+      213: 7440930001781984311
+    second: Lava Pups_58
+  - first:
+      213: -993390654532830998
+    second: Lava Pups_59
+  - first:
+      213: 7473908165093657049
+    second: Lava Pups_60
+  - first:
+      213: 6444347939808079617
+    second: Lava Pups_61
+  - first:
+      213: -6005629500268067995
+    second: Lava Pups_62
+  - first:
+      213: 1690274937562963379
+    second: Lava Pups_63
+  - first:
+      213: 2584745130151389287
+    second: Lava Pups_64
+  - first:
+      213: -6376847359014315946
+    second: Lava Pups_65
+  - first:
+      213: 8201671333974494403
+    second: Lava Pups_66
+  - first:
+      213: -4146476219852929264
+    second: Lava Pups_67
+  - first:
+      213: -3698064353580306572
+    second: Lava Pups_68
+  - first:
+      213: -5452467159665858072
+    second: Lava Pups_69
+  - first:
+      213: -7577343062391947766
+    second: Lava Pups_70
+  - first:
+      213: 5773668300030862341
+    second: Lava Pups_71
+  - first:
+      213: -7540554737426720672
+    second: Lava Pups_72
+  - first:
+      213: -3566708647523459447
+    second: Lava Pups_73
+  - first:
+      213: 2103388523269941967
+    second: Lava Pups_74
+  - first:
+      213: 8730534237793070800
+    second: Lava Pups_75
+  - first:
+      213: 8296067500602088570
+    second: Lava Pups_76
+  - first:
+      213: -3811370995150081048
+    second: Lava Pups_77
+  - first:
+      213: 8934711306823607426
+    second: Lava Pups_78
+  - first:
+      213: 8328598907961951327
+    second: Lava Pups_79
+  - first:
+      213: -5610801508119908422
+    second: Lava Pups_80
+  - first:
+      213: 1272810042407850353
+    second: Lava Pups_81
+  - first:
+      213: -4653033032351916698
+    second: Lava Pups_82
+  - first:
+      213: -6193595438059806944
+    second: Lava Pups_83
+  - first:
+      213: -6018658531936599063
+    second: Lava Pups_84
+  - first:
+      213: 7315055850279985724
+    second: Lava Pups_85
+  - first:
+      213: -1653827149707069743
+    second: Lava Pups_86
+  - first:
+      213: -1655614459929743622
+    second: Lava Pups_87
+  - first:
+      213: 478158764414203903
+    second: Lava Pups_88
+  - first:
+      213: 6358780306310136102
+    second: Lava Pups_89
+  - first:
+      213: -8311395939189288894
+    second: Lava Pups_90
+  - first:
+      213: -4979100158714207012
+    second: Lava Pups_91
+  - first:
+      213: -3768110380021100407
+    second: Lava Pups_92
+  - first:
+      213: 8521710591080153650
+    second: Lava Pups_93
+  - first:
+      213: 4419290178676584758
+    second: Lava Pups_94
+  - first:
+      213: -2095654356541823010
+    second: Lava Pups_95
+  - first:
+      213: 2472563443630573295
+    second: Lava Pups_96
+  - first:
+      213: 8664858447784342791
+    second: Lava Pups_97
+  - first:
+      213: 2350189800329117425
+    second: Lava Pups_98
+  - first:
+      213: 5887439032892949606
+    second: Lava Pups_99
+  - first:
+      213: -8523081958457160907
+    second: Lava Pups_100
+  - first:
+      213: 5938887164799094756
+    second: Lava Pups_101
+  - first:
+      213: 6191972578127848073
+    second: Lava Pups_102
+  - first:
+      213: 3275642821257554551
+    second: Lava Pups_103
+  - first:
+      213: 5033796247856387787
+    second: Lava Pups_104
+  - first:
+      213: 8403209665154205101
+    second: Lava Pups_105
+  - first:
+      213: -7343835342859372494
+    second: Lava Pups_106
+  - first:
+      213: -977931600268441394
+    second: Lava Pups_107
+  - first:
+      213: 6629184373755447044
+    second: Lava Pups_108
+  - first:
+      213: -6762110755362965092
+    second: Lava Pups_109
+  - first:
+      213: 943352233795467021
+    second: Lava Pups_110
+  - first:
+      213: -1160261940445430919
+    second: Lava Pups_111
+  - first:
+      213: -8299859258693060060
+    second: Lava Pups_112
+  - first:
+      213: 3250285546442750257
+    second: Lava Pups_113
+  - first:
+      213: 1950319170485607988
+    second: Lava Pups_114
+  - first:
+      213: -3915801617866051868
+    second: Lava Pups_115
+  - first:
+      213: 4287991501739236338
+    second: Lava Pups_116
+  - first:
+      213: 888101145325167582
+    second: Lava Pups_117
+  - first:
+      213: 8912596911665987080
+    second: Lava Pups_118
+  - first:
+      213: -1318330986510842892
+    second: Lava Pups_119
+  - first:
+      213: -4355713272298974479
+    second: Lava Pups_120
+  - first:
+      213: 264354210828369199
+    second: Lava Pups_121
+  - first:
+      213: -492008156180468712
+    second: Lava Pups_122
+  - first:
+      213: 1948203180361719179
+    second: Lava Pups_123
+  - first:
+      213: -1042939495406040432
+    second: Lava Pups_124
+  - first:
+      213: -3932049567900361414
+    second: Lava Pups_125
+  - first:
+      213: -5875666489433472705
+    second: Lava Pups_126
+  - first:
+      213: -9220429604810882822
+    second: Lava Pups_127
+  - first:
+      213: 3026426427532010090
+    second: Lava Pups_128
+  - first:
+      213: -6888778300304730426
+    second: Lava Pups_129
+  - first:
+      213: 7883423691962862983
+    second: Lava Pups_130
+  - first:
+      213: 2922747865611085101
+    second: Lava Pups_131
+  - first:
+      213: 8682990799033814591
+    second: Lava Pups_132
+  - first:
+      213: -7724084391634987323
+    second: Lava Pups_133
+  - first:
+      213: 2653772423236587749
+    second: Lava Pups_134
+  - first:
+      213: -429209088686926854
+    second: Lava Pups_135
+  - first:
+      213: -8757394343451446530
+    second: Lava Pups_136
+  - first:
+      213: -4888981672659201962
+    second: Lava Pups_137
+  - first:
+      213: -7354520645679131561
+    second: Lava Pups_138
+  - first:
+      213: -8000362713707409242
+    second: Lava Pups_139
+  - first:
+      213: 9030008325906684089
+    second: Lava Pups_140
+  - first:
+      213: 356767210458822711
+    second: Lava Pups_141
+  - first:
+      213: -8861122368775850957
+    second: Lava Pups_142
+  - first:
+      213: -8719769384595662108
+    second: Lava Pups_143
+  - first:
+      213: 476045197461648179
+    second: Lava Pups_144
+  - first:
+      213: 5332338644062997345
+    second: Lava Pups_145
+  - first:
+      213: 4135444214078963855
+    second: Lava Pups_146
+  - first:
+      213: 1619225939536337261
+    second: Lava Pups_147
+  - first:
+      213: 4757482814996669767
+    second: Lava Pups_148
+  - first:
+      213: 3337078561839905657
+    second: Lava Pups_149
+  - first:
+      213: 6813069778156667657
+    second: Lava Pups_150
+  - first:
+      213: 6848182320545301387
+    second: Lava Pups_151
+  - first:
+      213: -1417685498495301441
+    second: Lava Pups_152
+  - first:
+      213: -1459009434942665353
+    second: Lava Pups_153
+  - first:
+      213: 8631973816991420035
+    second: Lava Pups_154
+  - first:
+      213: 246067616019941127
+    second: Lava Pups_155
+  - first:
+      213: -1630683898924147511
+    second: Lava Pups_156
+  - first:
+      213: -1485958118157123797
+    second: Lava Pups_157
+  - first:
+      213: 234885903898043864
+    second: Lava Pups_158
+  - first:
+      213: -4916287869456759137
+    second: Lava Pups_159
+  - first:
+      213: 1119209467854512259
+    second: Lava Pups_160
+  - first:
+      213: 6524980555913391344
+    second: Lava Pups_161
+  - first:
+      213: -5619698923164989427
+    second: Lava Pups_162
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava Pups_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1a49125ef41570800000000000000
+      internalID: 8436647630536842792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 910
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2dd1d4803ac3890800000000000000
+      internalID: -7476922025293000026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 850
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7479b3f8a071ee2a0800000000000000
+      internalID: -6706397460987930809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 908
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05783c6596549a0c0800000000000000
+      internalID: -4564040428633749680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 847
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba5251371686a80800000000000000
+      internalID: -8473415551993664514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 909
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c647941d1eb2c0800000000000000
+      internalID: -4414058610501957428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 845
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a88484d94e70030800000000000000
+      internalID: 3460986202831227537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 909
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ceb5ee6700dc60800000000000000
+      internalID: 7840775124134315009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 906
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cea9007221e25180800000000000000
+      internalID: -9127985956701753656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 902
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083e3d3c159a54f0800000000000000
+      internalID: -839194432032065522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 911
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465b207727ca55630800000000000000
+      internalID: 3915225058691429732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 846
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf5e3dec2bfc280800000000000000
+      internalID: -9020794927211742550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 915
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d57f79e768c2d0800000000000000
+      internalID: -3258240077839084957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 843
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024a980aba65ff10800000000000000
+      internalID: 2302864131710665224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 910
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba497208fbc0cf930800000000000000
+      internalID: 4178228570921342123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 878
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47dd46715c668f0800000000000000
+      internalID: -547533600411781905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 836
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed0fd01635a06660800000000000000
+      internalID: 7377077841262743018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 832
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026251728543966a0800000000000000
+      internalID: -6455571037641431520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 875
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5ff29098188dac0800000000000000
+      internalID: -3830169057513966098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 843
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12988a4fd9064f070800000000000000
+      internalID: 8139236658096146721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 822
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897508b6818df2bf0800000000000000
+      internalID: -346821046889850984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df696033852d84fe0800000000000000
+      internalID: -1204481624066582787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 729
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1315be34de412f5a0800000000000000
+      internalID: -6489101103808163535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 781
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cfa3bd19033f410800000000000000
+      internalID: 1509603703105715270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 775
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9db2f5169678770800000000000000
+      internalID: 8612968679298816432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 774
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722a007a61fb92b0800000000000000
+      internalID: -5576598274119687555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 771
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f34040fe211400800000000000000
+      internalID: 293067060161017392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 717
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96b2e88d933c410800000000000000
+      internalID: 1496103103478065611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 790
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33fb2bf57a4ff2e0800000000000000
+      internalID: -2089869831491030211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 721
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e605de670849b0800000000000000
+      internalID: -5095814805767920183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_30
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 779
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdaf0c54a7610fc0800000000000000
+      internalID: -3530426677264929351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 772
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea416f1c7b4d8a0800000000000000
+      internalID: -6281193536589877655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 765
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80fafffc3c1bd30800000000000000
+      internalID: 4445549605306697893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_33
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 771
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e34d556b4315e140800000000000000
+      internalID: 4748222596676142050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27037a57e4e1a40800000000000000
+      internalID: 5340792475331097298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 646
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186c74bdc9af45c0800000000000000
+      internalID: -4228974824116164580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 711
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba073c954a4eeed0800000000000000
+      internalID: -2382885489998361933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 705
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca416197623ca90800000000000000
+      internalID: -7294944669906719511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 650
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f30311e0979cf6a0800000000000000
+      internalID: -6414085120775224328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 704
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d62618f23c23a050800000000000000
+      internalID: 5810536541660260048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 655
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541fdc5dd57edcd0800000000000000
+      internalID: -2531456346929294244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 661
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e55e9654258e20800000000000000
+      internalID: 3352125452089419650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 648
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeec10cd7e990ad0800000000000000
+      internalID: -2735481035719643460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_43
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 705
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db78730f264f2a20800000000000000
+      internalID: 3039725441234009043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 673
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d1d3d3b98ab1b80800000000000000
+      internalID: -8422953293365568099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_45
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 699
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a64fd06ff98c31e0800000000000000
+      internalID: -2216745186638215517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 643
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5056628bf36d5410800000000000000
+      internalID: 1467438985468334173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 712
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f47a86bbf3e4130800000000000000
+      internalID: 3552847230189129503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_48
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 653
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ffde76fa1f74af0800000000000000
+      internalID: -412095105215889512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 583
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c93696baeed82f0800000000000000
+      internalID: -968855924839834545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d1f7eef8106f20800000000000000
+      internalID: 3413756000638980397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 636
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aad239e6057b720800000000000000
+      internalID: 2861844524063107624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 588
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b8a29bbaf69be80800000000000000
+      internalID: -8162370066295649385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 590
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9609c1ec94b4580800000000000000
+      internalID: -8841892293820520006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 591
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed5f2d1dac48c70800000000000000
+      internalID: 8972519360165174937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_55
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 577
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae3ff90b11b7ec10800000000000000
+      internalID: 2082828082372099755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 608
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a0f24f8b3a2cd0800000000000000
+      internalID: -2582185949854127744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_57
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 617
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166829f1d605711c0800000000000000
+      internalID: -4533066070313761183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 563
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c03c2b96e734760800000000000000
+      internalID: 7440930001781984311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_59
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 593
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b0618674c632f0800000000000000
+      internalID: -993390654532830998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98c40b0e7a8b760800000000000000
+      internalID: 7473908165093657049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 488
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe741ce4cee6950800000000000000
+      internalID: 6444347939808079617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 529
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634ae7e9c7b7aca0800000000000000
+      internalID: -6005629500268067995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 476
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9f2aa910157710800000000000000
+      internalID: 1690274937562963379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 521
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7682895500cded320800000000000000
+      internalID: 2584745130151389287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 519
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658501bec13e087a0800000000000000
+      internalID: -6376847359014315946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 517
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cccd0abf9032d170800000000000000
+      internalID: 8201671333974494403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 546
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017cf06d8d1c476c0800000000000000
+      internalID: -4146476219852929264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 484
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47faf484016ddacc0800000000000000
+      internalID: -3698064353580306572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_69
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 552
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e922a6b102f454b0800000000000000
+      internalID: -5452467159665858072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_70
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 498
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7bd891aed7d690800000000000000
+      internalID: -7577343062391947766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_71
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 489
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e54a8ab0302050800000000000000
+      internalID: 5773668300030862341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_72
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 527
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689a4afa619a5790800000000000000
+      internalID: -7540554737426720672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98edc0fd161808ec0800000000000000
+      internalID: -3566708647523459447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 407
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca632ab7bcb03d10800000000000000
+      internalID: 2103388523269941967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_75
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 451
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deaa0702a6192970800000000000000
+      internalID: 8730534237793070800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 421
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cdc06ff6d812370800000000000000
+      internalID: 8296067500602088570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 458
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e33adef54a4b1bc0800000000000000
+      internalID: -3811370995150081048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 444
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28423ed68987efb70800000000000000
+      internalID: 8934711306823607426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 416
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5447c97490259370800000000000000
+      internalID: 8328598907961951327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_80
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 477
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf694371cd6222b0800000000000000
+      internalID: -5610801508119908422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_81
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 422
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171154c6dfde9a110800000000000000
+      internalID: 1272810042407850353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_82
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 438
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d51822c1b1d6fb0800000000000000
+      internalID: -4653033032351916698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 415
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f17ff93cdeb0aa0800000000000000
+      internalID: -6193595438059806944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_84
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 455
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38b8314fd697ca0800000000000000
+      internalID: -6018658531936599063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e41cf98c448560800000000000000
+      internalID: 7315055850279985724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 332
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d630dd38fc6c09e0800000000000000
+      internalID: -1653827149707069743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 383
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe23e6ab631609e0800000000000000
+      internalID: -1655614459929743622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 350
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f523ecd2c2a600800000000000000
+      internalID: 478158764414203903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 381
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218d529ffcee3850800000000000000
+      internalID: 6358780306310136102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_90
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 375
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409ff0dd6df7ac80800000000000000
+      internalID: -8311395939189288894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 367
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4afba39cea6eab0800000000000000
+      internalID: -4979100158714207012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_92
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 359
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980516cd29bf4bbc0800000000000000
+      internalID: -3768110380021100407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_93
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 373
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2324404f1a2334670800000000000000
+      internalID: 8521710591080153650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_94
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 347
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631f36bc009745d30800000000000000
+      internalID: 4419290178676584758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_95
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 399
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7235a477dbae2e0800000000000000
+      internalID: -2095654356541823010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_96
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 343
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6873e0a5f405220800000000000000
+      internalID: 2472563443630573295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7057a3199d2cf3870800000000000000
+      internalID: 8664858447784342791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fefc5beb2d8d9020800000000000000
+      internalID: 2350189800329117425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_99
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 317
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6648a508b9264b150800000000000000
+      internalID: 5887439032892949606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 306
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bce92bd1ee7b980800000000000000
+      internalID: -8523081958457160907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_101
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 279
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef0afa296a2b6250800000000000000
+      internalID: 5938887164799094756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_102
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 313
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982254ad04e4ee550800000000000000
+      internalID: 6191972578127848073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_103
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 308
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6d147acb657d20800000000000000
+      internalID: 3275642821257554551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc69c296403abd540800000000000000
+      internalID: 5033796247856387787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_105
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 282
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da545a81ba23e9470800000000000000
+      internalID: 8403209665154205101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_106
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 309
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23878eb3aa4751a90800000000000000
+      internalID: -7343835342859372494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_107
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 285
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ce5f0460bd62f0800000000000000
+      internalID: -977931600268441394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_108
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 306
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078344a0189ffb50800000000000000
+      internalID: 6629184373755447044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_109
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 265
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99fdbe58182822a0800000000000000
+      internalID: -6762110755362965092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073379cbd5771d00800000000000000
+      internalID: 943352233795467021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b385999ebe5efe0800000000000000
+      internalID: -1160261940445430919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_112
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 210
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42afcdf8af9f0dc80800000000000000
+      internalID: -8299859258693060060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_113
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 242
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397e46db755b1d20800000000000000
+      internalID: 3250285546442750257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_114
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 231
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43edd6bc3fce01b10800000000000000
+      internalID: 1950319170485607988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_115
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 242
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea134ec2748a9c0800000000000000
+      internalID: -3915801617866051868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_116
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 214
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9f055d81028b30800000000000000
+      internalID: 4287991501739236338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 188
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed369bb494b235c00800000000000000
+      internalID: 888101145325167582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_118
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 257
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e38129ba7efab70800000000000000
+      internalID: 8912596911665987080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_119
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 204
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f381acd3f854bde0800000000000000
+      internalID: -1318330986510842892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_120
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 254
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f25a2d3bd56d83c0800000000000000
+      internalID: -4355713272298974479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_121
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 204
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbd4f01cc2ba300800000000000000
+      internalID: 264354210828369199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 129
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca44050390c29f0800000000000000
+      internalID: -492008156180468712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 194
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1fb37878690b10800000000000000
+      internalID: 1948203180361719179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a091efd0cb681f0800000000000000
+      internalID: -1042939495406040432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d121a30cd8e69c0800000000000000
+      internalID: -3932049567900361414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_126
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c6ae5570757ea0800000000000000
+      internalID: -5875666489433472705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 163
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af080c850247a0080800000000000000
+      internalID: -9220429604810882822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_128
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 179
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6266e71dc6000a20800000000000000
+      internalID: 3026426427532010090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_129
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 151
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6dae952a42660a0800000000000000
+      internalID: -6888778300304730426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_130
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 131
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4855641c876d60800000000000000
+      internalID: 7883423691962862983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_131
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 130
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a7c9c2bfaf8820800000000000000
+      internalID: 2922747865611085101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_132
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 177
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4564902e208870800000000000000
+      internalID: 8682990799033814591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_133
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 143
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c615757b2a8ec490800000000000000
+      internalID: -7724084391634987323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_134
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e09eb965f714d420800000000000000
+      internalID: 2653772423236587749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3527e9b942b0af0800000000000000
+      internalID: -429209088686926854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2bf884e3c777680800000000000000
+      internalID: -8757394343451446530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_137
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d0c75219d62cb0800000000000000
+      internalID: -4888981672659201962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 69
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754d40d407e7fe990800000000000000
+      internalID: -7354520645679131561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_139
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 64
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a09037ef7009f090800000000000000
+      internalID: -8000362713707409242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_140
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8dc78bab8015d70800000000000000
+      internalID: 9030008325906684089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 95
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b7ee33ed73f400800000000000000
+      internalID: 356767210458822711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_142
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 104
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f8d16728f60580800000000000000
+      internalID: -8861122368775850957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_143
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 81
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea59dba1f72df680800000000000000
+      internalID: -8719769384595662108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_144
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 69
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3337bbbb5904b9600800000000000000
+      internalID: 476045197461648179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_145
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 82
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b867daeb5400a40800000000000000
+      internalID: 5332338644062997345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_146
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 103
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f800f982a9c046930800000000000000
+      internalID: 4135444214078963855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_147
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 75
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695929b965a87610800000000000000
+      internalID: 1619225939536337261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_148
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 65
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e6ecf969f50240800000000000000
+      internalID: 4757482814996669767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_149
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf90a754faf4e20800000000000000
+      internalID: 3337078561839905657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 18
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034af4bdd2ec8e50800000000000000
+      internalID: 6813069778156667657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_151
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83863d8981a90f50800000000000000
+      internalID: 6848182320545301387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_152
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb807f2ec8e535ce0800000000000000
+      internalID: -1417685498495301441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_153
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 20
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8c4a26ae80cbe0800000000000000
+      internalID: -1459009434942665353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_154
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 29
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e0f30d37eeac770800000000000000
+      internalID: 8631973816991420035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707889b61353a6300800000000000000
+      internalID: 246067616019941127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_156
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5da732a5ae59e0800000000000000
+      internalID: -1630683898924147511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_157
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 24
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ff228e6f0d06be0800000000000000
+      internalID: -1485958118157123797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_158
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 49
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5e6903c7b724300800000000000000
+      internalID: 234885903898043864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c777fa36d5cbb0800000000000000
+      internalID: -4916287869456759137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_160
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e8b8c41b388f00800000000000000
+      internalID: 1119209467854512259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_161
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6c89ae336d8a50800000000000000
+      internalID: 6524980555913391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Pups_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080b149a91d202b0800000000000000
+      internalID: -5619698923164989427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lava Pups_0: 8436647630536842792
+      Lava Pups_1: -7476922025293000026
+      Lava Pups_10: 3915225058691429732
+      Lava Pups_100: -8523081958457160907
+      Lava Pups_101: 5938887164799094756
+      Lava Pups_102: 6191972578127848073
+      Lava Pups_103: 3275642821257554551
+      Lava Pups_104: 5033796247856387787
+      Lava Pups_105: 8403209665154205101
+      Lava Pups_106: -7343835342859372494
+      Lava Pups_107: -977931600268441394
+      Lava Pups_108: 6629184373755447044
+      Lava Pups_109: -6762110755362965092
+      Lava Pups_11: -9020794927211742550
+      Lava Pups_110: 943352233795467021
+      Lava Pups_111: -1160261940445430919
+      Lava Pups_112: -8299859258693060060
+      Lava Pups_113: 3250285546442750257
+      Lava Pups_114: 1950319170485607988
+      Lava Pups_115: -3915801617866051868
+      Lava Pups_116: 4287991501739236338
+      Lava Pups_117: 888101145325167582
+      Lava Pups_118: 8912596911665987080
+      Lava Pups_119: -1318330986510842892
+      Lava Pups_12: -3258240077839084957
+      Lava Pups_120: -4355713272298974479
+      Lava Pups_121: 264354210828369199
+      Lava Pups_122: -492008156180468712
+      Lava Pups_123: 1948203180361719179
+      Lava Pups_124: -1042939495406040432
+      Lava Pups_125: -3932049567900361414
+      Lava Pups_126: -5875666489433472705
+      Lava Pups_127: -9220429604810882822
+      Lava Pups_128: 3026426427532010090
+      Lava Pups_129: -6888778300304730426
+      Lava Pups_13: 2302864131710665224
+      Lava Pups_130: 7883423691962862983
+      Lava Pups_131: 2922747865611085101
+      Lava Pups_132: 8682990799033814591
+      Lava Pups_133: -7724084391634987323
+      Lava Pups_134: 2653772423236587749
+      Lava Pups_135: -429209088686926854
+      Lava Pups_136: -8757394343451446530
+      Lava Pups_137: -4888981672659201962
+      Lava Pups_138: -7354520645679131561
+      Lava Pups_139: -8000362713707409242
+      Lava Pups_14: 4178228570921342123
+      Lava Pups_140: 9030008325906684089
+      Lava Pups_141: 356767210458822711
+      Lava Pups_142: -8861122368775850957
+      Lava Pups_143: -8719769384595662108
+      Lava Pups_144: 476045197461648179
+      Lava Pups_145: 5332338644062997345
+      Lava Pups_146: 4135444214078963855
+      Lava Pups_147: 1619225939536337261
+      Lava Pups_148: 4757482814996669767
+      Lava Pups_149: 3337078561839905657
+      Lava Pups_15: -547533600411781905
+      Lava Pups_150: 6813069778156667657
+      Lava Pups_151: 6848182320545301387
+      Lava Pups_152: -1417685498495301441
+      Lava Pups_153: -1459009434942665353
+      Lava Pups_154: 8631973816991420035
+      Lava Pups_155: 246067616019941127
+      Lava Pups_156: -1630683898924147511
+      Lava Pups_157: -1485958118157123797
+      Lava Pups_158: 234885903898043864
+      Lava Pups_159: -4916287869456759137
+      Lava Pups_16: 7377077841262743018
+      Lava Pups_160: 1119209467854512259
+      Lava Pups_161: 6524980555913391344
+      Lava Pups_162: -5619698923164989427
+      Lava Pups_17: -6455571037641431520
+      Lava Pups_18: -3830169057513966098
+      Lava Pups_19: 8139236658096146721
+      Lava Pups_2: -6706397460987930809
+      Lava Pups_20: -346821046889850984
+      Lava Pups_21: -1204481624066582787
+      Lava Pups_22: -6489101103808163535
+      Lava Pups_23: 1509603703105715270
+      Lava Pups_24: 8612968679298816432
+      Lava Pups_25: -5576598274119687555
+      Lava Pups_26: 293067060161017392
+      Lava Pups_27: 1496103103478065611
+      Lava Pups_28: -2089869831491030211
+      Lava Pups_29: -5095814805767920183
+      Lava Pups_3: -4564040428633749680
+      Lava Pups_30: -3530426677264929351
+      Lava Pups_31: -6281193536589877655
+      Lava Pups_32: 4445549605306697893
+      Lava Pups_33: 4748222596676142050
+      Lava Pups_34: 5340792475331097298
+      Lava Pups_35: -4228974824116164580
+      Lava Pups_36: -2382885489998361933
+      Lava Pups_37: -7294944669906719511
+      Lava Pups_38: -6414085120775224328
+      Lava Pups_39: 5810536541660260048
+      Lava Pups_4: -8473415551993664514
+      Lava Pups_40: -2531456346929294244
+      Lava Pups_41: 3352125452089419650
+      Lava Pups_42: -2735481035719643460
+      Lava Pups_43: 3039725441234009043
+      Lava Pups_44: -8422953293365568099
+      Lava Pups_45: -2216745186638215517
+      Lava Pups_46: 1467438985468334173
+      Lava Pups_47: 3552847230189129503
+      Lava Pups_48: -412095105215889512
+      Lava Pups_49: -968855924839834545
+      Lava Pups_5: -4414058610501957428
+      Lava Pups_50: 3413756000638980397
+      Lava Pups_51: 2861844524063107624
+      Lava Pups_52: -8162370066295649385
+      Lava Pups_53: -8841892293820520006
+      Lava Pups_54: 8972519360165174937
+      Lava Pups_55: 2082828082372099755
+      Lava Pups_56: -2582185949854127744
+      Lava Pups_57: -4533066070313761183
+      Lava Pups_58: 7440930001781984311
+      Lava Pups_59: -993390654532830998
+      Lava Pups_6: 3460986202831227537
+      Lava Pups_60: 7473908165093657049
+      Lava Pups_61: 6444347939808079617
+      Lava Pups_62: -6005629500268067995
+      Lava Pups_63: 1690274937562963379
+      Lava Pups_64: 2584745130151389287
+      Lava Pups_65: -6376847359014315946
+      Lava Pups_66: 8201671333974494403
+      Lava Pups_67: -4146476219852929264
+      Lava Pups_68: -3698064353580306572
+      Lava Pups_69: -5452467159665858072
+      Lava Pups_7: 7840775124134315009
+      Lava Pups_70: -7577343062391947766
+      Lava Pups_71: 5773668300030862341
+      Lava Pups_72: -7540554737426720672
+      Lava Pups_73: -3566708647523459447
+      Lava Pups_74: 2103388523269941967
+      Lava Pups_75: 8730534237793070800
+      Lava Pups_76: 8296067500602088570
+      Lava Pups_77: -3811370995150081048
+      Lava Pups_78: 8934711306823607426
+      Lava Pups_79: 8328598907961951327
+      Lava Pups_8: -9127985956701753656
+      Lava Pups_80: -5610801508119908422
+      Lava Pups_81: 1272810042407850353
+      Lava Pups_82: -4653033032351916698
+      Lava Pups_83: -6193595438059806944
+      Lava Pups_84: -6018658531936599063
+      Lava Pups_85: 7315055850279985724
+      Lava Pups_86: -1653827149707069743
+      Lava Pups_87: -1655614459929743622
+      Lava Pups_88: 478158764414203903
+      Lava Pups_89: 6358780306310136102
+      Lava Pups_9: -839194432032065522
+      Lava Pups_90: -8311395939189288894
+      Lava Pups_91: -4979100158714207012
+      Lava Pups_92: -3768110380021100407
+      Lava Pups_93: 8521710591080153650
+      Lava Pups_94: 4419290178676584758
+      Lava Pups_95: -2095654356541823010
+      Lava Pups_96: 2472563443630573295
+      Lava Pups_97: 8664858447784342791
+      Lava Pups_98: 2350189800329117425
+      Lava Pups_99: 5887439032892949606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

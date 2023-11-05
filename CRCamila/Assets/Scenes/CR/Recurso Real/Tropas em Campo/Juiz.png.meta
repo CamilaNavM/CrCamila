@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: fea6521b4bd669d4ba1878d8bde87445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2595225080335114243
+    second: Juiz_0
+  - first:
+      213: -3166885869599154046
+    second: Juiz_1
+  - first:
+      213: -6749565833094053696
+    second: Juiz_2
+  - first:
+      213: 1522299367786410343
+    second: Juiz_3
+  - first:
+      213: -4761930825703665648
+    second: Juiz_4
+  - first:
+      213: -5503730288262336567
+    second: Juiz_5
+  - first:
+      213: 8770204484570628870
+    second: Juiz_6
+  - first:
+      213: 3680496581735587743
+    second: Juiz_7
+  - first:
+      213: 7442790894094393051
+    second: Juiz_8
+  - first:
+      213: 4733426280003022370
+    second: Juiz_9
+  - first:
+      213: 2847559505553286631
+    second: Juiz_10
+  - first:
+      213: 5071091043622470539
+    second: Juiz_11
+  - first:
+      213: -8580021633521313055
+    second: Juiz_12
+  - first:
+      213: -3336605689148376333
+    second: Juiz_13
+  - first:
+      213: -5999702280352660744
+    second: Juiz_14
+  - first:
+      213: -4591206112946130811
+    second: Juiz_15
+  - first:
+      213: -6913946686875448205
+    second: Juiz_16
+  - first:
+      213: 901687969387877647
+    second: Juiz_17
+  - first:
+      213: -7279958233732507328
+    second: Juiz_18
+  - first:
+      213: 6837563689680718475
+    second: Juiz_19
+  - first:
+      213: 1650186810378986799
+    second: Juiz_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Juiz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd07e1a88ebfbd0800000000000000
+      internalID: -2595225080335114243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 294
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a65a9416fc04d0800000000000000
+      internalID: -3166885869599154046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 229
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c052b2a9b452a0800000000000000
+      internalID: -6749565833094053696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761f5b2a53b402510800000000000000
+      internalID: 1522299367786410343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 275
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01053f0d4293aedb0800000000000000
+      internalID: -4761930825703665648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 284
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa09c7672de93b0800000000000000
+      internalID: -5503730288262336567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ce5e138606b970800000000000000
+      internalID: 8770204484570628870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f93671420c31330800000000000000
+      internalID: 3680496581735587743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 205
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde120472ea1a4760800000000000000
+      internalID: 7442790894094393051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 252
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e24167f1280b140800000000000000
+      internalID: 4733426280003022370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56a458840948720800000000000000
+      internalID: 2847559505553286631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 246
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8348c6bf62206640800000000000000
+      internalID: 5071091043622470539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea9bc088c3ade880800000000000000
+      internalID: -8580021633521313055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 131
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa73c6cdcef1b1d0800000000000000
+      internalID: -3336605689148376333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28a755096ccbca0800000000000000
+      internalID: -5999702280352660744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 143
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807e339d52c840c0800000000000000
+      internalID: -4591206112946130811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cccc4be1abc00a0800000000000000
+      internalID: -6913946686875448205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059b994e60738c00800000000000000
+      internalID: 901687969387877647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04991baae8468fa90800000000000000
+      internalID: -7279958233732507328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 59
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4784e2f7e3ee50800000000000000
+      internalID: 6837563689680718475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juiz_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25aca53924a6e610800000000000000
+      internalID: 1650186810378986799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Juiz_0: -2595225080335114243
+      Juiz_1: -3166885869599154046
+      Juiz_10: 2847559505553286631
+      Juiz_11: 5071091043622470539
+      Juiz_12: -8580021633521313055
+      Juiz_13: -3336605689148376333
+      Juiz_14: -5999702280352660744
+      Juiz_15: -4591206112946130811
+      Juiz_16: -6913946686875448205
+      Juiz_17: 901687969387877647
+      Juiz_18: -7279958233732507328
+      Juiz_19: 6837563689680718475
+      Juiz_2: -6749565833094053696
+      Juiz_20: 1650186810378986799
+      Juiz_3: 1522299367786410343
+      Juiz_4: -4761930825703665648
+      Juiz_5: -5503730288262336567
+      Juiz_6: 8770204484570628870
+      Juiz_7: 3680496581735587743
+      Juiz_8: 7442790894094393051
+      Juiz_9: 4733426280003022370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

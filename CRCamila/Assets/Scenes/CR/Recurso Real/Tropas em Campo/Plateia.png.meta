@@ -1,0 +1,2787 @@
+fileFormatVersion: 2
+guid: 943981cb19406354280b33110814fb77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5074354084149328108
+    second: Plateia_0
+  - first:
+      213: 5290601577854047975
+    second: Plateia_1
+  - first:
+      213: -2295646892345127933
+    second: Plateia_2
+  - first:
+      213: -7214888418485262270
+    second: Plateia_3
+  - first:
+      213: -5327660713724219392
+    second: Plateia_4
+  - first:
+      213: -6989122501620707362
+    second: Plateia_5
+  - first:
+      213: -7173666772739391067
+    second: Plateia_6
+  - first:
+      213: -4792343790539025451
+    second: Plateia_7
+  - first:
+      213: 912232855265697554
+    second: Plateia_8
+  - first:
+      213: -4346651372639220303
+    second: Plateia_9
+  - first:
+      213: 6242239477109039833
+    second: Plateia_10
+  - first:
+      213: -2357415131204541814
+    second: Plateia_11
+  - first:
+      213: -8389518623386955015
+    second: Plateia_12
+  - first:
+      213: -7336715080451632494
+    second: Plateia_13
+  - first:
+      213: -929321664611832406
+    second: Plateia_14
+  - first:
+      213: -8414084146830032783
+    second: Plateia_15
+  - first:
+      213: 2628105189757386660
+    second: Plateia_16
+  - first:
+      213: 3661691288431547806
+    second: Plateia_17
+  - first:
+      213: -1264603337940316801
+    second: Plateia_18
+  - first:
+      213: 1217950890897664392
+    second: Plateia_19
+  - first:
+      213: 3096710493048669225
+    second: Plateia_20
+  - first:
+      213: 6880175440136836786
+    second: Plateia_21
+  - first:
+      213: 2954175459464105724
+    second: Plateia_22
+  - first:
+      213: -1210856327065700635
+    second: Plateia_23
+  - first:
+      213: 1963192701142312883
+    second: Plateia_24
+  - first:
+      213: 3098673205290176104
+    second: Plateia_25
+  - first:
+      213: 3397258776383657937
+    second: Plateia_26
+  - first:
+      213: -625923923836529602
+    second: Plateia_27
+  - first:
+      213: -182751914523503379
+    second: Plateia_28
+  - first:
+      213: -7354968264248551994
+    second: Plateia_29
+  - first:
+      213: -2191519023511676862
+    second: Plateia_30
+  - first:
+      213: -7926514357129160611
+    second: Plateia_31
+  - first:
+      213: -1274181159294169341
+    second: Plateia_32
+  - first:
+      213: -2758891729382716836
+    second: Plateia_33
+  - first:
+      213: -5800458668193446028
+    second: Plateia_34
+  - first:
+      213: 2748173422732384737
+    second: Plateia_35
+  - first:
+      213: 4823579349660446748
+    second: Plateia_36
+  - first:
+      213: 2782747530321646156
+    second: Plateia_37
+  - first:
+      213: 8378723744932116348
+    second: Plateia_38
+  - first:
+      213: -3440707029383566498
+    second: Plateia_39
+  - first:
+      213: 2281556721465425632
+    second: Plateia_40
+  - first:
+      213: 2146783113691534976
+    second: Plateia_41
+  - first:
+      213: -3155192478249309042
+    second: Plateia_42
+  - first:
+      213: 4517205486686072312
+    second: Plateia_43
+  - first:
+      213: -4775999503884624845
+    second: Plateia_44
+  - first:
+      213: 8211974754424913599
+    second: Plateia_45
+  - first:
+      213: -5668586402175027091
+    second: Plateia_46
+  - first:
+      213: -6868996938335691373
+    second: Plateia_47
+  - first:
+      213: -5411348269416249600
+    second: Plateia_48
+  - first:
+      213: 1254386636874315200
+    second: Plateia_49
+  - first:
+      213: -2372141532933859834
+    second: Plateia_50
+  - first:
+      213: 6475151038111965079
+    second: Plateia_51
+  - first:
+      213: -3090048832111171535
+    second: Plateia_52
+  - first:
+      213: -6417540010912208607
+    second: Plateia_53
+  - first:
+      213: 4238244971995175808
+    second: Plateia_54
+  - first:
+      213: 7551719178701004140
+    second: Plateia_55
+  - first:
+      213: 1250269312947434615
+    second: Plateia_56
+  - first:
+      213: -4527705561580379527
+    second: Plateia_57
+  - first:
+      213: 8935302614894001992
+    second: Plateia_58
+  - first:
+      213: 1656245703880632093
+    second: Plateia_59
+  - first:
+      213: -6828336572922834017
+    second: Plateia_60
+  - first:
+      213: 3763147801232851645
+    second: Plateia_61
+  - first:
+      213: 3706115232653979261
+    second: Plateia_62
+  - first:
+      213: 8318359850328806001
+    second: Plateia_63
+  - first:
+      213: 5560061990796113283
+    second: Plateia_64
+  - first:
+      213: 3403705816997581966
+    second: Plateia_65
+  - first:
+      213: -4042213934309882654
+    second: Plateia_66
+  - first:
+      213: 9206397773200644083
+    second: Plateia_67
+  - first:
+      213: -2546094894390742366
+    second: Plateia_68
+  - first:
+      213: 9098192550251115645
+    second: Plateia_69
+  - first:
+      213: -1228405796479143694
+    second: Plateia_70
+  - first:
+      213: 167015754661137715
+    second: Plateia_71
+  - first:
+      213: 7059375335697494301
+    second: Plateia_72
+  - first:
+      213: -9139131813946945274
+    second: Plateia_73
+  - first:
+      213: 2092177463015228749
+    second: Plateia_74
+  - first:
+      213: 5524566892242958305
+    second: Plateia_75
+  - first:
+      213: -2246390437523734919
+    second: Plateia_76
+  - first:
+      213: 921865617369445609
+    second: Plateia_77
+  - first:
+      213: -3661193958022083415
+    second: Plateia_78
+  - first:
+      213: 1382223246074011101
+    second: Plateia_79
+  - first:
+      213: -4248782787969334793
+    second: Plateia_80
+  - first:
+      213: 4826068477215815635
+    second: Plateia_81
+  - first:
+      213: -2568228602722118106
+    second: Plateia_82
+  - first:
+      213: 3195871654518166448
+    second: Plateia_83
+  - first:
+      213: 4989354488228848569
+    second: Plateia_84
+  - first:
+      213: 9120706253262249664
+    second: Plateia_85
+  - first:
+      213: 1239916981161077029
+    second: Plateia_86
+  - first:
+      213: -1869762381248884636
+    second: Plateia_87
+  - first:
+      213: -6847333220971921433
+    second: Plateia_88
+  - first:
+      213: 194656333097320796
+    second: Plateia_89
+  - first:
+      213: 7703166306250143267
+    second: Plateia_90
+  - first:
+      213: -5169558269436228095
+    second: Plateia_91
+  - first:
+      213: 6643031107684753251
+    second: Plateia_92
+  - first:
+      213: -5961010492210180769
+    second: Plateia_93
+  - first:
+      213: 8502568044011677066
+    second: Plateia_94
+  - first:
+      213: -2089304404898116606
+    second: Plateia_95
+  - first:
+      213: -1922566894155547778
+    second: Plateia_96
+  - first:
+      213: -6027451105092435664
+    second: Plateia_97
+  - first:
+      213: 5282379519549237828
+    second: Plateia_98
+  - first:
+      213: 2862133652294438199
+    second: Plateia_99
+  - first:
+      213: -900046238347916889
+    second: Plateia_100
+  - first:
+      213: -7023007744146738588
+    second: Plateia_101
+  - first:
+      213: 3209522982058218945
+    second: Plateia_102
+  - first:
+      213: 325843906574736490
+    second: Plateia_103
+  - first:
+      213: 8323219684253650755
+    second: Plateia_104
+  - first:
+      213: -67491372589923970
+    second: Plateia_105
+  - first:
+      213: -7718447899271873072
+    second: Plateia_106
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plateia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 145
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f54a872abb6640800000000000000
+      internalID: 5074354084149328108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 777
+        width: 143
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e69c10ba1efb6940800000000000000
+      internalID: 5290601577854047975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 856
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c0a0470593420e0800000000000000
+      internalID: -2295646892345127933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 859
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482b12a5319fdb90800000000000000
+      internalID: -7214888418485262270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 876
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000f9aadec85016b0800000000000000
+      internalID: -5327660713724219392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 794
+        width: 127
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf453f5d16a10f90800000000000000
+      internalID: -6989122501620707362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 870
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a188d1f314027c90800000000000000
+      internalID: -7173666772739391067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 889
+        width: 139
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d35f53a6bc2e7db0800000000000000
+      internalID: -4792343790539025451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 791
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f5d8ad2f6e8ac00800000000000000
+      internalID: 912232855265697554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 855
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd006b2b979da3c0800000000000000
+      internalID: -4346651372639220303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 778
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2210c4bb3e0a650800000000000000
+      internalID: 6242239477109039833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 877
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822c64ad67c84fd0800000000000000
+      internalID: -2357415131204541814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 672
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21f78f241729b80800000000000000
+      internalID: -8389518623386955015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 689
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292dd638180ce2a90800000000000000
+      internalID: -7336715080451632494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 760
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadacbaaed26a13f0800000000000000
+      internalID: -929321664611832406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 663
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17043f55c0b2b3b80800000000000000
+      internalID: -8414084146830032783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 748
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af79dbeeb7e87420800000000000000
+      internalID: 2628105189757386660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 663
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95da1c83d0f0d230800000000000000
+      internalID: 3661691288431547806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 698
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d4b4cd6f9337ee0800000000000000
+      internalID: -1264603337940316801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 744
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88963ddd1e707e010800000000000000
+      internalID: 1217950890897664392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_20
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 683
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924046e49c9b9fa20800000000000000
+      internalID: 3096710493048669225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 711
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b619bd2c1b4b7f50800000000000000
+      internalID: 6880175440136836786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_22
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 727
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec881bde65ff820800000000000000
+      internalID: 2954175459464105724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f63ff59c223fe0800000000000000
+      internalID: -1210856327065700635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 598
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72a393c59ae3b10800000000000000
+      internalID: 1963192701142312883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 572
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e875cdcd2b00b20800000000000000
+      internalID: 3098673205290176104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 582
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71d609bdc752f20800000000000000
+      internalID: 3397258776383657937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 544
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341e4fe1854057f0800000000000000
+      internalID: -625923923836529602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 590
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ddcc1a1cb67df0800000000000000
+      internalID: -182751914523503379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 638
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5913bf457ede990800000000000000
+      internalID: -7354968264248551994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_30
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 560
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248531d2f092691e0800000000000000
+      internalID: -2191519023511676862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_31
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 599
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58584c403d5ff190800000000000000
+      internalID: -7926514357129160611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_32
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 615
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f86cc8cf2315ee0800000000000000
+      internalID: -1274181159294169341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4160e69276b9d0800000000000000
+      internalID: -2758891729382716836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 509
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778efbc291a08fa0800000000000000
+      internalID: -5800458668193446028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 481
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e91223ea29732620800000000000000
+      internalID: 2748173422732384737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 496
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10bb62bcdbc0f240800000000000000
+      internalID: 4823579349660446748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 440
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42da6c922e4e9620800000000000000
+      internalID: 2782747530321646156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 447
+        width: 65
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773fc78ad4374470800000000000000
+      internalID: 8378723744932116348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_39
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 431
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2769bf272040d0800000000000000
+      internalID: -3440707029383566498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 524
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef9ddffb7b9af10800000000000000
+      internalID: 2281556721465425632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_41
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 451
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08614652ed7eacd10800000000000000
+      internalID: 2146783113691534976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 467
+        width: 77
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c27ff68218634d0800000000000000
+      internalID: -3155192478249309042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_43
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 396
+        width: 65
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6e5bf47650be30800000000000000
+      internalID: 4517205486686072312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 515
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cd38b61cd38bdb0800000000000000
+      internalID: -4775999503884624845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 66
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef8fdb78bc6f170800000000000000
+      internalID: 8211974754424913599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 411
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687fbf53b22551b0800000000000000
+      internalID: -5668586402175027091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 307
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d51479dab6ca0a0800000000000000
+      internalID: -6868996938335691373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 405
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00705856b6707e4b0800000000000000
+      internalID: -5411348269416249600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 330
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f3ed000a786110800000000000000
+      internalID: 1254386636874315200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_50
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 406
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606d68c08d5741fd0800000000000000
+      internalID: -2372141532933859834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 307
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5aa5ff8b5cd950800000000000000
+      internalID: 6475151038111965079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 354
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138276f75f0fd15d0800000000000000
+      internalID: -3090048832111171535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_53
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 360
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a8b59c5150f6a0800000000000000
+      internalID: -6417540010912208607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 341
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9bdac85541da30800000000000000
+      internalID: 4238244971995175808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 369
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5af115981dc860800000000000000
+      internalID: 7551719178701004140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_56
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 359
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bdcfd059d95110800000000000000
+      internalID: 1250269312947434615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_57
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 391
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e072d7cb5a21c0800000000000000
+      internalID: -4527705561580379527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f30611362900c70800000000000000
+      internalID: 8935302614894001992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 205
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17629841ba2cf610800000000000000
+      internalID: 1656245703880632093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 242
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935024a010ec31a0800000000000000
+      internalID: -6828336572922834017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 216
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c6c9bcf2693430800000000000000
+      internalID: 3763147801232851645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_62
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e21031b24ce6330800000000000000
+      internalID: 3706115232653979261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_63
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 310
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17258b81630c07370800000000000000
+      internalID: 8318359850328806001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 211
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385bd821cee492d40800000000000000
+      internalID: 5560061990796113283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 259
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84521e28646c3f20800000000000000
+      internalID: 3403705816997581966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_66
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 287
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e44353e7db27e7c0800000000000000
+      internalID: -4042213934309882654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_67
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 297
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f752944ff1b3cf70800000000000000
+      internalID: 9206397773200644083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_68
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 264
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2776fee247aacd0800000000000000
+      internalID: -2546094894390742366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_69
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 293
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b2df8be5434e70800000000000000
+      internalID: 9098192550251115645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_70
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 285
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f074dcbf63d3fee0800000000000000
+      internalID: -1228405796479143694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8878a1fb515200800000000000000
+      internalID: 167015754661137715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1137643770f7f160800000000000000
+      internalID: 7059375335697494301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 125
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601983259084b2180800000000000000
+      internalID: -9139131813946945274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 158
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c91a5158e80d10800000000000000
+      internalID: 2092177463015228749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_75
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 143
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7760e61543bac40800000000000000
+      internalID: 5524566892242958305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 156
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e30988cc733d0e0800000000000000
+      internalID: -2246390437523734919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_77
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 172
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b3fd05ef1bcc00800000000000000
+      internalID: 921865617369445609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_78
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 134
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac89463e73d03dc0800000000000000
+      internalID: -3661193958022083415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 181
+        width: 66
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd578e08b4ae2310800000000000000
+      internalID: 1382223246074011101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_80
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 97
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14b4bb09a4905c0800000000000000
+      internalID: -4248782787969334793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 188
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b82ed5b3a9f240800000000000000
+      internalID: 4826068477215815635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_82
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 119
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62610c061b1db5cd0800000000000000
+      internalID: -2568228602722118106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_83
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 197
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39b4b56540a5c20800000000000000
+      internalID: 3195871654518166448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_84
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 98
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a169e87fbd3540800000000000000
+      internalID: 4989354488228848569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_85
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 192
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce51668302439e70800000000000000
+      internalID: 9120706253262249664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a41dcce1153110800000000000000
+      internalID: 1239916981161077029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460954b45054d06e0800000000000000
+      internalID: -1869762381248884636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 66
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efbc39d6b269f0a0800000000000000
+      internalID: -6847333220971921433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 25
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51cb8357ee83b200800000000000000
+      internalID: 194656333097320796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 74
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263cc141f427ea60800000000000000
+      internalID: 7703166306250143267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_91
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 81
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0298b42a0248b0800000000000000
+      internalID: -5169558269436228095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_92
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 104
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f5b6d9899c03c50800000000000000
+      internalID: 6643031107684753251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8f654a8c364da0800000000000000
+      internalID: -5961010492210180769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_94
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 100
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8567e566903ff570800000000000000
+      internalID: 8502568044011677066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_95
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 51
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c836e96bc4103e0800000000000000
+      internalID: -2089304404898116606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_96
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 23
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bbee0989ba155e0800000000000000
+      internalID: -1922566894155547778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_97
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 43
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0310eeb97213a5ca0800000000000000
+      internalID: -6027451105092435664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_98
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 19
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae78f8f28ce4940800000000000000
+      internalID: 5282379519549237828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_99
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 109
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d83bc746758b720800000000000000
+      internalID: 2862133652294438199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_100
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 14
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a988d107b46283f0800000000000000
+      internalID: -900046238347916889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462f05b8aa3498e90800000000000000
+      internalID: -7023007744146738588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5580cb5248a8c20800000000000000
+      internalID: 3209522982058218945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 24
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdc9f7e41a58400800000000000000
+      internalID: 325843906574736490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4a7b5434028370800000000000000
+      internalID: 8323219684253650755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_105
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cf5744f8301ff0800000000000000
+      internalID: -67491372589923970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plateia_106
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 22
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd3a8a978092e490800000000000000
+      internalID: -7718447899271873072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plateia_0: 5074354084149328108
+      Plateia_1: 5290601577854047975
+      Plateia_10: 6242239477109039833
+      Plateia_100: -900046238347916889
+      Plateia_101: -7023007744146738588
+      Plateia_102: 3209522982058218945
+      Plateia_103: 325843906574736490
+      Plateia_104: 8323219684253650755
+      Plateia_105: -67491372589923970
+      Plateia_106: -7718447899271873072
+      Plateia_11: -2357415131204541814
+      Plateia_12: -8389518623386955015
+      Plateia_13: -7336715080451632494
+      Plateia_14: -929321664611832406
+      Plateia_15: -8414084146830032783
+      Plateia_16: 2628105189757386660
+      Plateia_17: 3661691288431547806
+      Plateia_18: -1264603337940316801
+      Plateia_19: 1217950890897664392
+      Plateia_2: -2295646892345127933
+      Plateia_20: 3096710493048669225
+      Plateia_21: 6880175440136836786
+      Plateia_22: 2954175459464105724
+      Plateia_23: -1210856327065700635
+      Plateia_24: 1963192701142312883
+      Plateia_25: 3098673205290176104
+      Plateia_26: 3397258776383657937
+      Plateia_27: -625923923836529602
+      Plateia_28: -182751914523503379
+      Plateia_29: -7354968264248551994
+      Plateia_3: -7214888418485262270
+      Plateia_30: -2191519023511676862
+      Plateia_31: -7926514357129160611
+      Plateia_32: -1274181159294169341
+      Plateia_33: -2758891729382716836
+      Plateia_34: -5800458668193446028
+      Plateia_35: 2748173422732384737
+      Plateia_36: 4823579349660446748
+      Plateia_37: 2782747530321646156
+      Plateia_38: 8378723744932116348
+      Plateia_39: -3440707029383566498
+      Plateia_4: -5327660713724219392
+      Plateia_40: 2281556721465425632
+      Plateia_41: 2146783113691534976
+      Plateia_42: -3155192478249309042
+      Plateia_43: 4517205486686072312
+      Plateia_44: -4775999503884624845
+      Plateia_45: 8211974754424913599
+      Plateia_46: -5668586402175027091
+      Plateia_47: -6868996938335691373
+      Plateia_48: -5411348269416249600
+      Plateia_49: 1254386636874315200
+      Plateia_5: -6989122501620707362
+      Plateia_50: -2372141532933859834
+      Plateia_51: 6475151038111965079
+      Plateia_52: -3090048832111171535
+      Plateia_53: -6417540010912208607
+      Plateia_54: 4238244971995175808
+      Plateia_55: 7551719178701004140
+      Plateia_56: 1250269312947434615
+      Plateia_57: -4527705561580379527
+      Plateia_58: 8935302614894001992
+      Plateia_59: 1656245703880632093
+      Plateia_6: -7173666772739391067
+      Plateia_60: -6828336572922834017
+      Plateia_61: 3763147801232851645
+      Plateia_62: 3706115232653979261
+      Plateia_63: 8318359850328806001
+      Plateia_64: 5560061990796113283
+      Plateia_65: 3403705816997581966
+      Plateia_66: -4042213934309882654
+      Plateia_67: 9206397773200644083
+      Plateia_68: -2546094894390742366
+      Plateia_69: 9098192550251115645
+      Plateia_7: -4792343790539025451
+      Plateia_70: -1228405796479143694
+      Plateia_71: 167015754661137715
+      Plateia_72: 7059375335697494301
+      Plateia_73: -9139131813946945274
+      Plateia_74: 2092177463015228749
+      Plateia_75: 5524566892242958305
+      Plateia_76: -2246390437523734919
+      Plateia_77: 921865617369445609
+      Plateia_78: -3661193958022083415
+      Plateia_79: 1382223246074011101
+      Plateia_8: 912232855265697554
+      Plateia_80: -4248782787969334793
+      Plateia_81: 4826068477215815635
+      Plateia_82: -2568228602722118106
+      Plateia_83: 3195871654518166448
+      Plateia_84: 4989354488228848569
+      Plateia_85: 9120706253262249664
+      Plateia_86: 1239916981161077029
+      Plateia_87: -1869762381248884636
+      Plateia_88: -6847333220971921433
+      Plateia_89: 194656333097320796
+      Plateia_9: -4346651372639220303
+      Plateia_90: 7703166306250143267
+      Plateia_91: -5169558269436228095
+      Plateia_92: 6643031107684753251
+      Plateia_93: -5961010492210180769
+      Plateia_94: 8502568044011677066
+      Plateia_95: -2089304404898116606
+      Plateia_96: -1922566894155547778
+      Plateia_97: -6027451105092435664
+      Plateia_98: 5282379519549237828
+      Plateia_99: 2862133652294438199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: f750a92e6dd7bdd429d5a6d4d70cbfa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1419450317892115885
+    second: Goblin Drill_0
+  - first:
+      213: 4887474312479770455
+    second: Goblin Drill_1
+  - first:
+      213: 8984982247800199386
+    second: Goblin Drill_2
+  - first:
+      213: 5861801529445761804
+    second: Goblin Drill_3
+  - first:
+      213: -6717042386412794681
+    second: Goblin Drill_4
+  - first:
+      213: -3699815916441478741
+    second: Goblin Drill_5
+  - first:
+      213: -4275311564701204100
+    second: Goblin Drill_6
+  - first:
+      213: 1301989338057275993
+    second: Goblin Drill_7
+  - first:
+      213: -447589862974181546
+    second: Goblin Drill_8
+  - first:
+      213: -461309476437986456
+    second: Goblin Drill_9
+  - first:
+      213: -5207288034218575689
+    second: Goblin Drill_10
+  - first:
+      213: 3415573349523508740
+    second: Goblin Drill_11
+  - first:
+      213: -3728083284193432825
+    second: Goblin Drill_12
+  - first:
+      213: -6957351772694524370
+    second: Goblin Drill_13
+  - first:
+      213: -763854422653431570
+    second: Goblin Drill_14
+  - first:
+      213: 2647442886068440356
+    second: Goblin Drill_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Drill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a9b9d4791d4ce0800000000000000
+      internalID: -1419450317892115885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 327
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75704340efbc3d340800000000000000
+      internalID: 4887474312479770455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 394
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85259ffb111bc70800000000000000
+      internalID: 8984982247800199386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 348
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c4721f6d495150800000000000000
+      internalID: 5861801529445761804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc8f98b98548c2a0800000000000000
+      internalID: -6717042386412794681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 211
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95b26c60d97acc0800000000000000
+      internalID: -3699815916441478741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 237
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718dd198ca0ba4c0800000000000000
+      internalID: -4275311564701204100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aff3c9768911210800000000000000
+      internalID: 1301989338057275993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fab5c1467d9c9f0800000000000000
+      internalID: -447589862974181546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 107
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863746da9791999f0800000000000000
+      internalID: -461309476437986456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8724d4f1ffbb7b0800000000000000
+      internalID: -5207288034218575689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec3aa6ddd866f20800000000000000
+      internalID: 3415573349523508740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 25
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b24985100334cc0800000000000000
+      internalID: -3728083284193432825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 83
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecb13ac65827f90800000000000000
+      internalID: -6957351772694524370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee091ad137e3665f0800000000000000
+      internalID: -763854422653431570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Drill_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8e33374b9db420800000000000000
+      internalID: 2647442886068440356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goblin Drill_0: -1419450317892115885
+      Goblin Drill_1: 4887474312479770455
+      Goblin Drill_10: -5207288034218575689
+      Goblin Drill_11: 3415573349523508740
+      Goblin Drill_12: -3728083284193432825
+      Goblin Drill_13: -6957351772694524370
+      Goblin Drill_14: -763854422653431570
+      Goblin Drill_15: 2647442886068440356
+      Goblin Drill_2: 8984982247800199386
+      Goblin Drill_3: 5861801529445761804
+      Goblin Drill_4: -6717042386412794681
+      Goblin Drill_5: -3699815916441478741
+      Goblin Drill_6: -4275311564701204100
+      Goblin Drill_7: 1301989338057275993
+      Goblin Drill_8: -447589862974181546
+      Goblin Drill_9: -461309476437986456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

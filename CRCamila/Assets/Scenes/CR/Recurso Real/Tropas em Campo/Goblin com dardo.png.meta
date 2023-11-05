@@ -1,0 +1,7237 @@
+fileFormatVersion: 2
+guid: 21839b30147bcb84691e44710404a6b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4156533588809784405
+    second: Goblin com dardo_0
+  - first:
+      213: -454239437173580310
+    second: Goblin com dardo_1
+  - first:
+      213: 3272888200945829665
+    second: Goblin com dardo_2
+  - first:
+      213: 8866516520756358822
+    second: Goblin com dardo_3
+  - first:
+      213: -390023404095218464
+    second: Goblin com dardo_4
+  - first:
+      213: -8255765881628661872
+    second: Goblin com dardo_5
+  - first:
+      213: 8826540447163623867
+    second: Goblin com dardo_6
+  - first:
+      213: 1725047499481665715
+    second: Goblin com dardo_7
+  - first:
+      213: -3941043087585423628
+    second: Goblin com dardo_8
+  - first:
+      213: -4476406161662617457
+    second: Goblin com dardo_9
+  - first:
+      213: -2177438145664582318
+    second: Goblin com dardo_10
+  - first:
+      213: 407776235430971623
+    second: Goblin com dardo_11
+  - first:
+      213: -297517213090138852
+    second: Goblin com dardo_12
+  - first:
+      213: -1968395803716252947
+    second: Goblin com dardo_13
+  - first:
+      213: -31713506372442207
+    second: Goblin com dardo_14
+  - first:
+      213: 7309609513621513866
+    second: Goblin com dardo_15
+  - first:
+      213: 3642102722863284326
+    second: Goblin com dardo_16
+  - first:
+      213: 5349345755893855279
+    second: Goblin com dardo_17
+  - first:
+      213: 8728917009725769699
+    second: Goblin com dardo_18
+  - first:
+      213: -7533809251818030551
+    second: Goblin com dardo_19
+  - first:
+      213: 1976865798486723056
+    second: Goblin com dardo_20
+  - first:
+      213: 3782559271126028721
+    second: Goblin com dardo_21
+  - first:
+      213: 4529905641473671184
+    second: Goblin com dardo_22
+  - first:
+      213: 8904633586479567132
+    second: Goblin com dardo_23
+  - first:
+      213: -2556793228235342662
+    second: Goblin com dardo_24
+  - first:
+      213: -3103469353859908671
+    second: Goblin com dardo_25
+  - first:
+      213: 2473276126619298774
+    second: Goblin com dardo_26
+  - first:
+      213: -3779609001064826534
+    second: Goblin com dardo_27
+  - first:
+      213: 4025392557791294666
+    second: Goblin com dardo_28
+  - first:
+      213: -4297826891925706180
+    second: Goblin com dardo_29
+  - first:
+      213: -1440857729441044541
+    second: Goblin com dardo_30
+  - first:
+      213: 6206752800707509114
+    second: Goblin com dardo_31
+  - first:
+      213: 5996840318815891217
+    second: Goblin com dardo_32
+  - first:
+      213: 9119213078641656534
+    second: Goblin com dardo_33
+  - first:
+      213: 3260297304114635171
+    second: Goblin com dardo_34
+  - first:
+      213: 3764605625218731402
+    second: Goblin com dardo_35
+  - first:
+      213: 1856631080695839201
+    second: Goblin com dardo_36
+  - first:
+      213: -4095488898342569242
+    second: Goblin com dardo_37
+  - first:
+      213: 1169360339774625604
+    second: Goblin com dardo_38
+  - first:
+      213: 2039456162137316995
+    second: Goblin com dardo_39
+  - first:
+      213: -4199884036922423845
+    second: Goblin com dardo_40
+  - first:
+      213: 4696502704328385866
+    second: Goblin com dardo_41
+  - first:
+      213: -4372524828693340518
+    second: Goblin com dardo_42
+  - first:
+      213: -7026883619058830516
+    second: Goblin com dardo_43
+  - first:
+      213: 1006475686655980760
+    second: Goblin com dardo_44
+  - first:
+      213: -7953766307560709199
+    second: Goblin com dardo_45
+  - first:
+      213: 5120737941346926346
+    second: Goblin com dardo_46
+  - first:
+      213: -4261163606627005825
+    second: Goblin com dardo_47
+  - first:
+      213: -8223459225737024895
+    second: Goblin com dardo_48
+  - first:
+      213: 8577317860111269651
+    second: Goblin com dardo_49
+  - first:
+      213: 8021530830332444646
+    second: Goblin com dardo_50
+  - first:
+      213: -4379601438788903018
+    second: Goblin com dardo_51
+  - first:
+      213: 6455710404921077353
+    second: Goblin com dardo_52
+  - first:
+      213: -8658759718521955040
+    second: Goblin com dardo_53
+  - first:
+      213: 3638079357697633198
+    second: Goblin com dardo_54
+  - first:
+      213: -8964520774368822076
+    second: Goblin com dardo_55
+  - first:
+      213: -6912033683965088526
+    second: Goblin com dardo_56
+  - first:
+      213: -7947984779239315773
+    second: Goblin com dardo_57
+  - first:
+      213: 6336747956327806593
+    second: Goblin com dardo_58
+  - first:
+      213: -1222680222222142751
+    second: Goblin com dardo_59
+  - first:
+      213: -7221878296025753610
+    second: Goblin com dardo_60
+  - first:
+      213: -1304211905572039480
+    second: Goblin com dardo_61
+  - first:
+      213: 2657767172342931059
+    second: Goblin com dardo_62
+  - first:
+      213: -5761626649394379003
+    second: Goblin com dardo_63
+  - first:
+      213: -2518702306001433484
+    second: Goblin com dardo_64
+  - first:
+      213: 4963963691022185780
+    second: Goblin com dardo_65
+  - first:
+      213: -8222441812011457954
+    second: Goblin com dardo_66
+  - first:
+      213: 6250764945433934653
+    second: Goblin com dardo_67
+  - first:
+      213: -7814437843069794564
+    second: Goblin com dardo_68
+  - first:
+      213: 6600476751366033106
+    second: Goblin com dardo_69
+  - first:
+      213: 1504701401688968928
+    second: Goblin com dardo_70
+  - first:
+      213: -6019629214389398212
+    second: Goblin com dardo_71
+  - first:
+      213: 7120671195298480778
+    second: Goblin com dardo_72
+  - first:
+      213: 2712682935205620086
+    second: Goblin com dardo_73
+  - first:
+      213: -5157327044577492057
+    second: Goblin com dardo_74
+  - first:
+      213: -7549399970196269489
+    second: Goblin com dardo_75
+  - first:
+      213: 1801957595532230235
+    second: Goblin com dardo_76
+  - first:
+      213: 237168591928230113
+    second: Goblin com dardo_77
+  - first:
+      213: -8837902695971097754
+    second: Goblin com dardo_78
+  - first:
+      213: 5937379094509455032
+    second: Goblin com dardo_79
+  - first:
+      213: 1802479439720258528
+    second: Goblin com dardo_80
+  - first:
+      213: -206316446017119834
+    second: Goblin com dardo_81
+  - first:
+      213: 3192140956307569393
+    second: Goblin com dardo_82
+  - first:
+      213: -3321077825137270670
+    second: Goblin com dardo_83
+  - first:
+      213: 159528423134031976
+    second: Goblin com dardo_84
+  - first:
+      213: 1943947250044001361
+    second: Goblin com dardo_85
+  - first:
+      213: -6553011739991011429
+    second: Goblin com dardo_86
+  - first:
+      213: -5277377484407110180
+    second: Goblin com dardo_87
+  - first:
+      213: 4819603918551732671
+    second: Goblin com dardo_88
+  - first:
+      213: -1904640559904831032
+    second: Goblin com dardo_89
+  - first:
+      213: 2660052665100065687
+    second: Goblin com dardo_90
+  - first:
+      213: -899430182459199157
+    second: Goblin com dardo_91
+  - first:
+      213: -4257722656965921434
+    second: Goblin com dardo_92
+  - first:
+      213: -3420819031313100358
+    second: Goblin com dardo_93
+  - first:
+      213: 4347634059563885412
+    second: Goblin com dardo_94
+  - first:
+      213: -2809513462486340199
+    second: Goblin com dardo_95
+  - first:
+      213: -577480256064189570
+    second: Goblin com dardo_96
+  - first:
+      213: 1969423979083963901
+    second: Goblin com dardo_97
+  - first:
+      213: -820489518964783155
+    second: Goblin com dardo_98
+  - first:
+      213: 2567146220051172198
+    second: Goblin com dardo_99
+  - first:
+      213: 8005836923780359835
+    second: Goblin com dardo_100
+  - first:
+      213: 7625157403427391635
+    second: Goblin com dardo_101
+  - first:
+      213: 5988602900445933861
+    second: Goblin com dardo_102
+  - first:
+      213: -5204017304668042976
+    second: Goblin com dardo_103
+  - first:
+      213: 5931034263982779051
+    second: Goblin com dardo_104
+  - first:
+      213: 1135872460970722067
+    second: Goblin com dardo_105
+  - first:
+      213: -3429891805890308796
+    second: Goblin com dardo_106
+  - first:
+      213: -8712103982729858737
+    second: Goblin com dardo_107
+  - first:
+      213: 2930844894966249300
+    second: Goblin com dardo_108
+  - first:
+      213: -2958912066167957088
+    second: Goblin com dardo_109
+  - first:
+      213: -5217754072774385835
+    second: Goblin com dardo_110
+  - first:
+      213: 4707223622745787012
+    second: Goblin com dardo_111
+  - first:
+      213: -3684825372783106265
+    second: Goblin com dardo_112
+  - first:
+      213: 5995336608216085246
+    second: Goblin com dardo_113
+  - first:
+      213: -9064022315991987645
+    second: Goblin com dardo_114
+  - first:
+      213: 4115148912912515602
+    second: Goblin com dardo_115
+  - first:
+      213: -3975947785075048929
+    second: Goblin com dardo_116
+  - first:
+      213: -6832304586471607068
+    second: Goblin com dardo_117
+  - first:
+      213: 1091695428159288972
+    second: Goblin com dardo_118
+  - first:
+      213: -2727353651566089215
+    second: Goblin com dardo_119
+  - first:
+      213: -8264478687662841566
+    second: Goblin com dardo_120
+  - first:
+      213: 899659750798216533
+    second: Goblin com dardo_121
+  - first:
+      213: 1296304539599831863
+    second: Goblin com dardo_122
+  - first:
+      213: -8942660591271116480
+    second: Goblin com dardo_123
+  - first:
+      213: -2095429262873718413
+    second: Goblin com dardo_124
+  - first:
+      213: 5729995706633057769
+    second: Goblin com dardo_125
+  - first:
+      213: -6207888181490219308
+    second: Goblin com dardo_126
+  - first:
+      213: 5347965823370362579
+    second: Goblin com dardo_127
+  - first:
+      213: 4978423310750097146
+    second: Goblin com dardo_128
+  - first:
+      213: 7587629170339961717
+    second: Goblin com dardo_129
+  - first:
+      213: -7041455438923056310
+    second: Goblin com dardo_130
+  - first:
+      213: 5409229730802118792
+    second: Goblin com dardo_131
+  - first:
+      213: -5985047135750975502
+    second: Goblin com dardo_132
+  - first:
+      213: -4521825997780789410
+    second: Goblin com dardo_133
+  - first:
+      213: 8806365667601304613
+    second: Goblin com dardo_134
+  - first:
+      213: 5391853781587493262
+    second: Goblin com dardo_135
+  - first:
+      213: 7125276428191582631
+    second: Goblin com dardo_136
+  - first:
+      213: -1327044368449148274
+    second: Goblin com dardo_137
+  - first:
+      213: -126803936948066661
+    second: Goblin com dardo_138
+  - first:
+      213: -1534525042472005682
+    second: Goblin com dardo_139
+  - first:
+      213: 1494261933393472634
+    second: Goblin com dardo_140
+  - first:
+      213: -4338246574133703292
+    second: Goblin com dardo_141
+  - first:
+      213: -7423064065618112589
+    second: Goblin com dardo_142
+  - first:
+      213: -4888761090891005029
+    second: Goblin com dardo_143
+  - first:
+      213: -4575370535774869616
+    second: Goblin com dardo_144
+  - first:
+      213: -7323152871904540279
+    second: Goblin com dardo_145
+  - first:
+      213: 3728565383353929016
+    second: Goblin com dardo_146
+  - first:
+      213: 7124052144634332339
+    second: Goblin com dardo_147
+  - first:
+      213: 1861413727493650887
+    second: Goblin com dardo_148
+  - first:
+      213: 8451993543937904236
+    second: Goblin com dardo_149
+  - first:
+      213: -6024452370419724774
+    second: Goblin com dardo_150
+  - first:
+      213: 6980952480548288788
+    second: Goblin com dardo_151
+  - first:
+      213: 5422477869077412593
+    second: Goblin com dardo_152
+  - first:
+      213: 7576209183372081037
+    second: Goblin com dardo_153
+  - first:
+      213: -9148190395724085236
+    second: Goblin com dardo_154
+  - first:
+      213: 8645294946518085315
+    second: Goblin com dardo_155
+  - first:
+      213: 533243321438821853
+    second: Goblin com dardo_156
+  - first:
+      213: 5693351180125158954
+    second: Goblin com dardo_157
+  - first:
+      213: 8763323007091624411
+    second: Goblin com dardo_158
+  - first:
+      213: 1910439939742190642
+    second: Goblin com dardo_159
+  - first:
+      213: -7285364816260942455
+    second: Goblin com dardo_160
+  - first:
+      213: 1286813885564688395
+    second: Goblin com dardo_161
+  - first:
+      213: 3322438303200163540
+    second: Goblin com dardo_162
+  - first:
+      213: -1246952537246987014
+    second: Goblin com dardo_163
+  - first:
+      213: -540235169752736558
+    second: Goblin com dardo_164
+  - first:
+      213: -6806643564778226180
+    second: Goblin com dardo_165
+  - first:
+      213: 488664191407557851
+    second: Goblin com dardo_166
+  - first:
+      213: -4231963170614274022
+    second: Goblin com dardo_167
+  - first:
+      213: 3388022085908032342
+    second: Goblin com dardo_168
+  - first:
+      213: -8630535053737925505
+    second: Goblin com dardo_169
+  - first:
+      213: 5190997671689971033
+    second: Goblin com dardo_170
+  - first:
+      213: -833394536123443884
+    second: Goblin com dardo_171
+  - first:
+      213: 8945321188505466631
+    second: Goblin com dardo_172
+  - first:
+      213: 4598861652498846813
+    second: Goblin com dardo_173
+  - first:
+      213: 1387973746179350076
+    second: Goblin com dardo_174
+  - first:
+      213: 4065535516342076012
+    second: Goblin com dardo_175
+  - first:
+      213: 2659207733896586599
+    second: Goblin com dardo_176
+  - first:
+      213: 2133449597984214641
+    second: Goblin com dardo_177
+  - first:
+      213: -8395818982530628299
+    second: Goblin com dardo_178
+  - first:
+      213: -4764224222373231652
+    second: Goblin com dardo_179
+  - first:
+      213: 8295370499780692090
+    second: Goblin com dardo_180
+  - first:
+      213: -6518522455425963870
+    second: Goblin com dardo_181
+  - first:
+      213: -1939774818539511684
+    second: Goblin com dardo_182
+  - first:
+      213: -6358258665118506795
+    second: Goblin com dardo_183
+  - first:
+      213: -1338631097269091324
+    second: Goblin com dardo_184
+  - first:
+      213: 3042171536850127816
+    second: Goblin com dardo_185
+  - first:
+      213: -3722911202101483468
+    second: Goblin com dardo_186
+  - first:
+      213: -2726380621559192725
+    second: Goblin com dardo_187
+  - first:
+      213: 2130649784869997730
+    second: Goblin com dardo_188
+  - first:
+      213: -8615461445269090614
+    second: Goblin com dardo_189
+  - first:
+      213: -256059451615693413
+    second: Goblin com dardo_190
+  - first:
+      213: -5863898308358659360
+    second: Goblin com dardo_191
+  - first:
+      213: 7603771181138626711
+    second: Goblin com dardo_192
+  - first:
+      213: -7772457656869457204
+    second: Goblin com dardo_193
+  - first:
+      213: 5682489349816183044
+    second: Goblin com dardo_194
+  - first:
+      213: -6321194457675818705
+    second: Goblin com dardo_195
+  - first:
+      213: 2487851835554097379
+    second: Goblin com dardo_196
+  - first:
+      213: -1758126829773945333
+    second: Goblin com dardo_197
+  - first:
+      213: -3771540689781854513
+    second: Goblin com dardo_198
+  - first:
+      213: -4952916390815245790
+    second: Goblin com dardo_199
+  - first:
+      213: 4381520909371263983
+    second: Goblin com dardo_200
+  - first:
+      213: -8730180485791180179
+    second: Goblin com dardo_201
+  - first:
+      213: 2801571583276699191
+    second: Goblin com dardo_202
+  - first:
+      213: -5342897035549714463
+    second: Goblin com dardo_203
+  - first:
+      213: -2658135402559143096
+    second: Goblin com dardo_204
+  - first:
+      213: 1085003986975086089
+    second: Goblin com dardo_205
+  - first:
+      213: 4422301321689050053
+    second: Goblin com dardo_206
+  - first:
+      213: 8234966827080969069
+    second: Goblin com dardo_207
+  - first:
+      213: -1144592418621304121
+    second: Goblin com dardo_208
+  - first:
+      213: 2241179971294562125
+    second: Goblin com dardo_209
+  - first:
+      213: 440853762320501183
+    second: Goblin com dardo_210
+  - first:
+      213: 4987410979954528098
+    second: Goblin com dardo_211
+  - first:
+      213: -3376090234326251361
+    second: Goblin com dardo_212
+  - first:
+      213: -5339114294696648450
+    second: Goblin com dardo_213
+  - first:
+      213: -8296940442074963191
+    second: Goblin com dardo_214
+  - first:
+      213: -7065878157258224830
+    second: Goblin com dardo_215
+  - first:
+      213: -4420325595791759806
+    second: Goblin com dardo_216
+  - first:
+      213: -7848341336039818828
+    second: Goblin com dardo_217
+  - first:
+      213: -6106547861757212183
+    second: Goblin com dardo_218
+  - first:
+      213: -689427981588835144
+    second: Goblin com dardo_219
+  - first:
+      213: 4473576701630939705
+    second: Goblin com dardo_220
+  - first:
+      213: 6117937303167596527
+    second: Goblin com dardo_221
+  - first:
+      213: -1988282918447484085
+    second: Goblin com dardo_222
+  - first:
+      213: -6068565544407011252
+    second: Goblin com dardo_223
+  - first:
+      213: -4155967636130375051
+    second: Goblin com dardo_224
+  - first:
+      213: 6288455366383434057
+    second: Goblin com dardo_225
+  - first:
+      213: -4533643725954038152
+    second: Goblin com dardo_226
+  - first:
+      213: -6189833833123788829
+    second: Goblin com dardo_227
+  - first:
+      213: 8619638779968151167
+    second: Goblin com dardo_228
+  - first:
+      213: -5448573082943863775
+    second: Goblin com dardo_229
+  - first:
+      213: -2559687632217211000
+    second: Goblin com dardo_230
+  - first:
+      213: 1297968918810752067
+    second: Goblin com dardo_231
+  - first:
+      213: 8877204536339417184
+    second: Goblin com dardo_232
+  - first:
+      213: -5445423448610313227
+    second: Goblin com dardo_233
+  - first:
+      213: 5273494432228624076
+    second: Goblin com dardo_234
+  - first:
+      213: -7922059307169381555
+    second: Goblin com dardo_235
+  - first:
+      213: -7633053896562262515
+    second: Goblin com dardo_236
+  - first:
+      213: -2950820971598120236
+    second: Goblin com dardo_237
+  - first:
+      213: 5108262052045733493
+    second: Goblin com dardo_238
+  - first:
+      213: -7062212344665617001
+    second: Goblin com dardo_239
+  - first:
+      213: 4524570564612247189
+    second: Goblin com dardo_240
+  - first:
+      213: 7708135722892641006
+    second: Goblin com dardo_241
+  - first:
+      213: 8196405582073622336
+    second: Goblin com dardo_242
+  - first:
+      213: 3059522648586151385
+    second: Goblin com dardo_243
+  - first:
+      213: -3856062259102132305
+    second: Goblin com dardo_244
+  - first:
+      213: -2901831465263078058
+    second: Goblin com dardo_245
+  - first:
+      213: -2308510262093995215
+    second: Goblin com dardo_246
+  - first:
+      213: 3435790382513994555
+    second: Goblin com dardo_247
+  - first:
+      213: -8193844490458557018
+    second: Goblin com dardo_248
+  - first:
+      213: -3960668799904832675
+    second: Goblin com dardo_249
+  - first:
+      213: 1553545313024668562
+    second: Goblin com dardo_250
+  - first:
+      213: -6112275217831209520
+    second: Goblin com dardo_251
+  - first:
+      213: 3518779025547348434
+    second: Goblin com dardo_252
+  - first:
+      213: -7070781034509993955
+    second: Goblin com dardo_253
+  - first:
+      213: -5278508108092222328
+    second: Goblin com dardo_254
+  - first:
+      213: -8090258020169570966
+    second: Goblin com dardo_255
+  - first:
+      213: 9072359449530154253
+    second: Goblin com dardo_256
+  - first:
+      213: -5613676169640762228
+    second: Goblin com dardo_257
+  - first:
+      213: -1817267231523029258
+    second: Goblin com dardo_258
+  - first:
+      213: 1295424704814599393
+    second: Goblin com dardo_259
+  - first:
+      213: 5283436822831033284
+    second: Goblin com dardo_260
+  - first:
+      213: 7491609196563146703
+    second: Goblin com dardo_261
+  - first:
+      213: 4492718204626526508
+    second: Goblin com dardo_262
+  - first:
+      213: -1749453758738031668
+    second: Goblin com dardo_263
+  - first:
+      213: -3033328087419493246
+    second: Goblin com dardo_264
+  - first:
+      213: 1540709733949194381
+    second: Goblin com dardo_265
+  - first:
+      213: -4392951342748379777
+    second: Goblin com dardo_266
+  - first:
+      213: -5916863051710619427
+    second: Goblin com dardo_267
+  - first:
+      213: -8162289368178835078
+    second: Goblin com dardo_268
+  - first:
+      213: 8323071151344286067
+    second: Goblin com dardo_269
+  - first:
+      213: 6164614519919549286
+    second: Goblin com dardo_270
+  - first:
+      213: -1791824432179567658
+    second: Goblin com dardo_271
+  - first:
+      213: -7736243094944631665
+    second: Goblin com dardo_272
+  - first:
+      213: -8414572537290542070
+    second: Goblin com dardo_273
+  - first:
+      213: 4024256365655313937
+    second: Goblin com dardo_274
+  - first:
+      213: 6778893279755530467
+    second: Goblin com dardo_275
+  - first:
+      213: -5256929110526742307
+    second: Goblin com dardo_276
+  - first:
+      213: 2102257701337216272
+    second: Goblin com dardo_277
+  - first:
+      213: 7602469596010113760
+    second: Goblin com dardo_278
+  - first:
+      213: -7512864359641850100
+    second: Goblin com dardo_279
+  - first:
+      213: -2515481481349312629
+    second: Goblin com dardo_280
+  - first:
+      213: -7562414372462381256
+    second: Goblin com dardo_281
+  - first:
+      213: -5315283279880524586
+    second: Goblin com dardo_282
+  - first:
+      213: 9023593256262996354
+    second: Goblin com dardo_283
+  - first:
+      213: -2422122826323308584
+    second: Goblin com dardo_284
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin com dardo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1667
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3630629b60156c0800000000000000
+      internalID: -4156533588809784405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1671
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9b4873a732b9f0800000000000000
+      internalID: -454239437173580310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1671
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12781fe6a72ab6d20800000000000000
+      internalID: 3272888200945829665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1669
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aea0de7cc13c0b70800000000000000
+      internalID: 8866516520756358822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1680
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecd0d8c7cb569af0800000000000000
+      internalID: -390023404095218464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1670
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ebbceba0ad6d80800000000000000
+      internalID: -8255765881628661872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1679
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92ecc85cb2e7a70800000000000000
+      internalID: 8826540447163623867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1677
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0d743af8990f710800000000000000
+      internalID: 1725047499481665715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1619
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe46ff313a9e49c0800000000000000
+      internalID: -3941043087585423628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1680
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88dabf105c90e1c0800000000000000
+      internalID: -4476406161662617457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_10
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1670
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df6470b8f28c1e0800000000000000
+      internalID: -2177438145664582318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1711
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e885bc5356b8a500800000000000000
+      internalID: 407776235430971623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1576
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b237cba10fdbf0800000000000000
+      internalID: -297517213090138852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1602
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea8f1e027adea4e0800000000000000
+      internalID: -1968395803716252947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1573
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7a616ebb45f8ff0800000000000000
+      internalID: -31713506372442207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1509
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e93aef13f07560800000000000000
+      internalID: 7309609513621513866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1598
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660cfb731295b8230800000000000000
+      internalID: 3642102722863284326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1562
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24fbc87f91bc3a40800000000000000
+      internalID: 5349345755893855279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1535
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c196c5c7532970800000000000000
+      internalID: 8728917009725769699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1612
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab5dbb668827790800000000000000
+      internalID: -7533809251818030551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1567
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98b6748fc3f6b10800000000000000
+      internalID: 1976865798486723056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1514
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d351cd995e7430800000000000000
+      internalID: 3782559271126028721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1535
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01083123e257dde30800000000000000
+      internalID: 4529905641473671184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_23
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1604
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c119021711d939b70800000000000000
+      internalID: 8904633586479567132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1509
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc78eafa12748cd0800000000000000
+      internalID: -2556793228235342662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1457
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7ed7c0134ee4d0800000000000000
+      internalID: -3103469353859908671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1497
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe89e7887d25220800000000000000
+      internalID: 2473276126619298774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1452
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5979a583a12c8bc0800000000000000
+      internalID: -3779609001064826534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1434
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4b6a034311dd730800000000000000
+      internalID: 4025392557791294666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1488
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa5a0763d0b54c0800000000000000
+      internalID: -4297826891925706180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1427
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c76ac0778b010ce0800000000000000
+      internalID: -1440857729441044541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_31
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1486
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf4d699c0d22650800000000000000
+      internalID: 6206752800707509114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_32
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1410
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe2c15f7e093350800000000000000
+      internalID: 5996840318815891217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1460
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d24887baf3fd8e70800000000000000
+      internalID: 9119213078641656534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1489
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1aae1df17ee3d20800000000000000
+      internalID: 3260297304114635171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1391
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d8992ded09e3430800000000000000
+      internalID: 3764605625218731402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1325
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e933db812414c910800000000000000
+      internalID: 1856631080695839201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1406
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea3cb8bb86e927c0800000000000000
+      internalID: -4095488898342569242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1309
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44752b298076a3010800000000000000
+      internalID: 1169360339774625604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1386
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1d2fe29a9d4c10800000000000000
+      internalID: 2039456162137316995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1340
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5c76968b307b5c0800000000000000
+      internalID: -4199884036922423845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1390
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a72293545d2140800000000000000
+      internalID: 4696502704328385866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1327
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e582eb5dba153c0800000000000000
+      internalID: -4372524828693340518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1378
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43bcf7149e7b7e90800000000000000
+      internalID: -7026883619058830516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1319
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d47232fd48b7fd00800000000000000
+      internalID: 1006475686655980760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1362
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3af532fab8e9190800000000000000
+      internalID: -7953766307560709199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1328
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f39ddd604801740800000000000000
+      internalID: 5120737941346926346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1406
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acc21c64e4dd4c0800000000000000
+      internalID: -4261163606627005825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_48
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1319
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2909676760ed80800000000000000
+      internalID: -8223459225737024895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbb813621c80770800000000000000
+      internalID: 8577317860111269651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1225
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3fc05ac3325f60800000000000000
+      internalID: 8021530830332444646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1210
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f923f02b78833c0800000000000000
+      internalID: -4379601438788903018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1287
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e2d12d86a479950800000000000000
+      internalID: 6455710404921077353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1250
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d990e79e7e5d780800000000000000
+      internalID: -8658759718521955040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1272
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabaf3486ed0d7230800000000000000
+      internalID: 3638079357697633198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1229
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf22e0adf979380800000000000000
+      internalID: -8964520774368822076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1295
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce9b76cf58310a0800000000000000
+      internalID: -6912033683965088526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_57
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1222
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6aa3914f513b190800000000000000
+      internalID: -7947984779239315773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1244
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f91851b6a0f750800000000000000
+      internalID: 6336747956327806593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_59
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1232
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2bd80e0da280fe0800000000000000
+      internalID: -1222680222222142751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_60
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1226
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71842f3fbb6cb90800000000000000
+      internalID: -7221878296025753610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c41b809e2286ede0800000000000000
+      internalID: -1304211905572039480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1183
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed13b692942e420800000000000000
+      internalID: 2657767172342931059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1147
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078c6ab6179a00b0800000000000000
+      internalID: -5761626649394379003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1110
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cc3dbe895cb0dd0800000000000000
+      internalID: -2518702306001433484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1188
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43570514daa83e440800000000000000
+      internalID: 4963963691022185780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1113
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52ecb08cb404ed80800000000000000
+      internalID: -8222441812011457954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1180
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbd03999d2fb650800000000000000
+      internalID: 6250764945433934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_68
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1107
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf684743f2a8d8390800000000000000
+      internalID: -7814437843069794564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1156
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de856172aa999b50800000000000000
+      internalID: 6600476751366033106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_70
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1096
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee04bcd3f5c1e410800000000000000
+      internalID: 1504701401688968928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1163
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3591c47f1bf57ca0800000000000000
+      internalID: -6019629214389398212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_72
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1146
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a824f16a9b4b1d260800000000000000
+      internalID: 7120671195298480778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_73
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1169
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e135d1c265a520800000000000000
+      internalID: 2712682935205620086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_74
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1084
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3817da06e7d68b0800000000000000
+      internalID: -5157327044577492057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_75
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1072
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465b1db9b42b3790800000000000000
+      internalID: -7549399970196269489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_76
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1161
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ef30ec2e6d10910800000000000000
+      internalID: 1801957595532230235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e003c9e3979a4300800000000000000
+      internalID: 237168591928230113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1064
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fc2fb256795580800000000000000
+      internalID: -8837902695971097754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1044
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6011134dec56250800000000000000
+      internalID: 5937379094509455032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 993
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb987f1081b30910800000000000000
+      internalID: 1802479439720258528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1059
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a914d31944032df0800000000000000
+      internalID: -206316446017119834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 998
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa30bd7943cc4c20800000000000000
+      internalID: 3192140956307569393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1055
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702449505929e1d0800000000000000
+      internalID: -3321077825137270670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_84
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1002
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607b707142c63200800000000000000
+      internalID: 159528423134031976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_85
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1075
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c58f479b94afa10800000000000000
+      internalID: 1943947250044001361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_86
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1001
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f0fd4ba860f05a0800000000000000
+      internalID: -6553011739991011429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_87
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1050
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd50540832df2c6b0800000000000000
+      internalID: -5277377484407110180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 993
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15b538a3ca2e240800000000000000
+      internalID: 4819603918551732671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_89
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1012
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94212808b5195e0800000000000000
+      internalID: -1904640559904831032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 928
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bde1b2ec76ae420800000000000000
+      internalID: 2660052665100065687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 971
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413142b3059483f0800000000000000
+      internalID: -899430182459199157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 932
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f9674dc789e4c0800000000000000
+      internalID: -4257722656965921434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_93
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 925
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1dfad173fc680d0800000000000000
+      internalID: -3420819031313100358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_94
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 937
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e1b57426e55c30800000000000000
+      internalID: 4347634059563885412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_95
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 953
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de2dc246a9209d0800000000000000
+      internalID: -2809513462486340199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_96
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 931
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b0e7844c06cf7f0800000000000000
+      internalID: -577480256064189570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_97
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 953
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd9f6dacacc45b10800000000000000
+      internalID: 1969423979083963901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_98
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 912
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74c2031290d94f0800000000000000
+      internalID: -820489518964783155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_99
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 984
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b03a4c2e550a320800000000000000
+      internalID: 2567146220051172198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9662a3f3427a1f60800000000000000
+      internalID: 8005836923780359835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 876
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398cab3324002d960800000000000000
+      internalID: 7625157403427391635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_102
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 888
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52134f5eb9acb1350800000000000000
+      internalID: 5988602900445933861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_103
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 850
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029864e55dd97c7b0800000000000000
+      internalID: -5204017304668042976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_104
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 880
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2d573d344f4250800000000000000
+      internalID: 5931034263982779051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 849
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130f423cfd63cf00800000000000000
+      internalID: 1135872460970722067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 894
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44592eb23939660d0800000000000000
+      internalID: -3429891805890308796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_107
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 872
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41fe1f1693681780800000000000000
+      internalID: -8712103982729858737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_108
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 844
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457fa3857e37ca820800000000000000
+      internalID: 2930844894966249300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_109
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 897
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9117e1725dfe6d0800000000000000
+      internalID: -2958912066167957088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_110
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 854
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5feec050d697b0800000000000000
+      internalID: -5217754072774385835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_111
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 857
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a0718e1fa635140800000000000000
+      internalID: 4707223622745787012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_112
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 789
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727aae3b8dedcdcc0800000000000000
+      internalID: -3684825372783106265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 814
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27d9961e6b33350800000000000000
+      internalID: 5995336608216085246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 772
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a85131abf163280800000000000000
+      internalID: -9064022315991987645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 804
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124cff1222fb1930800000000000000
+      internalID: 4115148912912515602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 771
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb9111e8892d8c0800000000000000
+      internalID: -3975947785075048929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_117
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 812
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4761e7d27ce21a0800000000000000
+      internalID: -6832304586471607068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_118
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 791
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c863a56353b762f00800000000000000
+      internalID: 1091695428159288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_119
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 841
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce985dd4e762ad0800000000000000
+      internalID: -2727353651566089215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_120
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 777
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e110bb6cae4d80800000000000000
+      internalID: -8264478687662841566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_121
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 773
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4b09d6cb3c7c00800000000000000
+      internalID: 899659750798216533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_122
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 783
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73303935c166df110800000000000000
+      internalID: 1296304539599831863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041866e829945e380800000000000000
+      internalID: -8942660591271116480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_124
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 728
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371147eff2a8be2e0800000000000000
+      internalID: -2095429262873718413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_125
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 712
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e570628cb8058f40800000000000000
+      internalID: 5729995706633057769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 723
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60ee8f69629d9a0800000000000000
+      internalID: -6207888181490219308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_127
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 713
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7be4e49ac73a40800000000000000
+      internalID: 5347965823370362579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_128
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 737
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe98c2df99e61540800000000000000
+      internalID: 4978423310750097146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_129
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 784
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5189878cac4960800000000000000
+      internalID: 7587629170339961717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_130
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 715
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bbf35e599b74e90800000000000000
+      internalID: -7041455438923056310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 673
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88031f4e7c1711b40800000000000000
+      internalID: 5409229730802118792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 647
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff08951757d0fca0800000000000000
+      internalID: -5985047135750975502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 707
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e575622763f3f31c0800000000000000
+      internalID: -4521825997780789410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_134
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 651
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c4293aaee763a70800000000000000
+      internalID: 8806365667601304613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_135
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818e547276b3da40800000000000000
+      internalID: 5391853781587493262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_136
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 646
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9c2dcf82112e260800000000000000
+      internalID: 7125276428191582631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_137
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 666
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ae7698d24659de0800000000000000
+      internalID: -1327044368449148274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_138
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 685
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e61ebd708d3ef0800000000000000
+      internalID: -126803936948066661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_139
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 696
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc388aa9544bae0800000000000000
+      internalID: -1534525042472005682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_140
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 649
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6e4dbf4facb410800000000000000
+      internalID: 1494261933393472634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_141
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 701
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d84b0d9b37bc3c0800000000000000
+      internalID: -4338246574133703292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_142
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 634
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf8dd7bf8afbf890800000000000000
+      internalID: -7423064065618112589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_143
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 600
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c0b980b1a72cb0800000000000000
+      internalID: -4888761090891005029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_144
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 690
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a9533db40180c0800000000000000
+      internalID: -4575370535774869616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_145
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 623
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898f32434fee5a90800000000000000
+      internalID: -7323152871904540279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_146
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 695
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d01ac16768eb330800000000000000
+      internalID: 3728565383353929016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b40a424ea7bdd260800000000000000
+      internalID: 7124052144634332339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_148
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 573
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c97b474ce115d910800000000000000
+      internalID: 1861413727493650887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 549
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e405ef8538b4570800000000000000
+      internalID: 8451993543937904236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_150
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 608
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4fdeec78d46ca0800000000000000
+      internalID: -6024452370419724774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_151
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 603
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41976fc5b4351e060800000000000000
+      internalID: 6980952480548288788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_152
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 577
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab6c474e2804b40800000000000000
+      internalID: 5422477869077412593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_153
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 549
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87f1fe9c1a142960800000000000000
+      internalID: 7576209183372081037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_154
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 589
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c935ed491b0180800000000000000
+      internalID: -9148190395724085236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_155
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 607
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cea0b9f2f14af770800000000000000
+      internalID: 8645294946518085315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_156
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 532
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd531c9f5766700800000000000000
+      internalID: 533243321438821853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_157
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 554
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e39e0dbb8d20f40800000000000000
+      internalID: 5693351180125158954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_158
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 574
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd944b948d39d9970800000000000000
+      internalID: 8763323007091624411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_159
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 562
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4d05d00f338a10800000000000000
+      internalID: 1910439939742190642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98533a39c4f25ea90800000000000000
+      internalID: -7285364816260942455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 587
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b089f1d396eabd110800000000000000
+      internalID: 1286813885564688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_162
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 514
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b562a80cab1e20800000000000000
+      internalID: 3322438303200163540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_163
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 512
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0f95264fe1bee0800000000000000
+      internalID: -1246952537246987014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_164
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 515
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc17b3b9f2b088f0800000000000000
+      internalID: -540235169752736558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_165
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 506
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf1b0bdb1f981a0800000000000000
+      internalID: -6806643564778226180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc0d473e7518c600800000000000000
+      internalID: 488664191407557851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_167
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 481
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1810011beb0545c0800000000000000
+      internalID: -4231963170614274022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 457
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be9b9f22ca40f20800000000000000
+      internalID: 3388022085908032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_169
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 429
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e46c581e2a3880800000000000000
+      internalID: -8630535053737925505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 468
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955e5fa11e02a0840800000000000000
+      internalID: 5190997671689971033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_171
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 454
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555c9cb5103f64f0800000000000000
+      internalID: -833394536123443884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_172
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 417
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b4a20a3a242c70800000000000000
+      internalID: 8945321188505466631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_173
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 436
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d541c50ae4072df30800000000000000
+      internalID: 4598861652498846813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_174
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 469
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9692b4c2134310800000000000000
+      internalID: 1387973746179350076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_175
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 439
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62cd41130fab6830800000000000000
+      internalID: 4065535516342076012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_176
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 420
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a0ea485767e420800000000000000
+      internalID: 2659207733896586599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_177
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 491
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8c0a1b198b9d10800000000000000
+      internalID: 2133449597984214641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_178
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 451
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c7cb4e1f0c7b80800000000000000
+      internalID: -8395818982530628299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_179
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 412
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c12bcf4312edb0800000000000000
+      internalID: -4764224222373231652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78ceafc4831f1370800000000000000
+      internalID: 8295370499780692090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 404
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8ade70d5e8985a0800000000000000
+      internalID: -6518522455425963870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_182
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 389
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7064b474198415e0800000000000000
+      internalID: -1939774818539511684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_183
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 355
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0ef8b7e6de2c7a0800000000000000
+      internalID: -6358258665118506795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_184
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4040cf10c1a3c6de0800000000000000
+      internalID: -1338631097269091324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 378
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb81c705e6f73a20800000000000000
+      internalID: 3042171536850127816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_186
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 355
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382b6c8cff855cc0800000000000000
+      internalID: -3722911202101483468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_187
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 410
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a4790543f92ad0800000000000000
+      internalID: -2726380621559192725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_188
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac40ffc0b6919d10800000000000000
+      internalID: 2130649784869997730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_189
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 374
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace89a2567bbf6880800000000000000
+      internalID: -8615461445269090614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_190
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 339
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b011194b427cf0800000000000000
+      internalID: -256059451615693413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_191
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 407
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a44b8e8f3f9ea0800000000000000
+      internalID: -5863898308358659360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_192
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 375
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798ce1d4a95068960800000000000000
+      internalID: 7603771181138626711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_193
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 318
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2f78af0fea22490800000000000000
+      internalID: -7772457656869457204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_194
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ebbfd4f14cde40800000000000000
+      internalID: 5682489349816183044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299012c12b9648a0800000000000000
+      internalID: -6321194457675818705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_196
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 316
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e861003010a68220800000000000000
+      internalID: 2487851835554097379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 305
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068d3996f0e997e0800000000000000
+      internalID: -1758126829773945333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_198
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 317
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceee91a9bbc8abc0800000000000000
+      internalID: -3771540689781854513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_199
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 335
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a5f33c8c4b34bb0800000000000000
+      internalID: -4952916390815245790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_200
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 315
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb45038d0a4ecc30800000000000000
+      internalID: 4381520909371263983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a9e574a1b28d680800000000000000
+      internalID: -8730180485791180179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 285
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e490af28e21e620800000000000000
+      internalID: 2801571583276699191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_203
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 366
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7529c34773ad5b0800000000000000
+      internalID: -5342897035549714463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_204
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 355
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843829d4fe76c1bd0800000000000000
+      internalID: -2658135402559143096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_205
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 297
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9065887a065be0f00800000000000000
+      internalID: 1085003986975086089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_206
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 363
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb24092f9b2f5d30800000000000000
+      internalID: 4422301321689050053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6941d2ba784270800000000000000
+      internalID: 8234966827080969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_208
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 343
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d87372479d10f0800000000000000
+      internalID: -1144592418621304121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_209
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 295
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d478bb24f454a1f10800000000000000
+      internalID: 2241179971294562125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_210
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 290
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9020d392a3e1600800000000000000
+      internalID: 440853762320501183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_211
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 327
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8211acd7d63540800000000000000
+      internalID: 4987410979954528098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_212
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 285
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f988155b1d7b521d0800000000000000
+      internalID: -3376090234326251361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_213
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 249
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0656936d7a7e5b0800000000000000
+      internalID: -5339114294696648450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_214
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 246
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ac8380a85bdc80800000000000000
+      internalID: -8296940442074963191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_215
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 300
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b8e6aa045f0fd90800000000000000
+      internalID: -7065878157258224830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_216
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 243
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e34f5a49d7a2c0800000000000000
+      internalID: -4420325595791759806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_217
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 236
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f45d1327151390800000000000000
+      internalID: -7848341336039818828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_218
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 244
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94a08d21f214ba0800000000000000
+      internalID: -6106547861757212183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_219
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 297
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4de2b47e8ae66f0800000000000000
+      internalID: -689427981588835144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_220
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 266
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320d20ee46551e30800000000000000
+      internalID: 4473576701630939705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_221
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 244
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77a61209747e450800000000000000
+      internalID: 6117937303167596527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_222
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 264
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43f5f458333864e0800000000000000
+      internalID: -1988282918447484085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_223
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 247
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40f17d3acf18cba0800000000000000
+      internalID: -6068565544407011252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_224
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 226
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57add6644790356c0800000000000000
+      internalID: -4155967636130375051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_225
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 198
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fe2b86d4154750800000000000000
+      internalID: 6288455366383434057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_226
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 217
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876c4503d034511c0800000000000000
+      internalID: -4533643725954038152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_227
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 260
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e746f58cea491aa0800000000000000
+      internalID: -6189833833123788829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_228
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 203
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ede243dcb1f9770800000000000000
+      internalID: 8619638779968151167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_229
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 247
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124406a16a7c264b0800000000000000
+      internalID: -5448573082943863775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_230
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 263
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7bb909a92a7cd0800000000000000
+      internalID: -2559687632217211000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_231
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 188
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344763fcadf430210800000000000000
+      internalID: 1297968918810752067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_232
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 211
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684ffa0e7a223b70800000000000000
+      internalID: 8877204536339417184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_233
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 233
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbeffd7938fd64b0800000000000000
+      internalID: -5445423448610313227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_234
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 186
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6ccf5fe373f2940800000000000000
+      internalID: 5273494432228624076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_235
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43879278013f0290800000000000000
+      internalID: -7922059307169381555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_236
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebef73ce1f11690800000000000000
+      internalID: -7633053896562262515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_237
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 185
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafe10e5f39c07d0800000000000000
+      internalID: -2950820971598120236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_238
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 193
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e3bc7854134e640800000000000000
+      internalID: 5108262052045733493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_239
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 178
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dc3db2a4bfdfd90800000000000000
+      internalID: -7062212344665617001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_240
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 174
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec6e0d4f08ace30800000000000000
+      internalID: 4524570564612247189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c38bb99cc8fa60800000000000000
+      internalID: 7708135722892641006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_242
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 113
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fe682537b7fb170800000000000000
+      internalID: 8196405582073622336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_243
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 169
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56d3b83ab957a20800000000000000
+      internalID: 3059522648586151385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_244
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 108
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa75d6e3ec38c7ac0800000000000000
+      internalID: -3856062259102132305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_245
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65561fa28af9ab7d0800000000000000
+      internalID: -2901831465263078058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_246
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 125
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332b8bc52686ffd0800000000000000
+      internalID: -2308510262093995215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_247
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 127
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b337836216eaf20800000000000000
+      internalID: 3435790382513994555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_248
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 149
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a51d6949dd994e80800000000000000
+      internalID: -8193844490458557018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_249
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 142
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5323b406b0e809c0800000000000000
+      internalID: -3960668799904832675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_250
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 132
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293fe4d2b3d4f8510800000000000000
+      internalID: 1553545313024668562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_251
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 127
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d55fb7d216dc2ba0800000000000000
+      internalID: -6112275217831209520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_252
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d948d461e635d030800000000000000
+      internalID: 3518779025547348434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_253
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 105
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1876799c1a8fdd90800000000000000
+      internalID: -7070781034509993955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_254
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 100
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d429a7d8feb6b0800000000000000
+      internalID: -5278508108092222328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_255
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 132
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a986d131a9bf80800000000000000
+      internalID: -8090258020169570966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_256
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 126
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d37e71ade77ed70800000000000000
+      internalID: 9072359449530154253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_257
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 66
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ac7824473812b0800000000000000
+      internalID: -5613676169640762228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_258
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 81
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6febc1bc415c7c6e0800000000000000
+      internalID: -1817267231523029258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_259
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 62
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4db3d7e54af110800000000000000
+      internalID: 1295424704814599393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_260
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 140
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbef0a2cc9825940800000000000000
+      internalID: 5283436822831033284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_261
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 133
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7223d3fda87f760800000000000000
+      internalID: 7491609196563146703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_262
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 74
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e1b65767595e30800000000000000
+      internalID: 4492718204626526508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_263
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 125
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb927f4311b8b7e0800000000000000
+      internalID: -1749453758738031668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_264
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 72
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284652efc2477e5d0800000000000000
+      internalID: -3033328087419493246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_265
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 86
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80470a0753b16510800000000000000
+      internalID: 1540709733949194381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7558e3570a1903c0800000000000000
+      internalID: -4392951342748379777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_267
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a722476413eda0800000000000000
+      internalID: -5916863051710619427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_268
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 119
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c0c7b019b9be80800000000000000
+      internalID: -8162289368178835078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_269
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 49
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797d285d1d718370800000000000000
+      internalID: 8323071151344286067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_270
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 55
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b150d8e3c1d8550800000000000000
+      internalID: 6164614519919549286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_271
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 38
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d322142c292227e0800000000000000
+      internalID: -1791824432179567658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_272
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b1cdb4e753a490800000000000000
+      internalID: -7736243094944631665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_273
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 107
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043a021cde693b80800000000000000
+      internalID: -8414572537290542070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_274
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e4df7d7d709d730800000000000000
+      internalID: 4024256365655313937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_275
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e07c169587731e50800000000000000
+      internalID: 6778893279755530467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_276
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 27
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b4ad83d2ab07b0800000000000000
+      internalID: -5256929110526742307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_277
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 21
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015b88abd38bc2d10800000000000000
+      internalID: 2102257701337216272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_278
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae3e561d5618960800000000000000
+      internalID: 7602469596010113760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_279
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 19
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fdad57ba1fcb790800000000000000
+      internalID: -7512864359641850100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_280
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 12
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fc9199be6371dd0800000000000000
+      internalID: -2515481481349312629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_281
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 7
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83732151238ec0790800000000000000
+      internalID: -7562414372462381256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_282
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 35
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dce52eb4025c36b0800000000000000
+      internalID: -5315283279880524586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_283
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 25
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819a2de14e3a3d70800000000000000
+      internalID: 9023593256262996354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin com dardo_284
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 15
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df42a65f14e26ed0800000000000000
+      internalID: -2422122826323308584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goblin com dardo_0: -4156533588809784405
+      Goblin com dardo_1: -454239437173580310
+      Goblin com dardo_10: -2177438145664582318
+      Goblin com dardo_100: 8005836923780359835
+      Goblin com dardo_101: 7625157403427391635
+      Goblin com dardo_102: 5988602900445933861
+      Goblin com dardo_103: -5204017304668042976
+      Goblin com dardo_104: 5931034263982779051
+      Goblin com dardo_105: 1135872460970722067
+      Goblin com dardo_106: -3429891805890308796
+      Goblin com dardo_107: -8712103982729858737
+      Goblin com dardo_108: 2930844894966249300
+      Goblin com dardo_109: -2958912066167957088
+      Goblin com dardo_11: 407776235430971623
+      Goblin com dardo_110: -5217754072774385835
+      Goblin com dardo_111: 4707223622745787012
+      Goblin com dardo_112: -3684825372783106265
+      Goblin com dardo_113: 5995336608216085246
+      Goblin com dardo_114: -9064022315991987645
+      Goblin com dardo_115: 4115148912912515602
+      Goblin com dardo_116: -3975947785075048929
+      Goblin com dardo_117: -6832304586471607068
+      Goblin com dardo_118: 1091695428159288972
+      Goblin com dardo_119: -2727353651566089215
+      Goblin com dardo_12: -297517213090138852
+      Goblin com dardo_120: -8264478687662841566
+      Goblin com dardo_121: 899659750798216533
+      Goblin com dardo_122: 1296304539599831863
+      Goblin com dardo_123: -8942660591271116480
+      Goblin com dardo_124: -2095429262873718413
+      Goblin com dardo_125: 5729995706633057769
+      Goblin com dardo_126: -6207888181490219308
+      Goblin com dardo_127: 5347965823370362579
+      Goblin com dardo_128: 4978423310750097146
+      Goblin com dardo_129: 7587629170339961717
+      Goblin com dardo_13: -1968395803716252947
+      Goblin com dardo_130: -7041455438923056310
+      Goblin com dardo_131: 5409229730802118792
+      Goblin com dardo_132: -5985047135750975502
+      Goblin com dardo_133: -4521825997780789410
+      Goblin com dardo_134: 8806365667601304613
+      Goblin com dardo_135: 5391853781587493262
+      Goblin com dardo_136: 7125276428191582631
+      Goblin com dardo_137: -1327044368449148274
+      Goblin com dardo_138: -126803936948066661
+      Goblin com dardo_139: -1534525042472005682
+      Goblin com dardo_14: -31713506372442207
+      Goblin com dardo_140: 1494261933393472634
+      Goblin com dardo_141: -4338246574133703292
+      Goblin com dardo_142: -7423064065618112589
+      Goblin com dardo_143: -4888761090891005029
+      Goblin com dardo_144: -4575370535774869616
+      Goblin com dardo_145: -7323152871904540279
+      Goblin com dardo_146: 3728565383353929016
+      Goblin com dardo_147: 7124052144634332339
+      Goblin com dardo_148: 1861413727493650887
+      Goblin com dardo_149: 8451993543937904236
+      Goblin com dardo_15: 7309609513621513866
+      Goblin com dardo_150: -6024452370419724774
+      Goblin com dardo_151: 6980952480548288788
+      Goblin com dardo_152: 5422477869077412593
+      Goblin com dardo_153: 7576209183372081037
+      Goblin com dardo_154: -9148190395724085236
+      Goblin com dardo_155: 8645294946518085315
+      Goblin com dardo_156: 533243321438821853
+      Goblin com dardo_157: 5693351180125158954
+      Goblin com dardo_158: 8763323007091624411
+      Goblin com dardo_159: 1910439939742190642
+      Goblin com dardo_16: 3642102722863284326
+      Goblin com dardo_160: -7285364816260942455
+      Goblin com dardo_161: 1286813885564688395
+      Goblin com dardo_162: 3322438303200163540
+      Goblin com dardo_163: -1246952537246987014
+      Goblin com dardo_164: -540235169752736558
+      Goblin com dardo_165: -6806643564778226180
+      Goblin com dardo_166: 488664191407557851
+      Goblin com dardo_167: -4231963170614274022
+      Goblin com dardo_168: 3388022085908032342
+      Goblin com dardo_169: -8630535053737925505
+      Goblin com dardo_17: 5349345755893855279
+      Goblin com dardo_170: 5190997671689971033
+      Goblin com dardo_171: -833394536123443884
+      Goblin com dardo_172: 8945321188505466631
+      Goblin com dardo_173: 4598861652498846813
+      Goblin com dardo_174: 1387973746179350076
+      Goblin com dardo_175: 4065535516342076012
+      Goblin com dardo_176: 2659207733896586599
+      Goblin com dardo_177: 2133449597984214641
+      Goblin com dardo_178: -8395818982530628299
+      Goblin com dardo_179: -4764224222373231652
+      Goblin com dardo_18: 8728917009725769699
+      Goblin com dardo_180: 8295370499780692090
+      Goblin com dardo_181: -6518522455425963870
+      Goblin com dardo_182: -1939774818539511684
+      Goblin com dardo_183: -6358258665118506795
+      Goblin com dardo_184: -1338631097269091324
+      Goblin com dardo_185: 3042171536850127816
+      Goblin com dardo_186: -3722911202101483468
+      Goblin com dardo_187: -2726380621559192725
+      Goblin com dardo_188: 2130649784869997730
+      Goblin com dardo_189: -8615461445269090614
+      Goblin com dardo_19: -7533809251818030551
+      Goblin com dardo_190: -256059451615693413
+      Goblin com dardo_191: -5863898308358659360
+      Goblin com dardo_192: 7603771181138626711
+      Goblin com dardo_193: -7772457656869457204
+      Goblin com dardo_194: 5682489349816183044
+      Goblin com dardo_195: -6321194457675818705
+      Goblin com dardo_196: 2487851835554097379
+      Goblin com dardo_197: -1758126829773945333
+      Goblin com dardo_198: -3771540689781854513
+      Goblin com dardo_199: -4952916390815245790
+      Goblin com dardo_2: 3272888200945829665
+      Goblin com dardo_20: 1976865798486723056
+      Goblin com dardo_200: 4381520909371263983
+      Goblin com dardo_201: -8730180485791180179
+      Goblin com dardo_202: 2801571583276699191
+      Goblin com dardo_203: -5342897035549714463
+      Goblin com dardo_204: -2658135402559143096
+      Goblin com dardo_205: 1085003986975086089
+      Goblin com dardo_206: 4422301321689050053
+      Goblin com dardo_207: 8234966827080969069
+      Goblin com dardo_208: -1144592418621304121
+      Goblin com dardo_209: 2241179971294562125
+      Goblin com dardo_21: 3782559271126028721
+      Goblin com dardo_210: 440853762320501183
+      Goblin com dardo_211: 4987410979954528098
+      Goblin com dardo_212: -3376090234326251361
+      Goblin com dardo_213: -5339114294696648450
+      Goblin com dardo_214: -8296940442074963191
+      Goblin com dardo_215: -7065878157258224830
+      Goblin com dardo_216: -4420325595791759806
+      Goblin com dardo_217: -7848341336039818828
+      Goblin com dardo_218: -6106547861757212183
+      Goblin com dardo_219: -689427981588835144
+      Goblin com dardo_22: 4529905641473671184
+      Goblin com dardo_220: 4473576701630939705
+      Goblin com dardo_221: 6117937303167596527
+      Goblin com dardo_222: -1988282918447484085
+      Goblin com dardo_223: -6068565544407011252
+      Goblin com dardo_224: -4155967636130375051
+      Goblin com dardo_225: 6288455366383434057
+      Goblin com dardo_226: -4533643725954038152
+      Goblin com dardo_227: -6189833833123788829
+      Goblin com dardo_228: 8619638779968151167
+      Goblin com dardo_229: -5448573082943863775
+      Goblin com dardo_23: 8904633586479567132
+      Goblin com dardo_230: -2559687632217211000
+      Goblin com dardo_231: 1297968918810752067
+      Goblin com dardo_232: 8877204536339417184
+      Goblin com dardo_233: -5445423448610313227
+      Goblin com dardo_234: 5273494432228624076
+      Goblin com dardo_235: -7922059307169381555
+      Goblin com dardo_236: -7633053896562262515
+      Goblin com dardo_237: -2950820971598120236
+      Goblin com dardo_238: 5108262052045733493
+      Goblin com dardo_239: -7062212344665617001
+      Goblin com dardo_24: -2556793228235342662
+      Goblin com dardo_240: 4524570564612247189
+      Goblin com dardo_241: 7708135722892641006
+      Goblin com dardo_242: 8196405582073622336
+      Goblin com dardo_243: 3059522648586151385
+      Goblin com dardo_244: -3856062259102132305
+      Goblin com dardo_245: -2901831465263078058
+      Goblin com dardo_246: -2308510262093995215
+      Goblin com dardo_247: 3435790382513994555
+      Goblin com dardo_248: -8193844490458557018
+      Goblin com dardo_249: -3960668799904832675
+      Goblin com dardo_25: -3103469353859908671
+      Goblin com dardo_250: 1553545313024668562
+      Goblin com dardo_251: -6112275217831209520
+      Goblin com dardo_252: 3518779025547348434
+      Goblin com dardo_253: -7070781034509993955
+      Goblin com dardo_254: -5278508108092222328
+      Goblin com dardo_255: -8090258020169570966
+      Goblin com dardo_256: 9072359449530154253
+      Goblin com dardo_257: -5613676169640762228
+      Goblin com dardo_258: -1817267231523029258
+      Goblin com dardo_259: 1295424704814599393
+      Goblin com dardo_26: 2473276126619298774
+      Goblin com dardo_260: 5283436822831033284
+      Goblin com dardo_261: 7491609196563146703
+      Goblin com dardo_262: 4492718204626526508
+      Goblin com dardo_263: -1749453758738031668
+      Goblin com dardo_264: -3033328087419493246
+      Goblin com dardo_265: 1540709733949194381
+      Goblin com dardo_266: -4392951342748379777
+      Goblin com dardo_267: -5916863051710619427
+      Goblin com dardo_268: -8162289368178835078
+      Goblin com dardo_269: 8323071151344286067
+      Goblin com dardo_27: -3779609001064826534
+      Goblin com dardo_270: 6164614519919549286
+      Goblin com dardo_271: -1791824432179567658
+      Goblin com dardo_272: -7736243094944631665
+      Goblin com dardo_273: -8414572537290542070
+      Goblin com dardo_274: 4024256365655313937
+      Goblin com dardo_275: 6778893279755530467
+      Goblin com dardo_276: -5256929110526742307
+      Goblin com dardo_277: 2102257701337216272
+      Goblin com dardo_278: 7602469596010113760
+      Goblin com dardo_279: -7512864359641850100
+      Goblin com dardo_28: 4025392557791294666
+      Goblin com dardo_280: -2515481481349312629
+      Goblin com dardo_281: -7562414372462381256
+      Goblin com dardo_282: -5315283279880524586
+      Goblin com dardo_283: 9023593256262996354
+      Goblin com dardo_284: -2422122826323308584
+      Goblin com dardo_29: -4297826891925706180
+      Goblin com dardo_3: 8866516520756358822
+      Goblin com dardo_30: -1440857729441044541
+      Goblin com dardo_31: 6206752800707509114
+      Goblin com dardo_32: 5996840318815891217
+      Goblin com dardo_33: 9119213078641656534
+      Goblin com dardo_34: 3260297304114635171
+      Goblin com dardo_35: 3764605625218731402
+      Goblin com dardo_36: 1856631080695839201
+      Goblin com dardo_37: -4095488898342569242
+      Goblin com dardo_38: 1169360339774625604
+      Goblin com dardo_39: 2039456162137316995
+      Goblin com dardo_4: -390023404095218464
+      Goblin com dardo_40: -4199884036922423845
+      Goblin com dardo_41: 4696502704328385866
+      Goblin com dardo_42: -4372524828693340518
+      Goblin com dardo_43: -7026883619058830516
+      Goblin com dardo_44: 1006475686655980760
+      Goblin com dardo_45: -7953766307560709199
+      Goblin com dardo_46: 5120737941346926346
+      Goblin com dardo_47: -4261163606627005825
+      Goblin com dardo_48: -8223459225737024895
+      Goblin com dardo_49: 8577317860111269651
+      Goblin com dardo_5: -8255765881628661872
+      Goblin com dardo_50: 8021530830332444646
+      Goblin com dardo_51: -4379601438788903018
+      Goblin com dardo_52: 6455710404921077353
+      Goblin com dardo_53: -8658759718521955040
+      Goblin com dardo_54: 3638079357697633198
+      Goblin com dardo_55: -8964520774368822076
+      Goblin com dardo_56: -6912033683965088526
+      Goblin com dardo_57: -7947984779239315773
+      Goblin com dardo_58: 6336747956327806593
+      Goblin com dardo_59: -1222680222222142751
+      Goblin com dardo_6: 8826540447163623867
+      Goblin com dardo_60: -7221878296025753610
+      Goblin com dardo_61: -1304211905572039480
+      Goblin com dardo_62: 2657767172342931059
+      Goblin com dardo_63: -5761626649394379003
+      Goblin com dardo_64: -2518702306001433484
+      Goblin com dardo_65: 4963963691022185780
+      Goblin com dardo_66: -8222441812011457954
+      Goblin com dardo_67: 6250764945433934653
+      Goblin com dardo_68: -7814437843069794564
+      Goblin com dardo_69: 6600476751366033106
+      Goblin com dardo_7: 1725047499481665715
+      Goblin com dardo_70: 1504701401688968928
+      Goblin com dardo_71: -6019629214389398212
+      Goblin com dardo_72: 7120671195298480778
+      Goblin com dardo_73: 2712682935205620086
+      Goblin com dardo_74: -5157327044577492057
+      Goblin com dardo_75: -7549399970196269489
+      Goblin com dardo_76: 1801957595532230235
+      Goblin com dardo_77: 237168591928230113
+      Goblin com dardo_78: -8837902695971097754
+      Goblin com dardo_79: 5937379094509455032
+      Goblin com dardo_8: -3941043087585423628
+      Goblin com dardo_80: 1802479439720258528
+      Goblin com dardo_81: -206316446017119834
+      Goblin com dardo_82: 3192140956307569393
+      Goblin com dardo_83: -3321077825137270670
+      Goblin com dardo_84: 159528423134031976
+      Goblin com dardo_85: 1943947250044001361
+      Goblin com dardo_86: -6553011739991011429
+      Goblin com dardo_87: -5277377484407110180
+      Goblin com dardo_88: 4819603918551732671
+      Goblin com dardo_89: -1904640559904831032
+      Goblin com dardo_9: -4476406161662617457
+      Goblin com dardo_90: 2660052665100065687
+      Goblin com dardo_91: -899430182459199157
+      Goblin com dardo_92: -4257722656965921434
+      Goblin com dardo_93: -3420819031313100358
+      Goblin com dardo_94: 4347634059563885412
+      Goblin com dardo_95: -2809513462486340199
+      Goblin com dardo_96: -577480256064189570
+      Goblin com dardo_97: 1969423979083963901
+      Goblin com dardo_98: -820489518964783155
+      Goblin com dardo_99: 2567146220051172198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

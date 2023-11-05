@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 835c714411145f04ca61604286fb776c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -283743224256061436
+    second: Lapide_0
+  - first:
+      213: -8569931266718062837
+    second: Lapide_1
+  - first:
+      213: -683038956412302579
+    second: Lapide_2
+  - first:
+      213: -6682387230815781249
+    second: Lapide_3
+  - first:
+      213: 3175584296822388545
+    second: Lapide_4
+  - first:
+      213: 544268966953882460
+    second: Lapide_5
+  - first:
+      213: -4435041324668641511
+    second: Lapide_6
+  - first:
+      213: -4930167409034902968
+    second: Lapide_7
+  - first:
+      213: -2815537249450797077
+    second: Lapide_8
+  - first:
+      213: -8442860032614943351
+    second: Lapide_9
+  - first:
+      213: -2702996188436627728
+    second: Lapide_10
+  - first:
+      213: 1078911353563725440
+    second: Lapide_11
+  - first:
+      213: -5011283709283497645
+    second: Lapide_12
+  - first:
+      213: 6225173982116459127
+    second: Lapide_13
+  - first:
+      213: 4778332986136798688
+    second: Lapide_14
+  - first:
+      213: 6873658164484957268
+    second: Lapide_15
+  - first:
+      213: -4908211611652544130
+    second: Lapide_16
+  - first:
+      213: 7276296790659888051
+    second: Lapide_17
+  - first:
+      213: 2142041348602202269
+    second: Lapide_18
+  - first:
+      213: 1103764197111070725
+    second: Lapide_19
+  - first:
+      213: 4949001883397255576
+    second: Lapide_20
+  - first:
+      213: -7093893337285997966
+    second: Lapide_21
+  - first:
+      213: 4798993185890443868
+    second: Lapide_22
+  - first:
+      213: -398861938395477837
+    second: Lapide_23
+  - first:
+      213: -988347329290080526
+    second: Lapide_24
+  - first:
+      213: -8824071842921869433
+    second: Lapide_25
+  - first:
+      213: 2677096837061107908
+    second: Lapide_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lapide_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 170
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002bc67a01ff0cf0800000000000000
+      internalID: -283743224256061436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 360
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a1c91bec711980800000000000000
+      internalID: -8569931266718062837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 264
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8a4320bb5586f0800000000000000
+      internalID: -683038956412302579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 272
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7e97e7346343a0800000000000000
+      internalID: -6682387230815781249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 313
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147386ec711f11c20800000000000000
+      internalID: 3175584296822388545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531e85edb1ad8700800000000000000
+      internalID: 544268966953882460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f92feb9619372c0800000000000000
+      internalID: -4435041324668641511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8424445dcd6849bb0800000000000000
+      internalID: -4930167409034902968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 240
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7da9af9c33de8d0800000000000000
+      internalID: -2815537249450797077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b4a3588fe4da80800000000000000
+      internalID: -8442860032614943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fefff6a9470d7ad0800000000000000
+      internalID: -2702996188436627728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e3d45e82019fe00800000000000000
+      internalID: 1078911353563725440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359847f6408547ab0800000000000000
+      internalID: -5011283709283497645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723e0d11c2446650800000000000000
+      internalID: 6225173982116459127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e52731c88c005240800000000000000
+      internalID: 4778332986136798688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 87
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e691bea3246f50800000000000000
+      internalID: 6873658164484957268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79a0054b8782ebb0800000000000000
+      internalID: -4908211611652544130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 99
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f89f21699af460800000000000000
+      internalID: 7276296790659888051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 115
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9802ade14f0abd10800000000000000
+      internalID: 2142041348602202269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 113
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500899470bb515f00800000000000000
+      internalID: 1103764197111070725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f1a4fdf26ea440800000000000000
+      internalID: 4949001883397255576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ace84489d6d8d90800000000000000
+      internalID: -7093893337285997966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52258c50e2799240800000000000000
+      internalID: 4798993185890443868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 36
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b883872e25f67af0800000000000000
+      internalID: -398861938395477837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 62
+        width: 100
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe65fa275fa842f0800000000000000
+      internalID: -988347329290080526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f8d1a29699a8580800000000000000
+      internalID: -8824071842921869433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapide_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 13
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c06952b365f62520800000000000000
+      internalID: 2677096837061107908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lapide_0: -283743224256061436
+      Lapide_1: -8569931266718062837
+      Lapide_10: -2702996188436627728
+      Lapide_11: 1078911353563725440
+      Lapide_12: -5011283709283497645
+      Lapide_13: 6225173982116459127
+      Lapide_14: 4778332986136798688
+      Lapide_15: 6873658164484957268
+      Lapide_16: -4908211611652544130
+      Lapide_17: 7276296790659888051
+      Lapide_18: 2142041348602202269
+      Lapide_19: 1103764197111070725
+      Lapide_2: -683038956412302579
+      Lapide_20: 4949001883397255576
+      Lapide_21: -7093893337285997966
+      Lapide_22: 4798993185890443868
+      Lapide_23: -398861938395477837
+      Lapide_24: -988347329290080526
+      Lapide_25: -8824071842921869433
+      Lapide_26: 2677096837061107908
+      Lapide_3: -6682387230815781249
+      Lapide_4: 3175584296822388545
+      Lapide_5: 544268966953882460
+      Lapide_6: -4435041324668641511
+      Lapide_7: -4930167409034902968
+      Lapide_8: -2815537249450797077
+      Lapide_9: -8442860032614943351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

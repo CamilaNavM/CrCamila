@@ -1,0 +1,1962 @@
+fileFormatVersion: 2
+guid: b47c42435a341c148adb81bb012bae02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5304603269886001734
+    second: Maquina Voadora_0
+  - first:
+      213: 5816156936226390265
+    second: Maquina Voadora_1
+  - first:
+      213: -1138619663437258420
+    second: Maquina Voadora_2
+  - first:
+      213: -7130694837389996713
+    second: Maquina Voadora_3
+  - first:
+      213: -4592153109311062444
+    second: Maquina Voadora_4
+  - first:
+      213: -4049711885051351139
+    second: Maquina Voadora_5
+  - first:
+      213: 5032814837844850350
+    second: Maquina Voadora_6
+  - first:
+      213: 7528215726515759936
+    second: Maquina Voadora_7
+  - first:
+      213: 4737737540660961478
+    second: Maquina Voadora_8
+  - first:
+      213: 6965827765292378396
+    second: Maquina Voadora_9
+  - first:
+      213: -8394743328844983451
+    second: Maquina Voadora_10
+  - first:
+      213: 168395344716379370
+    second: Maquina Voadora_11
+  - first:
+      213: 2535106104777203982
+    second: Maquina Voadora_12
+  - first:
+      213: 8295775845369809412
+    second: Maquina Voadora_13
+  - first:
+      213: 2904456077891958213
+    second: Maquina Voadora_14
+  - first:
+      213: 2048540031290796216
+    second: Maquina Voadora_15
+  - first:
+      213: 6455378880683850293
+    second: Maquina Voadora_16
+  - first:
+      213: 8582442487102853302
+    second: Maquina Voadora_17
+  - first:
+      213: -2786901770534799967
+    second: Maquina Voadora_18
+  - first:
+      213: -595424559983848405
+    second: Maquina Voadora_19
+  - first:
+      213: 2768416129445856409
+    second: Maquina Voadora_20
+  - first:
+      213: -1617470261058667665
+    second: Maquina Voadora_21
+  - first:
+      213: -8490590155312810101
+    second: Maquina Voadora_22
+  - first:
+      213: -7359420246824159733
+    second: Maquina Voadora_23
+  - first:
+      213: 1914623611860942409
+    second: Maquina Voadora_24
+  - first:
+      213: -6351562828552948299
+    second: Maquina Voadora_25
+  - first:
+      213: -545755117906767351
+    second: Maquina Voadora_26
+  - first:
+      213: 4036919876797555594
+    second: Maquina Voadora_27
+  - first:
+      213: 5990483185537490796
+    second: Maquina Voadora_28
+  - first:
+      213: 4495852775698884844
+    second: Maquina Voadora_29
+  - first:
+      213: -3776906920385453197
+    second: Maquina Voadora_30
+  - first:
+      213: 713597325597495255
+    second: Maquina Voadora_31
+  - first:
+      213: -5956592341765992026
+    second: Maquina Voadora_32
+  - first:
+      213: 4434073099622843706
+    second: Maquina Voadora_33
+  - first:
+      213: 8215518544432241790
+    second: Maquina Voadora_34
+  - first:
+      213: 3417759179444192421
+    second: Maquina Voadora_35
+  - first:
+      213: 74774237907168805
+    second: Maquina Voadora_36
+  - first:
+      213: -4490729467601123574
+    second: Maquina Voadora_37
+  - first:
+      213: 3537420571808085437
+    second: Maquina Voadora_38
+  - first:
+      213: -2839427334971202187
+    second: Maquina Voadora_39
+  - first:
+      213: -6999283858239447163
+    second: Maquina Voadora_40
+  - first:
+      213: -957331592602747165
+    second: Maquina Voadora_41
+  - first:
+      213: -5067942021510384370
+    second: Maquina Voadora_42
+  - first:
+      213: 835529531019524982
+    second: Maquina Voadora_43
+  - first:
+      213: 5649307333457227746
+    second: Maquina Voadora_44
+  - first:
+      213: 2004873251816829654
+    second: Maquina Voadora_45
+  - first:
+      213: 2442755064085858103
+    second: Maquina Voadora_46
+  - first:
+      213: -6963672426314530580
+    second: Maquina Voadora_47
+  - first:
+      213: -7519658060404057447
+    second: Maquina Voadora_48
+  - first:
+      213: -5426204656081446607
+    second: Maquina Voadora_49
+  - first:
+      213: 5972207004951885300
+    second: Maquina Voadora_50
+  - first:
+      213: -5202586188183958299
+    second: Maquina Voadora_51
+  - first:
+      213: -1730059005662123015
+    second: Maquina Voadora_52
+  - first:
+      213: 6385691875277978626
+    second: Maquina Voadora_53
+  - first:
+      213: 5989639453303073470
+    second: Maquina Voadora_54
+  - first:
+      213: 8443458142061351950
+    second: Maquina Voadora_55
+  - first:
+      213: 5170232785146235557
+    second: Maquina Voadora_56
+  - first:
+      213: 6086976670432922256
+    second: Maquina Voadora_57
+  - first:
+      213: -2758776685536448243
+    second: Maquina Voadora_58
+  - first:
+      213: -7487399120709973462
+    second: Maquina Voadora_59
+  - first:
+      213: -3080274668290164357
+    second: Maquina Voadora_60
+  - first:
+      213: -4625907003638006501
+    second: Maquina Voadora_61
+  - first:
+      213: -3511373183089466342
+    second: Maquina Voadora_62
+  - first:
+      213: 2544825351291650339
+    second: Maquina Voadora_63
+  - first:
+      213: -1560836792681005574
+    second: Maquina Voadora_64
+  - first:
+      213: -826196279930154716
+    second: Maquina Voadora_65
+  - first:
+      213: 3617942909795508518
+    second: Maquina Voadora_66
+  - first:
+      213: 4313105278195027853
+    second: Maquina Voadora_67
+  - first:
+      213: -4942361288813126487
+    second: Maquina Voadora_68
+  - first:
+      213: 932210807867977610
+    second: Maquina Voadora_69
+  - first:
+      213: 7166175001808686780
+    second: Maquina Voadora_70
+  - first:
+      213: -7624475562696993799
+    second: Maquina Voadora_71
+  - first:
+      213: -8935939611886443402
+    second: Maquina Voadora_72
+  - first:
+      213: -3015703757191685619
+    second: Maquina Voadora_73
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maquina Voadora_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6424ee7a19cbd9940800000000000000
+      internalID: 5304603269886001734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 413
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c2bd0be327b050800000000000000
+      internalID: 5816156936226390265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 414
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412c82e27fc230f0800000000000000
+      internalID: -1138619663437258420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 415
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d48af43deaa0d90800000000000000
+      internalID: -7130694837389996713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 462
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efe4dc3156540c0800000000000000
+      internalID: -4592153109311062444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 472
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f26d03f788cc7c0800000000000000
+      internalID: -4049711885051351139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6be061e6628d540800000000000000
+      internalID: 5032814837844850350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 372
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b2b7b2158997860800000000000000
+      internalID: 7528215726515759936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 322
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0212e0133dfb140800000000000000
+      internalID: 4737737540660961478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192ecc22779ba060800000000000000
+      internalID: 6965827765292378396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 390
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5635d9f6b61ef7b80800000000000000
+      internalID: -8394743328844983451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 364
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae436af7ca2465200800000000000000
+      internalID: 168395344716379370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 359
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016b2b12918e2320800000000000000
+      internalID: 2535106104777203982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a888fad24802370800000000000000
+      internalID: 8295775845369809412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 268
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c579741a63be4820800000000000000
+      internalID: 2904456077891958213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 306
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b861490e40ed6c10800000000000000
+      internalID: 2048540031290796216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a38b1d3ec169950800000000000000
+      internalID: 6455378880683850293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 250
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05cf468f5fa1770800000000000000
+      internalID: 8582442487102853302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 281
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5bd57fa9fe259d0800000000000000
+      internalID: -2786901770534799967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249e937480acb7f0800000000000000
+      internalID: -595424559983848405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 252
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99405125dc36b6620800000000000000
+      internalID: 2768416129445856409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf6d60e579d89e0800000000000000
+      internalID: -1617470261058667665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b6232d3d5b2a80800000000000000
+      internalID: -8490590155312810101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 187
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067a3307461ed990800000000000000
+      internalID: -7359420246824159733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 214
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94efb87e70c129a10800000000000000
+      internalID: 1914623611860942409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 195
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b68b6247bad7a0800000000000000
+      internalID: -6351562828552948299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 218
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902d0de9c961d68f0800000000000000
+      internalID: -545755117906767351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836b3b4d35060830800000000000000
+      internalID: 4036919876797555594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f99e2e7b8722350800000000000000
+      internalID: 5990483185537490796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86cf9874a746e30800000000000000
+      internalID: 4495852775698884844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 117
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e5b4ba2bb59bc0800000000000000
+      internalID: -3776906920385453197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 144
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df48e0acf437e900800000000000000
+      internalID: 713597325597495255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 114
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d93513dee55da0800000000000000
+      internalID: -5956592341765992026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 149
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35822bcdfdf88d30800000000000000
+      internalID: 4434073099622843706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c9486a692630270800000000000000
+      internalID: 8215518544432241790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40a9a9dd15e6f20800000000000000
+      internalID: 3417759179444192421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eaec0f5c6a90100800000000000000
+      internalID: 74774237907168805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 97
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0781459759bda1c0800000000000000
+      internalID: -4490729467601123574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 78
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b7cb9441771130800000000000000
+      internalID: 3537420571808085437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e18df1e35898d0800000000000000
+      internalID: -2839427334971202187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 51
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f138b2a6c8dde90800000000000000
+      internalID: -6999283858239447163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 78
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee77aa1dffd6b2f0800000000000000
+      internalID: -957331592602747165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053991259d0ba9b0800000000000000
+      internalID: -5067942021510384370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b74cf7ea5689b00800000000000000
+      internalID: 835529531019524982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef2ab5a61f566e40800000000000000
+      internalID: 5649307333457227746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 42
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2793aa99db2db10800000000000000
+      internalID: 2004873251816829654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 40
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737cf1cd9c866e120800000000000000
+      internalID: 2442755064085858103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 46
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce00759c2d01c5f90800000000000000
+      internalID: -6963672426314530580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_48
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 68
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a963db5dec4a790800000000000000
+      internalID: -7519658060404057447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139d1b35d9f32b4b0800000000000000
+      internalID: -5426204656081446607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b14ff0aa81e250800000000000000
+      internalID: 5972207004951885300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec01f32d63bcc7b0800000000000000
+      internalID: -5202586188183958299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2b0720889df7e0800000000000000
+      internalID: -1730059005662123015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cba0f7de88e9850800000000000000
+      internalID: 6385691875277978626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6bca29597f1350800000000000000
+      internalID: 5989639453303073470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 14
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e045271e1703d2570800000000000000
+      internalID: 8443458142061351950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa48b4335b50c740800000000000000
+      internalID: 5170232785146235557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 16
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a8e351809497450800000000000000
+      internalID: 6086976670432922256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 28
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0178fb983bd6b9d0800000000000000
+      internalID: -2758776685536448243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 21
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a828e6b2a671890800000000000000
+      internalID: -7487399120709973462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 26
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793ee9528aa045d0800000000000000
+      internalID: -3080274668290164357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3a2cd61a7dcfb0800000000000000
+      internalID: -4625907003638006501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14ae1ca1b8154fc0800000000000000
+      internalID: -3511373183089466342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321c5278c29015320800000000000000
+      internalID: 2544825351291650339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd73ebe43bc65ae0800000000000000
+      internalID: -1560836792681005574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421930c5cd2c884f0800000000000000
+      internalID: -826196279930154716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621210468e3853230800000000000000
+      internalID: 3617942909795508518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f4da1166a3bdb30800000000000000
+      internalID: 4313105278195027853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd6a4f794396bb0800000000000000
+      internalID: -4942361288813126487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f20ca6ac0efec00800000000000000
+      internalID: 932210807867977610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe4715323e537360800000000000000
+      internalID: 7166175001808686780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f39cc63fdb603690800000000000000
+      internalID: -7624475562696993799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674aa23844a2df380800000000000000
+      internalID: -8935939611886443402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maquina Voadora_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a57c429611626d0800000000000000
+      internalID: -3015703757191685619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Maquina Voadora_0: 5304603269886001734
+      Maquina Voadora_1: 5816156936226390265
+      Maquina Voadora_10: -8394743328844983451
+      Maquina Voadora_11: 168395344716379370
+      Maquina Voadora_12: 2535106104777203982
+      Maquina Voadora_13: 8295775845369809412
+      Maquina Voadora_14: 2904456077891958213
+      Maquina Voadora_15: 2048540031290796216
+      Maquina Voadora_16: 6455378880683850293
+      Maquina Voadora_17: 8582442487102853302
+      Maquina Voadora_18: -2786901770534799967
+      Maquina Voadora_19: -595424559983848405
+      Maquina Voadora_2: -1138619663437258420
+      Maquina Voadora_20: 2768416129445856409
+      Maquina Voadora_21: -1617470261058667665
+      Maquina Voadora_22: -8490590155312810101
+      Maquina Voadora_23: -7359420246824159733
+      Maquina Voadora_24: 1914623611860942409
+      Maquina Voadora_25: -6351562828552948299
+      Maquina Voadora_26: -545755117906767351
+      Maquina Voadora_27: 4036919876797555594
+      Maquina Voadora_28: 5990483185537490796
+      Maquina Voadora_29: 4495852775698884844
+      Maquina Voadora_3: -7130694837389996713
+      Maquina Voadora_30: -3776906920385453197
+      Maquina Voadora_31: 713597325597495255
+      Maquina Voadora_32: -5956592341765992026
+      Maquina Voadora_33: 4434073099622843706
+      Maquina Voadora_34: 8215518544432241790
+      Maquina Voadora_35: 3417759179444192421
+      Maquina Voadora_36: 74774237907168805
+      Maquina Voadora_37: -4490729467601123574
+      Maquina Voadora_38: 3537420571808085437
+      Maquina Voadora_39: -2839427334971202187
+      Maquina Voadora_4: -4592153109311062444
+      Maquina Voadora_40: -6999283858239447163
+      Maquina Voadora_41: -957331592602747165
+      Maquina Voadora_42: -5067942021510384370
+      Maquina Voadora_43: 835529531019524982
+      Maquina Voadora_44: 5649307333457227746
+      Maquina Voadora_45: 2004873251816829654
+      Maquina Voadora_46: 2442755064085858103
+      Maquina Voadora_47: -6963672426314530580
+      Maquina Voadora_48: -7519658060404057447
+      Maquina Voadora_49: -5426204656081446607
+      Maquina Voadora_5: -4049711885051351139
+      Maquina Voadora_50: 5972207004951885300
+      Maquina Voadora_51: -5202586188183958299
+      Maquina Voadora_52: -1730059005662123015
+      Maquina Voadora_53: 6385691875277978626
+      Maquina Voadora_54: 5989639453303073470
+      Maquina Voadora_55: 8443458142061351950
+      Maquina Voadora_56: 5170232785146235557
+      Maquina Voadora_57: 6086976670432922256
+      Maquina Voadora_58: -2758776685536448243
+      Maquina Voadora_59: -7487399120709973462
+      Maquina Voadora_6: 5032814837844850350
+      Maquina Voadora_60: -3080274668290164357
+      Maquina Voadora_61: -4625907003638006501
+      Maquina Voadora_62: -3511373183089466342
+      Maquina Voadora_63: 2544825351291650339
+      Maquina Voadora_64: -1560836792681005574
+      Maquina Voadora_65: -826196279930154716
+      Maquina Voadora_66: 3617942909795508518
+      Maquina Voadora_67: 4313105278195027853
+      Maquina Voadora_68: -4942361288813126487
+      Maquina Voadora_69: 932210807867977610
+      Maquina Voadora_7: 7528215726515759936
+      Maquina Voadora_70: 7166175001808686780
+      Maquina Voadora_71: -7624475562696993799
+      Maquina Voadora_72: -8935939611886443402
+      Maquina Voadora_73: -3015703757191685619
+      Maquina Voadora_8: 4737737540660961478
+      Maquina Voadora_9: 6965827765292378396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

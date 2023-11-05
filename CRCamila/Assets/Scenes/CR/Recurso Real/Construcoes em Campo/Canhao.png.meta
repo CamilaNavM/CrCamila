@@ -1,0 +1,1562 @@
+fileFormatVersion: 2
+guid: 957937f45a2d31e4485ac399a9f5160b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5384932425138016126
+    second: Canhao_0
+  - first:
+      213: -5785994983360944768
+    second: Canhao_1
+  - first:
+      213: 1004576942309581185
+    second: Canhao_2
+  - first:
+      213: -6167719714336214131
+    second: Canhao_3
+  - first:
+      213: 4351231074753474258
+    second: Canhao_4
+  - first:
+      213: 1924798350991441374
+    second: Canhao_5
+  - first:
+      213: 5823995315951231854
+    second: Canhao_6
+  - first:
+      213: 6935753611692838656
+    second: Canhao_7
+  - first:
+      213: -8313045566394158947
+    second: Canhao_8
+  - first:
+      213: -935145731453579564
+    second: Canhao_9
+  - first:
+      213: 834954178555070146
+    second: Canhao_10
+  - first:
+      213: 4361034763667654338
+    second: Canhao_11
+  - first:
+      213: 5469754412977356978
+    second: Canhao_12
+  - first:
+      213: 1764873775113485103
+    second: Canhao_13
+  - first:
+      213: -7158801180977620658
+    second: Canhao_14
+  - first:
+      213: 9100171842224940597
+    second: Canhao_15
+  - first:
+      213: 2756078797162683144
+    second: Canhao_16
+  - first:
+      213: 2783260007764110803
+    second: Canhao_17
+  - first:
+      213: -1996697635068804175
+    second: Canhao_18
+  - first:
+      213: -3445944391635820750
+    second: Canhao_19
+  - first:
+      213: -3824133704044091168
+    second: Canhao_20
+  - first:
+      213: -7845131890470782511
+    second: Canhao_21
+  - first:
+      213: -634457677870541420
+    second: Canhao_22
+  - first:
+      213: -4093590803681043926
+    second: Canhao_23
+  - first:
+      213: -9122809608717852071
+    second: Canhao_24
+  - first:
+      213: 6164014358241499781
+    second: Canhao_25
+  - first:
+      213: -6886034057818747699
+    second: Canhao_26
+  - first:
+      213: -3923685350916208833
+    second: Canhao_27
+  - first:
+      213: -5370983071652370469
+    second: Canhao_28
+  - first:
+      213: 1484262904765445872
+    second: Canhao_29
+  - first:
+      213: -6902996509604604879
+    second: Canhao_30
+  - first:
+      213: 3081116900201021037
+    second: Canhao_31
+  - first:
+      213: 2752985957831692410
+    second: Canhao_32
+  - first:
+      213: -8797560727679620222
+    second: Canhao_33
+  - first:
+      213: -5218262779854839476
+    second: Canhao_34
+  - first:
+      213: -7278904280556628709
+    second: Canhao_35
+  - first:
+      213: -2107571712694079323
+    second: Canhao_36
+  - first:
+      213: -1774400643545606409
+    second: Canhao_37
+  - first:
+      213: 3389003777666453374
+    second: Canhao_38
+  - first:
+      213: -1733903147148887298
+    second: Canhao_39
+  - first:
+      213: -2701625253479334641
+    second: Canhao_40
+  - first:
+      213: -66392832699571888
+    second: Canhao_41
+  - first:
+      213: 7054863756380757229
+    second: Canhao_42
+  - first:
+      213: -7555393656723802686
+    second: Canhao_43
+  - first:
+      213: -935194461763103525
+    second: Canhao_44
+  - first:
+      213: -6582359220868160751
+    second: Canhao_45
+  - first:
+      213: -8834946769594164367
+    second: Canhao_46
+  - first:
+      213: 8896998460718943202
+    second: Canhao_47
+  - first:
+      213: 2571967618130080501
+    second: Canhao_48
+  - first:
+      213: 2249921359809384070
+    second: Canhao_49
+  - first:
+      213: 8719675667483285443
+    second: Canhao_50
+  - first:
+      213: -3176699649062744326
+    second: Canhao_51
+  - first:
+      213: -7854855459434969259
+    second: Canhao_52
+  - first:
+      213: 1676399448450053715
+    second: Canhao_53
+  - first:
+      213: -3307722040379403043
+    second: Canhao_54
+  - first:
+      213: -564119192252783902
+    second: Canhao_55
+  - first:
+      213: 6192565786694166320
+    second: Canhao_56
+  - first:
+      213: -186740671885733702
+    second: Canhao_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Canhao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807a2c6d70e445b0800000000000000
+      internalID: -5384932425138016126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 433
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0852498d73404bfa0800000000000000
+      internalID: -5785994983360944768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 434
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18129e31869f0fd00800000000000000
+      internalID: 1004576942309581185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 412
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f0d8099bd76aa0800000000000000
+      internalID: -6167719714336214131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6252db9da26c30800000000000000
+      internalID: 4351231074753474258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 364
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3a17f6e146ba10800000000000000
+      internalID: 1924798350991441374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 364
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63efcc02ecf2d050800000000000000
+      internalID: 5823995315951231854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 323
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f8592a92fb04060800000000000000
+      internalID: 6935753611692838656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b07d0a1122ac80800000000000000
+      internalID: -8313045566394158947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 308
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de8c7f69e1b503f0800000000000000
+      internalID: -935145731453579564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 300
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c080d66a569b00800000000000000
+      internalID: 834954178555070146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64a850302858c30800000000000000
+      internalID: 4361034763667654338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0042a98a878eb40800000000000000
+      internalID: 5469754412977356978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 234
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bba0709571e7810800000000000000
+      internalID: 1764873775113485103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 222
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e499e2e3144d6ac90800000000000000
+      internalID: -7158801180977620658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 244
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53664d2631e4a4e70800000000000000
+      internalID: 9100171842224940597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 221
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b1edd401f8f3620800000000000000
+      internalID: 2756078797162683144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda4501b3020a620800000000000000
+      internalID: 2783260007764110803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 213
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38cd1741e4a44e0800000000000000
+      internalID: -1996697635068804175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1ccc45db8d20d0800000000000000
+      internalID: -3445944391635820750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86ad448a2fdeac0800000000000000
+      internalID: -3824133704044091168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 177
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d976646c1e702390800000000000000
+      internalID: -7845131890470782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 166
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d18d7a14f137f0800000000000000
+      internalID: -634457677870541420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a19c25ad4a037c0800000000000000
+      internalID: -4093590803681043926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 167
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522adedef4456180800000000000000
+      internalID: -9122809608717852071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 170
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5465866afa8550800000000000000
+      internalID: 6164014358241499781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 174
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc8781284ef60a0800000000000000
+      internalID: -6886034057818747699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 165
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374c3046f44c89c0800000000000000
+      internalID: -3923685350916208833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 161
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7268f5a5f6675b0800000000000000
+      internalID: -5370983071652370469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f675d77f39299410800000000000000
+      internalID: 1484262904765445872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13491478f31a330a0800000000000000
+      internalID: -6902996509604604879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 111
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e3feb0f7352ca20800000000000000
+      internalID: 3081116900201021037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7052388422943620800000000000000
+      internalID: 2752985957831692410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28baab03129c8e580800000000000000
+      internalID: -8797560727679620222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 109
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412c1636a10597b0800000000000000
+      internalID: -5218262779854839476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 113
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151a534f132cfa90800000000000000
+      internalID: -7278904280556628709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 137
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0353691b660c2e0800000000000000
+      internalID: -2107571712694079323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 113
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65d3014001067e0800000000000000
+      internalID: -1774400643545606409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f0446eaf8280f20800000000000000
+      internalID: 3389003777666453374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa32473640ffe7e0800000000000000
+      internalID: -1733903147148887298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 55
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db3225526e18ad0800000000000000
+      internalID: -2701625253479334641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 66
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0516f470210241ff0800000000000000
+      internalID: -66392832699571888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 56
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5ad94539e7e160800000000000000
+      internalID: 7054863756380757229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5fcb8df79d52790800000000000000
+      internalID: -7555393656723802686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_44
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 65
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd492b687958503f0800000000000000
+      internalID: -935194461763103525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 65
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113e228d923c6a4a0800000000000000
+      internalID: -6582359220868160751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bdadcf8b6f36580800000000000000
+      internalID: -8834946769594164367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb895236fc787b70800000000000000
+      internalID: 8896998460718943202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 40
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2737cfbe671b320800000000000000
+      internalID: 2571967618130080501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 53
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e80006e83593f10800000000000000
+      internalID: 2249921359809384070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c755fc12d2820970800000000000000
+      internalID: 8719675667483285443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afec18300881ae3d0800000000000000
+      internalID: -3176699649062744326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 23
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55747529392fdf290800000000000000
+      internalID: -7854855459434969259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_53
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 29
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b68a9a64c34710800000000000000
+      internalID: 1676399448450053715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4947f445c9812d0800000000000000
+      internalID: -3307722040379403043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2eace5598db28f0800000000000000
+      internalID: -564119192252783902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a42cf5c960f550800000000000000
+      internalID: 6192565786694166320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canhao_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0122b2950986df0800000000000000
+      internalID: -186740671885733702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Canhao_0: -5384932425138016126
+      Canhao_1: -5785994983360944768
+      Canhao_10: 834954178555070146
+      Canhao_11: 4361034763667654338
+      Canhao_12: 5469754412977356978
+      Canhao_13: 1764873775113485103
+      Canhao_14: -7158801180977620658
+      Canhao_15: 9100171842224940597
+      Canhao_16: 2756078797162683144
+      Canhao_17: 2783260007764110803
+      Canhao_18: -1996697635068804175
+      Canhao_19: -3445944391635820750
+      Canhao_2: 1004576942309581185
+      Canhao_20: -3824133704044091168
+      Canhao_21: -7845131890470782511
+      Canhao_22: -634457677870541420
+      Canhao_23: -4093590803681043926
+      Canhao_24: -9122809608717852071
+      Canhao_25: 6164014358241499781
+      Canhao_26: -6886034057818747699
+      Canhao_27: -3923685350916208833
+      Canhao_28: -5370983071652370469
+      Canhao_29: 1484262904765445872
+      Canhao_3: -6167719714336214131
+      Canhao_30: -6902996509604604879
+      Canhao_31: 3081116900201021037
+      Canhao_32: 2752985957831692410
+      Canhao_33: -8797560727679620222
+      Canhao_34: -5218262779854839476
+      Canhao_35: -7278904280556628709
+      Canhao_36: -2107571712694079323
+      Canhao_37: -1774400643545606409
+      Canhao_38: 3389003777666453374
+      Canhao_39: -1733903147148887298
+      Canhao_4: 4351231074753474258
+      Canhao_40: -2701625253479334641
+      Canhao_41: -66392832699571888
+      Canhao_42: 7054863756380757229
+      Canhao_43: -7555393656723802686
+      Canhao_44: -935194461763103525
+      Canhao_45: -6582359220868160751
+      Canhao_46: -8834946769594164367
+      Canhao_47: 8896998460718943202
+      Canhao_48: 2571967618130080501
+      Canhao_49: 2249921359809384070
+      Canhao_5: 1924798350991441374
+      Canhao_50: 8719675667483285443
+      Canhao_51: -3176699649062744326
+      Canhao_52: -7854855459434969259
+      Canhao_53: 1676399448450053715
+      Canhao_54: -3307722040379403043
+      Canhao_55: -564119192252783902
+      Canhao_56: 6192565786694166320
+      Canhao_57: -186740671885733702
+      Canhao_6: 5823995315951231854
+      Canhao_7: 6935753611692838656
+      Canhao_8: -8313045566394158947
+      Canhao_9: -935145731453579564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
