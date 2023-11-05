@@ -8,7 +8,7 @@ public class FileSystem : MonoBehaviour
 {
     public GameObject obj;
     public bool isSavingPosition = false;
-    
+    public GameObject obj2;
     void CreateFile()
     {
 
@@ -43,6 +43,7 @@ public class FileSystem : MonoBehaviour
             // 1) Acceder al path del archivo
             string path = Application.dataPath + "/Resources/" + _fileName + _extension;
             // 2) Si el archivo existe, dame su info
+            string data = " ";
             if (File.Exists(path)) 
             {
               data = File.ReadAllText(path);
@@ -52,12 +53,27 @@ public class FileSystem : MonoBehaviour
         }
     }
 
-    private void Start()
+    void Start()
     {
-        CreateFile();
+        //CreateFile();
+        string data = ReadFile("example", ".txt");
+        Debug.Log("Informacion del archivo: /n" + data);
+
+        // Guarda la posicion en un nuevo archivo, 
+        SaveObjectPosition(obj.transform);
+        
+
+        // Lee la info de ese archivo 
+        int v;
+        Vector3 pos;
+        obj2.transform.transform.position = obj.transform.position;
+
+        // asigna esos datos en un nuevo objeto 
+        
+
     }
 
-    private void Update()
+    void Update()
     {
         if (isSavingPosition) 
         {
