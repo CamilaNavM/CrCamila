@@ -22,7 +22,7 @@ public class FileSystem : MonoBehaviour
         // 3) almacenar dentro del archivo
         string data = "Login Date: " + System.DateTime.Now + "\n";
 
-        File.AppendAllText(path, data);
+        File.AppendAllText(path, _data);
     }
 
     void SaveObjectPosition(Transform _objTransform) 
@@ -102,8 +102,31 @@ public class FileSystem : MonoBehaviour
         }
           else
         {
+            
             Debug.LogWarning("File System: string JSONData is empty, please check saved object" +  _fileName);
         }
+    }
+
+    object LoadFromJSON(string _fileName, object _data) 
+    {
+        object data = null;
+        string JSONData = ReadFile(_fileName, ".json");
+        if (JSONData.Length != 0)
+        {
+            Debug.Log("DATA FROM FILE: " + JSONData);
+
+
+            JsonUtility.FromJsonOverwrite(JSONData, data);
+        }
+        else
+        {
+
+            Debug.LogWarning("File System: string JSONData from LoadFromJSON, please check string");
+        }
+        
+
+        return data;
+
     }
      void Start()
     {
