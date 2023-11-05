@@ -7,7 +7,7 @@ using TMPro;
 public class FileSystem : MonoBehaviour
 {
     public GameObject obj;
-
+    public GameObject obj2;
     public bool isSavingPosition = false;
      void CreateFile()
     {
@@ -29,7 +29,7 @@ public class FileSystem : MonoBehaviour
 
     void SaveObjectPosition(Transform _objTransform) 
     {
-        string fileName = "Position";
+        string fileName = "Position2";
         string extension = ".txt";
         string path = Application.dataPath + "/resources/" + fileName + extension;
         // 2) Crear un archivo, si no existe otro con el mismo nombre
@@ -65,11 +65,51 @@ public class FileSystem : MonoBehaviour
         return data;
        
     }
+
+
+    Vector3 ParseStringToVector3(string input)
+    {
+        Vector3 result = Vector3.zero;
+        string[] components = input.Split(',');
+
+        if (components.Length == 3)
+        {
+            if (float.TryParse(components[0], out float x) &&
+                float.TryParse(components[1],out float y)&&
+                float.TryParse(components[2],out float z))
+            {
+                result = new Vector3(x, y, z);
+            }
+            else
+            {
+                Debug.LogError("No se pudieron convertir todos los componentes en números");
+            }
+            
+        }
+        else
+        {
+            Debug.LogWarning("El formato del string no es válido");
+        }
+        return result;
+    }
      void Start()
     {
         //CreateFile();
+        SaveObjectPosition(obj.transform);
         string data = ReadFile("example", ".txt");
         Debug.Log("Informacion del archivo: \n" + data);
+        // 1) Guarda la posicion en un nuevo archivo
+        
+
+        // 2) Lee la info de ese archivo 
+        
+       // 3) Asigna esos datos en un nuevo objeto
+        
+        obj2.transform.position = ParseStringToVector3(data);
+
+
+
+        
     }
 
      void Update()
