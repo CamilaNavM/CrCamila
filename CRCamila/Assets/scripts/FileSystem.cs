@@ -6,80 +6,32 @@ using TMPro;
 
 public class FileSystem : MonoBehaviour
 {
-    public GameObject obj;
-    public bool isSavingPosition = false;
-    public GameObject obj2;
-    void CreateFile()
+     void CreateFile()
     {
-
-    }
-
-    void SaveObjectPosition(Transform _objTransform)
-
-    {
-        // 1) Acceder al path del archivo 
-        string filename = "positions";
+        //1) Acceder al path del archivo 
+        string fileName = "example";
         string extension = ".txt";
-        string path = Application.dataPath + "/Resources/" +
-          filename + extension;
-        // 2) Craer un archivo si no existe otro con el mismo nombre
+        string path = Application.dataPath + "/resources/" + fileName + extension;
+        // 2) Crear un archivo, si no existe otro con el mismo nombre
         if (!File.Exists(path))
         {
-            // 3) Escribir dentro del archivo 
-
-            File.WriteAllText(path, "Hola");
+            File.WriteAllText(path, "hola");
+            
         }
-        // 4) Almacenar el contenido del archivo 
-        string data = "Position: " + "(" 
-            + _objTransform.position.x.ToString() + ","
-            + _objTransform.position.y.ToString() + ","
-            + _objTransform.position.z.ToString() + ","
-            + "/n";
-
-        // 5) Agregar la informacion del archivo
+        // 3) almacenar dentro del archivo
+        string data = "Login Date: " + System.DateTime.Now + "/n";
+        //4) agregar informacion al archivo 
         File.AppendAllText(path, data);
 
-        string ReadFile(string _fileName, string _extension)
-        {
-            // 1) Acceder al path del archivo
-            string path = Application.dataPath + "/Resources/" + _fileName + _extension;
-            // 2) Si el archivo existe, dame su info
-            string data = " ";
-            if (File.Exists(path)) 
-            {
-              data = File.ReadAllText(path);
-            }
-            return data;
-        
-        }
     }
 
-    void Start()
+    private void Start()
     {
-        //CreateFile();
-        string data = ReadFile("example", ".txt");
-        Debug.Log("Informacion del archivo: /n" + data);
-
-        // Guarda la posicion en un nuevo archivo, 
-        SaveObjectPosition(obj.transform);
-        
-
-        // Lee la info de ese archivo 
-        int v;
-        Vector3 pos;
-        obj2.transform.position = pos;
-
-        // asigna esos datos en un nuevo objeto 
-        
-
+        CreateFile();
     }
 
-    void Update()
+    private void Update()
     {
-        if (isSavingPosition) 
-        {
-            SaveObjectPosition(obj.transform);
-        }
         
     }
 }
