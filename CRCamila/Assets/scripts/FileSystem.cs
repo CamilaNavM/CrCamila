@@ -2,13 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using TMPro;
 
 public class FileSystem : MonoBehaviour
 {
     public GameObject obj;
     public bool isSavingPosition = false;
-    v
     
+    void CreateFile()
+    {
+
+    }
 
     void SaveObjectPosition(Transform _objTransform)
 
@@ -33,14 +37,25 @@ public class FileSystem : MonoBehaviour
 
         // 5) Agregar la informacion del archivo
         File.AppendAllText(path, data);
+
+        string ReadFile(string _fileName, string _extension)
+        {
+            // 1) Acceder al path del archivo
+            string path = Application.dataPath + "/Resources/" + _fileName + _extension;
+            // 2) Si el archivo existe, dame su info
+            if (File.Exists(path)) 
+            {
+              data = File.ReadAllText(path);
+            }
+            return data;
+        
+        }
     }
 
-   // private void Start()
-    /// <summary>
-    /// {
-    /// </summary>
-      //  CreateFile();
-    // }
+    private void Start()
+    {
+        CreateFile();
+    }
 
     private void Update()
     {
