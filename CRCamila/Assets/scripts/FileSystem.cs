@@ -9,7 +9,9 @@ public class FileSystem : MonoBehaviour
     public GameObject obj;
     public GameObject obj2;
     public bool isSavingPosition = false;
-     void CreateFile(string _fileName, string _extension, string _data)
+
+    public PlayerData p;
+    void CreateFile(string _fileName, string _extension, string _data)
     {
         //1) Acceder al path del archivo 
         string path = Application.dataPath + "/resources/" + _fileName + _extension;
@@ -103,19 +105,17 @@ public class FileSystem : MonoBehaviour
           else
         {
             
-            Debug.LogWarning("File System: string JSONData is empty, please check saved object" +  _fileName);
+            Debug.LogWarning("File System: string JSONData is empty, please check saved object");
         }
     }
 
-    object LoadFromJSON(string _fileName, object _data) 
+    object LoadFromJSON(string _fileName) 
     {
         object data = null;
         string JSONData = ReadFile(_fileName, ".json");
         if (JSONData.Length != 0)
         {
             Debug.Log("DATA FROM FILE: " + JSONData);
-
-
             JsonUtility.FromJsonOverwrite(JSONData, data);
         }
         else
@@ -130,8 +130,9 @@ public class FileSystem : MonoBehaviour
     }
      void Start()
     {
-        PlayerData p = new PlayerData("Camila", "Sword", 123456);
-        SaveToJSON(p.Name, p);
+        
+        p = (PlayerData)LoadFromJSON("Camila");
+        //SaveToJSON(p.Name, p);
         //CreateFile();
         SaveObjectPosition(obj.transform);
         string data = ReadFile("example", ".txt");
