@@ -23,14 +23,15 @@ public class FileSystem : MonoBehaviour
         string path = Application.dataPath + "/Resources/" +
           filename + extension;
         // 2) Craer un archivo si no existe otro con el mismo nombre
-        if (File.Exists(path))
+        if (!File.Exists(path))
         {
             // 3) Escribir dentro del archivo 
 
             File.WriteAllText(path, "Hola");
         }
         // 4) Almacenar el contenido del archivo 
-        string data = "Position: " + "(" + _objTransform.position.x.ToString() + ","
+        string data = "Position: " + "(" 
+            + _objTransform.position.x.ToString() + ","
             + _objTransform.position.y.ToString() + ","
             + _objTransform.position.z.ToString() + ","
             + "/n";
@@ -66,7 +67,7 @@ public class FileSystem : MonoBehaviour
         // Lee la info de ese archivo 
         int v;
         Vector3 pos;
-        obj2.transform.transform.position = obj.transform.position;
+        obj2.transform.position = pos;
 
         // asigna esos datos en un nuevo objeto 
         
