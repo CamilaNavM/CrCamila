@@ -9,12 +9,10 @@ public class FileSystem : MonoBehaviour
     public GameObject obj;
     public GameObject obj2;
     public bool isSavingPosition = false;
-     void CreateFile()
+     void CreateFile(string _fileName, string _extension, string _data)
     {
         //1) Acceder al path del archivo 
-        string fileName = "Example";
-        string extension = ".txt";
-        string path = Application.dataPath + "/resources/" + fileName + extension;
+        string path = Application.dataPath + "/resources/" + _fileName + _extension;
         // 2) Crear un archivo, si no existe otro con el mismo nombre
         if (!File.Exists(path))
         {
@@ -92,8 +90,25 @@ public class FileSystem : MonoBehaviour
         }
         return result;
     }
+
+    public void SaveToJSON(string _fileName, object _data)
+    {
+        string JSONData = JsonUtility.ToJson(_data);
+        if (JSONData.Length != 0) 
+        {
+          Debug.Log("JSON STRING: " +  JSONData);
+            CreateFile(_fileName, ".json", JSONData);
+        
+        }
+          else
+        {
+            Debug.LogWarning("File System: string JSONData is empty, please check saved object" +  _fileName);
+        }
+    }
      void Start()
     {
+        PlayerData p = new PlayerData("Camila", "Sword", 123456);
+        SaveToJSON(p.Name, p);
         //CreateFile();
         SaveObjectPosition(obj.transform);
         string data = ReadFile("example", ".txt");
