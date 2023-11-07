@@ -5,12 +5,12 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour
 {
     public  List<CR_character> characters;
-
+    public CR_character CharData;
     // Start is called before the first frame update
     void Start()
     {
         characters = new List<CR_character>();
-        CR_character CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
+        CharData = FileSystem.instance.LoadFromJSON<CR_character>("characters");
         characters.Add(CharData);
     }
 
