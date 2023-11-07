@@ -136,7 +136,16 @@ public class FileSystem : MonoBehaviour
     {
         // creamos un nuevo formateador de binario
        
-        BinaryFormatter binaryFormatter = new BinaryFormatter();
+        BinaryFormatter bf = new BinaryFormatter();
+        // obtener el patch para guardar y asignar el nombre del archivo 
+        string path= Application.dataPath + "/" + _fileName + ".file";
+        // Crear un nuevo archivo 
+        FileStream stream = new FileStream(path, FileMode.Create);
+        // serializamos la informacion y guardamos el archivo
+        bf.Serialize(stream, _data);
+        // Cerramos el archivo 
+        stream.Close();
+
     }
      void Start()
     {
