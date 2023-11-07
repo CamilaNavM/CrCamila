@@ -132,7 +132,7 @@ public class FileSystem : MonoBehaviour
 
     }
 
-    T LoadFromJSON<T>(string _fileName) where T : new()
+    T LoadFromJSON<T>(string _fileName) where T: new()
     {
         T data = new T();
         string JSONData = ReadFile(_fileName, ".json");
@@ -165,8 +165,8 @@ public class FileSystem : MonoBehaviour
     }
      void Start()
     {
-        
-        p = (PlayerData)LoadFromJSON("Camila");
+        SaveToBinary("Yesme", p);
+        p = LoadFromJSON<PlayerData>("Camila");
         //SaveToJSON(p.Name, p);
         //CreateFile();
         SaveObjectPosition(obj.transform);
