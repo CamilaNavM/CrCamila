@@ -112,9 +112,9 @@ public class FileSystem : MonoBehaviour
         }
     }
 
-    object LoadFromJSON(string _fileName) 
+    PlayerData LoadFromJSON(string _fileName) 
     {
-        object data = null;
+        PlayerData data = new PlayerData();
         string JSONData = ReadFile(_fileName, ".json");
         if (JSONData.Length != 0)
         {
@@ -130,6 +130,22 @@ public class FileSystem : MonoBehaviour
 
         return data;
 
+    }
+
+    T LoadFromJSON<T>(string _fileName) where T : new()
+    {
+        T data = new T();
+        string JSONData = ReadFile(_fileName, ".json");
+        if (JSONData.Length != 0)
+        {
+            Debug.Log("DATA FROM FILE: " + JSONData);
+            JsonUtility.FromJsonOverwrite(JSONData, data);
+        }
+        else
+        {
+            Debug.LogWarning("File system: string JSONData FROM LoadFromJSON is empty, please check string");
+        }
+        return data;
     }
 
     public void SaveToBinary(string _fileName, object _data)
