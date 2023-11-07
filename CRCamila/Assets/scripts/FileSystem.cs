@@ -2,22 +2,37 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
-using TMPro;
 using System;
 using UnityEngine.UIElements;
 using System.Runtime.Serialization.Formatters.Binary;
 
 public class FileSystem : MonoBehaviour
 {
+    public static FileSystem instance;
     public GameObject obj;
     public GameObject obj2;
     public bool isSavingPosition = false;
 
     public PlayerData p;
+
+    private void Awake()
+    {
+        if (instance! == null)
+        {
+            return;
+        }
+        else
+        {
+            instance = this;
+        }
+    }
     void CreateFile(string _fileName, string _extension, string _data)
     {
         //1) Acceder al path del archivo 
-        string path = Application.dataPath + "/resources/" + _fileName + _extension;
+        string fileName = "example";
+        string extension = ".txt";
+
+        string path = Application.dataPath + "/resources/" + fileName + extension;
         // 2) Crear un archivo, si no existe otro con el mismo nombre
         if (!File.Exists(path))
         {
@@ -32,7 +47,7 @@ public class FileSystem : MonoBehaviour
 
     void SaveObjectPosition(Transform _objTransform) 
     {
-        string fileName = "Position2";
+        string fileName = "Camila";
         string extension = ".txt";
         string path = Application.dataPath + "/resources/" + fileName + extension;
         // 2) Crear un archivo, si no existe otro con el mismo nombre
@@ -105,31 +120,11 @@ public class FileSystem : MonoBehaviour
             CreateFile(_fileName, ".json", JSONData);
         
         }
-          else
-        {
-            
-            Debug.LogWarning("File System: string JSONData is empty, please check saved object");
-        }
-    }
-
-    PlayerData LoadFromJSON(string _fileName) 
-    {
-        PlayerData data = new PlayerData();
-        string JSONData = ReadFile(_fileName, ".json");
-        if (JSONData.Length != 0)
-        {
-            Debug.Log("DATA FROM FILE: " + JSONData);
-            JsonUtility.FromJsonOverwrite(JSONData, data);
-        }
         else
         {
-
-            Debug.LogWarning("File System: string JSONData from LoadFromJSON, please check string");
+            Debug.LogWarning("File System: string JSONData is empty, please check saved object");
         }
         
-
-        return data;
-
     }
 
     T LoadFromJSON<T>(string _fileName) where T: new()
@@ -138,12 +133,12 @@ public class FileSystem : MonoBehaviour
         string JSONData = ReadFile(_fileName, ".json");
         if (JSONData.Length != 0)
         {
-            Debug.Log("DATA FROM FILE: " + JSONData);
+            Debug.Log("DATA FROM FILE:" + JSONData);
             JsonUtility.FromJsonOverwrite(JSONData, data);
         }
         else
         {
-            Debug.LogWarning("File system: string JSONData FROM LoadFromJSON is empty, please check string");
+            Debug.LogWarning("File system: string JSONData is empty, please check saved object");
         }
         return data;
     }

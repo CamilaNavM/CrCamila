@@ -27,4 +27,8 @@ public class PlayerData
       
     
     }
+    public void save()
+    {
+        FileSystem.instance.SaveToBinary("PlayerData", this);
+    }
 }
