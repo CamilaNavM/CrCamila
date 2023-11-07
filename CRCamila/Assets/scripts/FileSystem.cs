@@ -131,6 +131,13 @@ public class FileSystem : MonoBehaviour
         return data;
 
     }
+
+    public void SaveToBinary(string _fileName, object _data)
+    {
+        // creamos un nuevo formateador de binario
+       
+        BinaryFormatter binaryFormatter = new BinaryFormatter();
+    }
      void Start()
     {
         

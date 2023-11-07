@@ -16,5 +16,9 @@ public class PlayerData
         Description = _descripcion;
         id = _id;
     }
+    public PlayerData(PlayerData _data)
+    {
+      
     
+    }
 }
