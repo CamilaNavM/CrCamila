@@ -93,8 +93,8 @@ public class FileSystem : MonoBehaviour
         if (components.Length == 3)
         {
             if (float.TryParse(components[0], out float x) &&
-                float.TryParse(components[1],out float y)&&
-                float.TryParse(components[2],out float z))
+                float.TryParse(components[0],out float y)&&
+                float.TryParse(components[0],out float z))
             {
                 result = new Vector3(x, y, z);
             }
@@ -106,7 +106,7 @@ public class FileSystem : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("El formato del string no es válido");
+            Debug.LogWarning("El formato del string no es valido");
         }
         return result;
     }
@@ -127,7 +127,7 @@ public class FileSystem : MonoBehaviour
         
     }
 
-    T LoadFromJSON<T>(string _fileName) where T: new()
+    public T LoadFromJSON<T>(string _fileName) where T : new()
     {
         T data = new T();
         string JSONData = ReadFile(_fileName, ".json");
@@ -138,7 +138,7 @@ public class FileSystem : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("File system: string JSONData is empty, please check saved object");
+            Debug.LogWarning("File System: string JSONData is empty, please check saved object");
         }
         return data;
     }
@@ -149,7 +149,7 @@ public class FileSystem : MonoBehaviour
        
         BinaryFormatter bf = new BinaryFormatter();
         // obtener el patch para guardar y asignar el nombre del archivo 
-        string path= Application.dataPath + "/" + _fileName + ".file";
+        string path= Application.dataPath + "/Resources/" + _fileName + ".file";
         // Crear un nuevo archivo 
         FileStream stream = new FileStream(path, FileMode.Create);
         // serializamos la informacion y guardamos el archivo
@@ -158,15 +158,15 @@ public class FileSystem : MonoBehaviour
         stream.Close();
 
     }
-     void Start()
-    {
-        SaveToBinary("Yesme", p);
-        p = LoadFromJSON<PlayerData>("Camila");
+     //void Start()
+   // {
+       // SaveToBinary("CamiSSJ", p);
+        //p = LoadFromJSON<PlayerData>("Camila");
         //SaveToJSON(p.Name, p);
         //CreateFile();
-        SaveObjectPosition(obj.transform);
-        string data = ReadFile("example", ".txt");
-        Debug.Log("Informacion del archivo: \n" + data);
+       // SaveObjectPosition(obj.transform);
+       /// string data = ReadFile("example", "_txt");
+       /// Debug.Log("Informacion del archivo: \n" + data);
         // 1) Guarda la posicion en un nuevo archivo
         
 
@@ -174,12 +174,8 @@ public class FileSystem : MonoBehaviour
         
        // 3) Asigna esos datos en un nuevo objeto
         
-        obj2.transform.position = ParseStringToVector3(data);
-
-
-
-        
-    }
+        //obj2.transform.position = ParseStringToVector3(data);
+     //  }
 
      void Update()
     {

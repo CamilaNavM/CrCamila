@@ -747,6 +747,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 159848384}
   m_CullTransparentMesh: 1
+--- !u!1 &182939608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 182939609}
+  - component: {fileID: 182939610}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &182939609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182939608}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.6275184, y: 0.281267, z: -10.107856}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &182939610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182939608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81de0c089cba25448852dd3321087aad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characters: []
 --- !u!1 &184176828
 GameObject:
   m_ObjectHideFlags: 0
@@ -3387,6 +3432,14 @@ PrefabInstance:
       propertyPath: obj2
       value: 
       objectReference: {fileID: 531814401}
+    - target: {fileID: 2045188332170455766, guid: 896c5fc17cb8e7b4bb24c57950d098d7, type: 3}
+      propertyPath: p.id
+      value: 12536
+      objectReference: {fileID: 0}
+    - target: {fileID: 2045188332170455766, guid: 896c5fc17cb8e7b4bb24c57950d098d7, type: 3}
+      propertyPath: p.Name
+      value: Camila
+      objectReference: {fileID: 0}
     - target: {fileID: 4793345249279712660, guid: 896c5fc17cb8e7b4bb24c57950d098d7, type: 3}
       propertyPath: m_Name
       value: FileSystem
@@ -7606,3 +7659,4 @@ SceneRoots:
   - {fileID: 1644772825}
   - {fileID: 1302663272}
   - {fileID: 531814403}
+  - {fileID: 182939609}
