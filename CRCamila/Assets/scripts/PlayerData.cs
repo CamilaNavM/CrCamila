@@ -10,6 +10,12 @@ public class PlayerData
     public string Description;
     public string[] Data;
     public int id;
+
+    public PlayerData() 
+    {
+    
+    
+    }
     public PlayerData(string _name, string _descripcion, int _id)
     {
         Name = _name;
