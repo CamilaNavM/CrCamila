@@ -747,231 +747,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 159848384}
   m_CullTransparentMesh: 1
---- !u!1 &182939608
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 182939609}
-  - component: {fileID: 182939610}
-  m_Layer: 0
-  m_Name: LevelManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &182939609
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 182939608}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.6275184, y: 0.281267, z: -10.107856}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &182939610
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 182939608}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81de0c089cba25448852dd3321087aad, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  characters: []
-  CharData:
-    name: 
-    rarity: 
-    sightRange: 0
-    deployTime: 0
-    chargeRange: 0
-    speed: 0
-    hitpoints: 0
-    hitSpeed: 0
-    loadTime: 0
-    damage: 0
-    damageSpecial: 0
-    crownTowerDamagePercent: 0
-    loadFirstHit: 0
-    loadAfterRetarget: 0
-    stopTimeAfterAttack: 0
-    stopTimeAfterSpecialAttack: 0
-    multipleProjectiles: 0
-    multipleTargets: 0
-    allTargetsHit: 0
-    range: 0
-    minimumRange: 0
-    specialMinRange: 0
-    specialRange: 0
-    specialLoadTime: 0
-    attacksGround: 0
-    attacksAir: 0
-    deathDamageRadius: 0
-    deathDamage: 0
-    deathPushBack: 0
-    attackPushBack: 0
-    lifeTime: 0
-    areaDamageRadius: 0
-    targetOnlyBuildings: 0
-    targetOnlyTroops: 0
-    specialAttackInterval: 0
-    buffOnDamageTime: 0
-    startingBuffTime: 0
-    fileName: 
-    blueExportName: 
-    redExportName: 
-    useAnimator: 0
-    attachedCharacterHeight: 0
-    damageEffect: 
-    deathEffect: 
-    moveEffect: 
-    loopMoveEffect: 0
-    spawnEffect: 
-    spawnEffectOnce: 0
-    crowdEffects: 0
-    shadowScaleX: 0
-    shadowScaleY: 0
-    shadowX: 0
-    shadowY: 0
-    shadowSkew: 0
-    pushback: 0
-    ignorePushback: 0
-    scale: 0
-    collisionRadius: 0
-    mass: 0
-    tileSizeOverride: 0
-    areaBuffTime: 0
-    areaBuffRadius: 0
-    healthBar: 
-    healthBarOffsetY: 0
-    showHealthNumber: 0
-    flyingHeight: 0
-    flyDirectPaths: 0
-    flyFromGround: 0
-    damageExportName: 
-    growTime: 0
-    growSize: 0
-    healOnMorph: 0
-    morphTime: 0
-    morphKeepTarget: 0
-    attackStartEffect: 
-    dashImmuneToDamageTime: 0
-    dashCooldown: 0
-    jumpHeight: 0
-    dashPushBack: 0
-    dashRadius: 0
-    dashDamage: 0
-    dashConstantTime: 0
-    dashLandingTime: 0
-    dashMinRange: 0
-    dashMaxRange: 0
-    dashDistance: 0
-    dashOnlyOnce: 0
-    dashingDamage: 0
-    dashingPushback: 0
-    jumpSpeed: 0
-    spawnStartTime: 0
-    spawnInterval: 0
-    spawnNumber: 0
-    spawnLimit: 0
-    destroyAtLimit: 0
-    spawnPauseTime: 0
-    spawnCharacterLevelIndex: 0
-    spawnCharacterLevelIndex2: 0
-    spawnCharacterLevelIndex3: 0
-    spawnRadius: 0
-    spawnAttach: 0
-    deathSpawnCount: 0
-    deathSpawnCount2: 0
-    deathSpawnRadius: 0
-    deathSpawnMinRadius: 0
-    spawnAngleShift: 0
-    spawnMaxAngle: 0
-    deathSpawnDeployTime: 0
-    deathSpawnPushback: 0
-    deathInheritIgnoreList: 0
-    kamikaze: 0
-    kamikazeTime: 0
-    spawnPathfindSpeed: 0
-    spawnPushback: 0
-    spawnPushbackRadius: 0
-    spawnAreaObjectLevelIndex: 0
-    projectileStartRadius: 0
-    projectileStartZ: 0
-    stopMovementAfterMS: 0
-    waitMS: 0
-    dontStopMoveAnim: 0
-    isSummonerTower: 0
-    noDeploySizeW: 0
-    noDeploySizeH: 0
-    TID: 
-    variableDamage2: 0
-    variableDamageTime1: 0
-    variableDamage3: 0
-    variableDamageTime2: 0
-    targetEffectY: 0
-    selfAsAoeCenter: 0
-    hidesWhenNotAttacking: 0
-    hideTimeMs: 0
-    hideBeforeFirstHit: 0
-    specialAttackWhenHidden: 0
-    targetedEffectVisualPushback: 0
-    upTimeMs: 0
-    appearPushbackRadius: 0
-    appearPushback: 0
-    manaCollectAmount: 0
-    manaGenerateTimeMs: 0
-    manaGenerateLimit: 0
-    hasRotationOnTimeline: 0
-    turretMovement: 0
-    projectileYOffset: 0
-    chargeSpeedMultiplier: 0
-    deployDelay: 0
-    deployBaseAnimExportName: 
-    jumpEnabled: 0
-    sightClip: 0
-    sightClipSide: 0
-    walkingSpeedTweakPercentage: 0
-    shieldHitpoints: 0
-    shieldDiePushback: 0
-    rotateAngleSpeed: 0
-    deployTimerDelay: 0
-    retargetAfterAttack: 0
-    attackShakeTime: 0
-    visualHitSpeed: 0
-    burst: 0
-    burstDelay: 0
-    burstKeepTarget: 0
-    burstAffectAnimation: 0
-    activationTime: 0
-    attackDashTime: 0
-    buildingTarget: 0
-    spawnConstPriority: 0
-    buffWhenNotAttackingTime: 0
-    attackStateDamage: 0
-    speedBeforeAttack: 0
-    damageBuffOpponentTime: 0
-    damageBuffOpponentRadius: 0
-    damageOpponentDamage: 0
-    deprioritizeTargetsWithBuff: 0
-    overrideAttackFinishTime: 0
-    attackFinishTime: 0
-    scid: 0
-    id: 0
-  dummy: {fileID: 8863256858433372800, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
 --- !u!1 &184176828
 GameObject:
   m_ObjectHideFlags: 0
@@ -2936,7 +2711,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2007692103}
+  - {fileID: 2076792257355413159}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -7606,11 +7381,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1996115067}
   m_CullTransparentMesh: 1
---- !u!224 &2007692103 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 4203025855091978773, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
-  m_PrefabInstance: {fileID: 2076792257355413158}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2077112391
 GameObject:
   m_ObjectHideFlags: 0
@@ -8258,7 +8028,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4203025855091978773, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -427
+      value: -809
       objectReference: {fileID: 0}
     - target: {fileID: 4203025855091978773, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -8285,6 +8055,68 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
+--- !u!224 &2076792257355413159 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 8002119450045749951, guid: 911f728ba9f6a9244a62bee3e4bccfb9, type: 3}
+  m_PrefabInstance: {fileID: 2076792257355413158}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5176285892714971895
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5829571603809451185, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_Name
+      value: LevelManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.6275184
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.281267
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.107856
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096755201797969171, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c41cdcc4c8ded9243bd079e80350eab4, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -8295,6 +8127,6 @@ SceneRoots:
   - {fileID: 1644772825}
   - {fileID: 1302663272}
   - {fileID: 531814403}
-  - {fileID: 182939609}
+  - {fileID: 5176285892714971895}
   - {fileID: 569097712}
   - {fileID: 218736501}
