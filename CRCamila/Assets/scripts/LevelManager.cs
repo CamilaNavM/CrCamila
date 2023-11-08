@@ -33,10 +33,12 @@ public class LevelManager : MonoBehaviour
     {
        
         characters = new List<CR_character>();
-        LoadCharacters("characters");
+        LoadCharacters("characters"); dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+
+        dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
         //CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
         //characters.Add(CharData);
-        dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+        
     }
 
     // Update is called once per frame
