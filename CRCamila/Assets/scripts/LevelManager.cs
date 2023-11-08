@@ -10,7 +10,7 @@ public class LevelManager : MonoBehaviour
     public  List<CR_character> characters;
     public CR_character CharData;
     public GameObject dummy;
-
+    public GameObject card2;
     public void LoadCharacters(string _fileName)
     {
         string path = Application.dataPath + "/resources/" + _fileName + ".json";
@@ -33,7 +33,8 @@ public class LevelManager : MonoBehaviour
     {
        
         characters = new List<CR_character>();
-        LoadCharacters("characters"); dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+        LoadCharacters("Characters"); dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+        LoadCharacters("Characters"); card2.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[1].name;
 
         dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
         //CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
