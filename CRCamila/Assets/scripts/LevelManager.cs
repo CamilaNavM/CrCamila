@@ -25,6 +25,15 @@ public class LevelManager : MonoBehaviour
     public GameObject card14;
     public GameObject card15;
     public GameObject card16;
+    public GameObject card17;
+    public GameObject card18;
+    public GameObject card19;
+    public GameObject card20;
+    public GameObject card21;
+    public GameObject card22;
+    public GameObject card23;
+    public GameObject card24;
+    public GameObject card25;
 
         
     public void LoadCharacters(string _fileName)
@@ -65,6 +74,16 @@ public class LevelManager : MonoBehaviour
         LoadCharacters("Characters"); card14.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[13].name;
         LoadCharacters("Characters"); card15.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[14].name;
         LoadCharacters("Characters"); card16.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[15].name;
+        LoadCharacters("Characters"); card17.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[16].name;
+        LoadCharacters("Characters"); card18.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[17].name;
+        LoadCharacters("Characters"); card19.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[18].name;
+        LoadCharacters("Characters"); card20.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[19].name;
+        LoadCharacters("Characters"); card21.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[20].name;
+        LoadCharacters("Characters"); card22.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[21].name;
+        LoadCharacters("Characters"); card23.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[22].name;
+        LoadCharacters("Characters"); card24.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[23].name;
+        LoadCharacters("Characters"); card25.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[24].name;
+
 
         card1.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
         //CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
