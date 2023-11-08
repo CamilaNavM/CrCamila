@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using SimpleJSON;
+using TMPro;
 
 public class LevelManager : MonoBehaviour
 {
     public  List<CR_character> characters;
     public CR_character CharData;
+    public GameObject dummy;
 
     public void LoadCharacters(string _fileName)
     {
@@ -33,7 +35,8 @@ public class LevelManager : MonoBehaviour
         characters = new List<CR_character>();
         LoadCharacters("characters");
         //CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
-        characters.Add(CharData);
+        //characters.Add(CharData);
+        dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
     }
 
     // Update is called once per frame
