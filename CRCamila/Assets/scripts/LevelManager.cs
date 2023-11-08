@@ -9,7 +9,7 @@ public class LevelManager : MonoBehaviour
 {
     public  List<CR_character> characters;
     public CR_character CharData;
-    public GameObject dummy;
+    public GameObject card1;
     public GameObject card2;
     public GameObject card3;
     public GameObject card4;
@@ -49,7 +49,7 @@ public class LevelManager : MonoBehaviour
     {
        
         characters = new List<CR_character>();
-        LoadCharacters("Characters"); dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+        LoadCharacters("Characters"); card1.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
         LoadCharacters("Characters"); card2.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[1].name;
         LoadCharacters("Characters"); card3.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[2].name;
         LoadCharacters("Characters"); card4.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[3].name;
@@ -66,7 +66,7 @@ public class LevelManager : MonoBehaviour
         LoadCharacters("Characters"); card15.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[14].name;
         LoadCharacters("Characters"); card16.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[15].name;
 
-        dummy.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
+        card1.transform.GetChild(0).GetComponent<TMP_Text>().text = characters[0].name;
         //CharData = FileSystem.instance.LoadFromJSON<CR_character>("knight");
         //characters.Add(CharData);
         
