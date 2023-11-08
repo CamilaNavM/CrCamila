@@ -5,7 +5,7 @@ using System.IO;
 using System;
 using UnityEngine.UIElements;
 using System.Runtime.Serialization.Formatters.Binary;
-
+using UnityEngine.SceneManagement;
 public class FileSystem : MonoBehaviour
 {
     public static FileSystem instance;
@@ -158,8 +158,8 @@ public class FileSystem : MonoBehaviour
         stream.Close();
 
     }
-     //void Start()
-   // {
+     void Start()
+   {
        // SaveToBinary("CamiSSJ", p);
         //p = LoadFromJSON<PlayerData>("Camila");
         //SaveToJSON(p.Name, p);
@@ -175,7 +175,7 @@ public class FileSystem : MonoBehaviour
        // 3) Asigna esos datos en un nuevo objeto
         
         //obj2.transform.position = ParseStringToVector3(data);
-     //  }
+       }
 
      void Update()
     {
