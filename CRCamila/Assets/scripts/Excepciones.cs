@@ -22,6 +22,11 @@ public class Excepciones : MonoBehaviour
         }
         return array[index];
     }
+
+    int CastStringToInt(string _str)
+    {
+        return int.Parse(_str);
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -46,8 +51,21 @@ public class Excepciones : MonoBehaviour
         {
         Debug.LogError("Error: Indice fuera de rango. Detalles: " + ex2.Message);
         }
-        
-        
+
+        try
+        {
+            string str = "pepe";
+            int result = CastStringToInt(str);
+            Debug.Log("Numero convertido: " + result);
+        }
+        catch(FormatException ex3)
+        {
+            Debug.LogError("Error: Formato incorrecto. Detalles: " + ex3.Message);
+        }
+        catch(Exception ex4)
+        { 
+        Debug.LogError("Error general. Detalles: "+ ex4.Message);
+        }
         
     }
 
