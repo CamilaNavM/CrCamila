@@ -13,6 +13,15 @@ public class Excepciones : MonoBehaviour
         }
         return a / b;
     }
+
+    int GetArrayValue(int[] array, int index)
+    {
+        if(index < 0 || index >= array.Length) 
+        {
+            throw new IndexOutOfRangeException("indice fuera de rango. Checate");
+        }
+        return array[index];
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +34,21 @@ public class Excepciones : MonoBehaviour
         {
             Debug.LogError("Error: division por cero: " + exception.Message);
         }
+
+        //acces to an invalid index
+        try
+        {
+            int[] array = { 1, 2, 3, 4, 5, 6, };
+            int val = GetArrayValue(array, 7);
+            Debug.Log("Valor obtenido: " + val);
+        }
+        catch (IndexOutOfRangeException ex2)
+        {
+        Debug.LogError("Error: Indice fuera de rango. Detalles: " + ex2.Message);
+        }
+        
+        
+        
     }
 
     // Update is called once per frame
