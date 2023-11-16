@@ -64,7 +64,7 @@ public class Excepciones : MonoBehaviour
         }
         catch(Exception ex4)
         { 
-        Debug.LogError("Error general. Detalles: "+ ex4.Message);
+        Debug.LogError("Error general. Detalles: " + ex4.Message);
         }
         
     }
