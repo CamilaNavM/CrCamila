@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Excepciones : MonoBehaviour
 {
+    public int runa;
     int divide(int a, int b)
     {
         if (a==0)
@@ -66,6 +67,23 @@ public class Excepciones : MonoBehaviour
         { 
         Debug.LogError("Error general. Detalles: " + ex4.Message);
         }
+
+        try
+        {
+            string Runa = "Runas";
+            int result = CastStringToInt(Runa);
+            Debug.Log("Las runas colectadas son: " + result);
+        }
+
+        catch(Exception ex5)
+        {
+            Debug.LogError("Estas bien menso: Para salir del mapa debes de recolectar 5 runas y obtuviste: " + ex5);
+        }
+
+        
+
+            
+
         
     }
 
